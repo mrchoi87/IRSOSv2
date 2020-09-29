@@ -6,6 +6,11 @@ import store from '@/store'
 import { format, isDate, isValid, parse } from 'date-fns'
 import ko from 'date-fns/locale/ko'
 import VueLodash from 'vue-lodash'
+import cloneDeep from 'lodash/cloneDeep'
+import isNumber from 'lodash/isNumber'
+import remove from 'lodash/remove'
+import extend from 'lodash/extend'
+
 import axios from 'axios'
 import VueAxios from 'vue-axios'
 
@@ -94,7 +99,7 @@ axios.interceptors.response.use(null, error => {
 
 Vue.use(BootstrapVue)
 Vue.use(VueAxios, axios)
-Vue.use(VueLodash, { name: 'lodash' })
+Vue.use(VueLodash, { lodash: { cloneDeep, isNumber, remove, extend } })
 Vue.use(Snotify)
 Vue.use(Scrollspy)
 

@@ -1,5 +1,6 @@
 import store from '@/store'
 import mqtt from 'mqtt'
+import Vue from 'vue'
 
 const options = {
   keepalive: 10,
@@ -19,7 +20,7 @@ function setSubscribe () {
 
   const coupleId = store.getters['cvtgate/getCvtgate'].couple
   // eslint-disable-next-line no-undef
-  let coupleList = _.cloneDeep(store.getters['cvtgate/getDeviceCouple'])
+  const coupleList = Vue._.cloneDeep(store.getters['cvtgate/getDeviceCouple'])
 
   if (coupleList.indexOf(coupleId) <= 0) {
     coupleList.push({ coupleid: coupleId })
@@ -140,7 +141,6 @@ export default (() => {
       if (this.isConnected()) {
         return
       }
-
       client = mqtt.connect(`ws://${host}:9001`, options)
 
       client.on('connect', function () {
