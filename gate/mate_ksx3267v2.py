@@ -144,7 +144,7 @@ class KSX3267MateV2(ThreadMate):
 
         #for unit in range(self._detection["saddr"], self._detection["eaddr"]):
         #mrchoi87
-        for unit in range(10, 12):
+        for unit in range(self._detection["saddr"], 12):
             if self._isdetecting == False or self.isexecuting() == False:
                 self._logger.info("A port " + str(port) + " detection is canceled.")
                 break
