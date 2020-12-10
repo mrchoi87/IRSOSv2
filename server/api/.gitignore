@@ -1,4 +1,14 @@
 package-lock.json
+/../module/database.js/package-lock.json
+/../module/database.js/node_module/
+/../module/farmos.js/package-lock.json
+/../module/farmos.js/node_module/
+/../module/fcore.js/package-lock.json
+/../module/fcore.js/node_module/
+/../module/knu.js/package-lock.json
+/../module/knu.js/node_module/
+/../module/rrw.js/package-lock.json
+/../module/rrw.js/node_module/
 
 # IDE files
 .idea
