@@ -3,10 +3,10 @@
     <span>
       Copyright ©
       <a
-        href="http://www.jinong.co.kr"
+        href="http://k-irs.co.kr"
         target="_blank"
-        title="Jinong"
-      >Jinong</a>.
+        title="IRS"
+      >Int.RobotStudio</a>.
       All rights reserved.
     </span>
   </footer>

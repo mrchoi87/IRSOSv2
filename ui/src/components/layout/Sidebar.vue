@@ -9,11 +9,11 @@
             <div class="peers ai-c fxw-nw">
               <div class="peer">
                 <div class="logo">
-                  <img src="@/assets/img/logo.png" alt />
+                  <img src="@/assets/img/logo_irs.png" alt />
                 </div>
               </div>
               <div class="peer peer-greed">
-                <h5 class="lh-1 mB-0 logo-text">farmos_UI</h5>
+                <h5 class="lh-1 mB-0 logo-text">Int.RobotStudio</h5>
               </div>
             </div>
           </div>

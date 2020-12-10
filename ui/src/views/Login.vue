@@ -17,8 +17,8 @@
       </div>
       <form class="log-in" v-on:submit.prevent>
         <h4>
-          farmos_UI
-          <span>farmos</span>
+          Int. Robot
+          <span>STUDIO</span>
         </h4>
         <p>Welcome back! Log in to your account</p>
         <div class="floating-label">
@@ -268,7 +268,7 @@ $displacement: 3px;
   height: auto;
   min-height: 100%;
   position: relative;
-  background-image: url("https://images.pexels.com/photos/114979/pexels-photo-114979.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940");
+  background-image: url("../assets/img/login_image.png");
   background-size: cover;
   border-top-left-radius: 4px;
   border-bottom-left-radius: 4px;
