@@ -29,7 +29,7 @@ class NodeType(IntEnum):
 class ProtoVer(IntEnum):
     #mrchoi87
     KS_X_3267_2018 = 101
-    #KS_X_3267_2018 = 10
+    KS_X_3267_2018_v1 = 10
     TTA_1 = 201
 
 
@@ -143,7 +143,8 @@ class KSX3267MateV2(ThreadMate):
             return detected
 
         #for unit in range(self._detection["saddr"], self._detection["eaddr"]):
-        for unit in range(11, 12):
+        #mrchoi87
+        for unit in range(10, 12):
             if self._isdetecting == False or self.isexecuting() == False:
                 self._logger.info("A port " + str(port) + " detection is canceled.")
                 break
@@ -173,7 +174,7 @@ class KSX3267MateV2(ThreadMate):
 
 
             elif res.registers[1] in (NodeType.SENNODE, NodeType.ACTNODE, NodeType.INTNODE): # device type
-                if res.registers[3] == ProtoVer.KS_X_3267_2018:
+                if res.registers[3] == ProtoVer.KS_X_3267_2018 or res.registers[3] == ProtoVer.KS_X_3267_2018_v1:
                     info = self.detect_node(conn, unit, res.registers)
                     self._logger.info ("Found a node : " + str(unit) + " " + str(info))
                 else:

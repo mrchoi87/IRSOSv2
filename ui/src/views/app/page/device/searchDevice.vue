@@ -138,9 +138,11 @@ export default {
   },
   watch: {
     'getTryReq.deviceSearch' (newValue, oldValue) {
+      console.log('deviceSearch: ' + oldValue + '->' + newValue)
       this.progressSet()
     },
     'getTryReq.progress' (newValue, oldValue) {
+      console.log('progress: ' + oldValue + '->' + newValue)
       this.progressSet()
     },
     getDeviceItemComplate (newValue, oldValue) {

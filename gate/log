@@ -6324,3 +6324,1032 @@
 [WARNING|mate_ksx3267v2.py:119] 2020-12-09 19:32:29,307 > fail to read holding registers. : Modbus Error: [Connection] Failed to connect[ModbusSerialClient(rtu baud[9600])]
 [WARNING|mate_ksx3267v2.py:437] 2020-12-09 19:32:29,307 > fail to get status from [11,200,["status"]]
 [WARNING|mate_ksx3267v2.py:458] 2020-12-09 19:32:29,307 > fail to read node info : {u'dt': u'nd', u'children': [{u'dt': u'sen', u'children': [], u'id': u'5', u'dk': u'[11,3060,["value","status"]]'}], u'id': u'4', u'dk': u'[11,200,["status"]]'}
+[INFO|mate_ksx3267v2.py:114] 2020-12-09 19:32:32,824 > read register: 11 200 1
+[WARNING|mate_ksx3267v2.py:119] 2020-12-09 19:32:32,824 > fail to read holding registers. : Modbus Error: [Connection] Failed to connect[ModbusSerialClient(rtu baud[9600])]
+[WARNING|mate_ksx3267v2.py:437] 2020-12-09 19:32:32,824 > fail to get status from [11,200,["status"]]
+[WARNING|mate_ksx3267v2.py:458] 2020-12-09 19:32:32,824 > fail to read node info : {u'dt': u'nd', u'children': [{u'dt': u'sen', u'children': [], u'id': u'5', u'dk': u'[11,3060,["value","status"]]'}], u'id': u'4', u'dk': u'[11,200,["status"]]'}
+[INFO|mate_ksx3267v2.py:114] 2020-12-09 19:32:33,325 > read register: 11 3060 3
+[WARNING|mate_ksx3267v2.py:119] 2020-12-09 19:32:33,325 > fail to read holding registers. : Modbus Error: [Connection] Failed to connect[ModbusSerialClient(rtu baud[9600])]
+[WARNING|mate_ksx3267v2.py:437] 2020-12-09 19:32:33,325 > fail to get status from [11,3060,["value","status"]]
+[INFO|mate_ksx3267v2.py:114] 2020-12-09 19:32:36,827 > read register: 11 200 1
+[WARNING|mate_ksx3267v2.py:119] 2020-12-09 19:32:36,827 > fail to read holding registers. : Modbus Error: [Connection] Failed to connect[ModbusSerialClient(rtu baud[9600])]
+[WARNING|mate_ksx3267v2.py:437] 2020-12-09 19:32:36,827 > fail to get status from [11,200,["status"]]
+[WARNING|mate_ksx3267v2.py:458] 2020-12-09 19:32:36,827 > fail to read node info : {u'dt': u'nd', u'children': [{u'dt': u'sen', u'children': [], u'id': u'5', u'dk': u'[11,3060,["value","status"]]'}], u'id': u'4', u'dk': u'[11,200,["status"]]'}
+[INFO|mate_ksx3267v2.py:114] 2020-12-09 19:32:37,328 > read register: 11 3060 3
+[WARNING|mate_ksx3267v2.py:119] 2020-12-09 19:32:37,328 > fail to read holding registers. : Modbus Error: [Connection] Failed to connect[ModbusSerialClient(rtu baud[9600])]
+[WARNING|mate_ksx3267v2.py:437] 2020-12-09 19:32:37,328 > fail to get status from [11,3060,["value","status"]]
+[INFO|mate_ksx3267v2.py:114] 2020-12-09 19:32:37,829 > read register: 11 200 1
+[WARNING|mate_ksx3267v2.py:119] 2020-12-09 19:32:37,830 > fail to read holding registers. : Modbus Error: [Connection] Failed to connect[ModbusSerialClient(rtu baud[9600])]
+[WARNING|mate_ksx3267v2.py:437] 2020-12-09 19:32:37,830 > fail to get status from [11,200,["status"]]
+[WARNING|mate_ksx3267v2.py:458] 2020-12-09 19:32:37,830 > fail to read node info : {u'dt': u'nd', u'children': [{u'dt': u'sen', u'children': [], u'id': u'5', u'dk': u'[11,3060,["value","status"]]'}], u'id': u'4', u'dk': u'[11,200,["status"]]'}
+[INFO|mate_ksx3267v2.py:114] 2020-12-09 19:32:41,348 > read register: 11 200 1
+[WARNING|mate_ksx3267v2.py:119] 2020-12-09 19:32:41,348 > fail to read holding registers. : Modbus Error: [Connection] Failed to connect[ModbusSerialClient(rtu baud[9600])]
+[WARNING|mate_ksx3267v2.py:437] 2020-12-09 19:32:41,348 > fail to get status from [11,200,["status"]]
+[WARNING|mate_ksx3267v2.py:458] 2020-12-09 19:32:41,348 > fail to read node info : {u'dt': u'nd', u'children': [{u'dt': u'sen', u'children': [], u'id': u'5', u'dk': u'[11,3060,["value","status"]]'}], u'id': u'4', u'dk': u'[11,200,["status"]]'}
+[INFO|mate_ksx3267v2.py:114] 2020-12-09 19:32:41,849 > read register: 11 3060 3
+[WARNING|mate_ksx3267v2.py:119] 2020-12-09 19:32:41,849 > fail to read holding registers. : Modbus Error: [Connection] Failed to connect[ModbusSerialClient(rtu baud[9600])]
+[WARNING|mate_ksx3267v2.py:437] 2020-12-09 19:32:41,849 > fail to get status from [11,3060,["value","status"]]
+[INFO|mate_ksx3267v2.py:114] 2020-12-09 19:32:45,353 > read register: 11 200 1
+[WARNING|mate_ksx3267v2.py:119] 2020-12-09 19:32:45,353 > fail to read holding registers. : Modbus Error: [Connection] Failed to connect[ModbusSerialClient(rtu baud[9600])]
+[WARNING|mate_ksx3267v2.py:437] 2020-12-09 19:32:45,353 > fail to get status from [11,200,["status"]]
+[WARNING|mate_ksx3267v2.py:458] 2020-12-09 19:32:45,353 > fail to read node info : {u'dt': u'nd', u'children': [{u'dt': u'sen', u'children': [], u'id': u'5', u'dk': u'[11,3060,["value","status"]]'}], u'id': u'4', u'dk': u'[11,200,["status"]]'}
+[INFO|mate_ksx3267v2.py:114] 2020-12-09 19:32:45,854 > read register: 11 3060 3
+[WARNING|mate_ksx3267v2.py:119] 2020-12-09 19:32:45,854 > fail to read holding registers. : Modbus Error: [Connection] Failed to connect[ModbusSerialClient(rtu baud[9600])]
+[WARNING|mate_ksx3267v2.py:437] 2020-12-09 19:32:45,855 > fail to get status from [11,3060,["value","status"]]
+[INFO|mate_ksx3267v2.py:114] 2020-12-09 19:32:46,355 > read register: 11 200 1
+[WARNING|mate_ksx3267v2.py:119] 2020-12-09 19:32:46,355 > fail to read holding registers. : Modbus Error: [Connection] Failed to connect[ModbusSerialClient(rtu baud[9600])]
+[WARNING|mate_ksx3267v2.py:437] 2020-12-09 19:32:46,355 > fail to get status from [11,200,["status"]]
+[WARNING|mate_ksx3267v2.py:458] 2020-12-09 19:32:46,356 > fail to read node info : {u'dt': u'nd', u'children': [{u'dt': u'sen', u'children': [], u'id': u'5', u'dk': u'[11,3060,["value","status"]]'}], u'id': u'4', u'dk': u'[11,200,["status"]]'}
+[INFO|mate_ksx3267v2.py:114] 2020-12-09 19:32:49,884 > read register: 11 200 1
+[WARNING|mate_ksx3267v2.py:119] 2020-12-09 19:32:49,885 > fail to read holding registers. : Modbus Error: [Connection] Failed to connect[ModbusSerialClient(rtu baud[9600])]
+[WARNING|mate_ksx3267v2.py:437] 2020-12-09 19:32:49,885 > fail to get status from [11,200,["status"]]
+[WARNING|mate_ksx3267v2.py:458] 2020-12-09 19:32:49,886 > fail to read node info : {u'dt': u'nd', u'children': [{u'dt': u'sen', u'children': [], u'id': u'5', u'dk': u'[11,3060,["value","status"]]'}], u'id': u'4', u'dk': u'[11,200,["status"]]'}
+[INFO|mate_ksx3267v2.py:114] 2020-12-09 19:32:50,387 > read register: 11 3060 3
+[WARNING|mate_ksx3267v2.py:119] 2020-12-09 19:32:50,388 > fail to read holding registers. : Modbus Error: [Connection] Failed to connect[ModbusSerialClient(rtu baud[9600])]
+[WARNING|mate_ksx3267v2.py:437] 2020-12-09 19:32:50,388 > fail to get status from [11,3060,["value","status"]]
+[INFO|mate_ksx3267v2.py:114] 2020-12-09 19:32:53,892 > read register: 11 200 1
+[WARNING|mate_ksx3267v2.py:119] 2020-12-09 19:32:53,893 > fail to read holding registers. : Modbus Error: [Connection] Failed to connect[ModbusSerialClient(rtu baud[9600])]
+[WARNING|mate_ksx3267v2.py:437] 2020-12-09 19:32:53,893 > fail to get status from [11,200,["status"]]
+[WARNING|mate_ksx3267v2.py:458] 2020-12-09 19:32:53,894 > fail to read node info : {u'dt': u'nd', u'children': [{u'dt': u'sen', u'children': [], u'id': u'5', u'dk': u'[11,3060,["value","status"]]'}], u'id': u'4', u'dk': u'[11,200,["status"]]'}
+[INFO|mate_ksx3267v2.py:114] 2020-12-09 19:32:54,395 > read register: 11 3060 3
+[WARNING|mate_ksx3267v2.py:119] 2020-12-09 19:32:54,396 > fail to read holding registers. : Modbus Error: [Connection] Failed to connect[ModbusSerialClient(rtu baud[9600])]
+[WARNING|mate_ksx3267v2.py:437] 2020-12-09 19:32:54,396 > fail to get status from [11,3060,["value","status"]]
+[INFO|mate_ksx3267v2.py:114] 2020-12-09 19:32:54,897 > read register: 11 200 1
+[WARNING|mate_ksx3267v2.py:119] 2020-12-09 19:32:54,900 > fail to read holding registers. : Modbus Error: [Connection] Failed to connect[ModbusSerialClient(rtu baud[9600])]
+[WARNING|mate_ksx3267v2.py:437] 2020-12-09 19:32:54,901 > fail to get status from [11,200,["status"]]
+[WARNING|mate_ksx3267v2.py:458] 2020-12-09 19:32:54,901 > fail to read node info : {u'dt': u'nd', u'children': [{u'dt': u'sen', u'children': [], u'id': u'5', u'dk': u'[11,3060,["value","status"]]'}], u'id': u'4', u'dk': u'[11,200,["status"]]'}
+[INFO|mate_ksx3267v2.py:114] 2020-12-09 19:32:58,412 > read register: 11 200 1
+[WARNING|mate_ksx3267v2.py:119] 2020-12-09 19:32:58,413 > fail to read holding registers. : Modbus Error: [Connection] Failed to connect[ModbusSerialClient(rtu baud[9600])]
+[WARNING|mate_ksx3267v2.py:437] 2020-12-09 19:32:58,413 > fail to get status from [11,200,["status"]]
+[WARNING|mate_ksx3267v2.py:458] 2020-12-09 19:32:58,414 > fail to read node info : {u'dt': u'nd', u'children': [{u'dt': u'sen', u'children': [], u'id': u'5', u'dk': u'[11,3060,["value","status"]]'}], u'id': u'4', u'dk': u'[11,200,["status"]]'}
+[INFO|mate_ksx3267v2.py:114] 2020-12-09 19:32:58,915 > read register: 11 3060 3
+[WARNING|mate_ksx3267v2.py:119] 2020-12-09 19:32:58,916 > fail to read holding registers. : Modbus Error: [Connection] Failed to connect[ModbusSerialClient(rtu baud[9600])]
+[WARNING|mate_ksx3267v2.py:437] 2020-12-09 19:32:58,916 > fail to get status from [11,3060,["value","status"]]
+[INFO|mate_ksx3267v2.py:114] 2020-12-09 19:33:02,420 > read register: 11 200 1
+[WARNING|mate_ksx3267v2.py:119] 2020-12-09 19:33:02,421 > fail to read holding registers. : Modbus Error: [Connection] Failed to connect[ModbusSerialClient(rtu baud[9600])]
+[WARNING|mate_ksx3267v2.py:437] 2020-12-09 19:33:02,422 > fail to get status from [11,200,["status"]]
+[WARNING|mate_ksx3267v2.py:458] 2020-12-09 19:33:02,422 > fail to read node info : {u'dt': u'nd', u'children': [{u'dt': u'sen', u'children': [], u'id': u'5', u'dk': u'[11,3060,["value","status"]]'}], u'id': u'4', u'dk': u'[11,200,["status"]]'}
+[INFO|mate_ksx3267v2.py:114] 2020-12-09 19:33:02,923 > read register: 11 3060 3
+[WARNING|mate_ksx3267v2.py:119] 2020-12-09 19:33:02,924 > fail to read holding registers. : Modbus Error: [Connection] Failed to connect[ModbusSerialClient(rtu baud[9600])]
+[WARNING|mate_ksx3267v2.py:437] 2020-12-09 19:33:02,924 > fail to get status from [11,3060,["value","status"]]
+[INFO|mate_ksx3267v2.py:114] 2020-12-09 19:33:03,428 > read register: 11 200 1
+[WARNING|mate_ksx3267v2.py:119] 2020-12-09 19:33:03,429 > fail to read holding registers. : Modbus Error: [Connection] Failed to connect[ModbusSerialClient(rtu baud[9600])]
+[WARNING|mate_ksx3267v2.py:437] 2020-12-09 19:33:03,431 > fail to get status from [11,200,["status"]]
+[WARNING|mate_ksx3267v2.py:458] 2020-12-09 19:33:03,432 > fail to read node info : {u'dt': u'nd', u'children': [{u'dt': u'sen', u'children': [], u'id': u'5', u'dk': u'[11,3060,["value","status"]]'}], u'id': u'4', u'dk': u'[11,200,["status"]]'}
+[INFO|mate_ksx3267v2.py:114] 2020-12-09 19:33:06,948 > read register: 11 200 1
+[WARNING|mate_ksx3267v2.py:119] 2020-12-09 19:33:06,949 > fail to read holding registers. : Modbus Error: [Connection] Failed to connect[ModbusSerialClient(rtu baud[9600])]
+[WARNING|mate_ksx3267v2.py:437] 2020-12-09 19:33:06,949 > fail to get status from [11,200,["status"]]
+[WARNING|mate_ksx3267v2.py:458] 2020-12-09 19:33:06,950 > fail to read node info : {u'dt': u'nd', u'children': [{u'dt': u'sen', u'children': [], u'id': u'5', u'dk': u'[11,3060,["value","status"]]'}], u'id': u'4', u'dk': u'[11,200,["status"]]'}
+[INFO|mate_ksx3267v2.py:114] 2020-12-09 19:33:07,451 > read register: 11 3060 3
+[WARNING|mate_ksx3267v2.py:119] 2020-12-09 19:33:07,451 > fail to read holding registers. : Modbus Error: [Connection] Failed to connect[ModbusSerialClient(rtu baud[9600])]
+[WARNING|mate_ksx3267v2.py:437] 2020-12-09 19:33:07,452 > fail to get status from [11,3060,["value","status"]]
+[INFO|mate_ksx3267v2.py:114] 2020-12-09 19:33:10,955 > read register: 11 200 1
+[WARNING|mate_ksx3267v2.py:119] 2020-12-09 19:33:10,956 > fail to read holding registers. : Modbus Error: [Connection] Failed to connect[ModbusSerialClient(rtu baud[9600])]
+[WARNING|mate_ksx3267v2.py:437] 2020-12-09 19:33:10,956 > fail to get status from [11,200,["status"]]
+[WARNING|mate_ksx3267v2.py:458] 2020-12-09 19:33:10,957 > fail to read node info : {u'dt': u'nd', u'children': [{u'dt': u'sen', u'children': [], u'id': u'5', u'dk': u'[11,3060,["value","status"]]'}], u'id': u'4', u'dk': u'[11,200,["status"]]'}
+[INFO|mate_ksx3267v2.py:114] 2020-12-09 19:33:11,458 > read register: 11 3060 3
+[WARNING|mate_ksx3267v2.py:119] 2020-12-09 19:33:11,459 > fail to read holding registers. : Modbus Error: [Connection] Failed to connect[ModbusSerialClient(rtu baud[9600])]
+[WARNING|mate_ksx3267v2.py:437] 2020-12-09 19:33:11,459 > fail to get status from [11,3060,["value","status"]]
+[INFO|mate_ksx3267v2.py:114] 2020-12-09 19:33:11,960 > read register: 11 200 1
+[WARNING|mate_ksx3267v2.py:119] 2020-12-09 19:33:11,961 > fail to read holding registers. : Modbus Error: [Connection] Failed to connect[ModbusSerialClient(rtu baud[9600])]
+[WARNING|mate_ksx3267v2.py:437] 2020-12-09 19:33:11,962 > fail to get status from [11,200,["status"]]
+[WARNING|mate_ksx3267v2.py:458] 2020-12-09 19:33:11,962 > fail to read node info : {u'dt': u'nd', u'children': [{u'dt': u'sen', u'children': [], u'id': u'5', u'dk': u'[11,3060,["value","status"]]'}], u'id': u'4', u'dk': u'[11,200,["status"]]'}
+[INFO|mate_ksx3267v2.py:114] 2020-12-09 19:33:15,496 > read register: 11 200 1
+[WARNING|mate_ksx3267v2.py:119] 2020-12-09 19:33:15,497 > fail to read holding registers. : Modbus Error: [Connection] Failed to connect[ModbusSerialClient(rtu baud[9600])]
+[WARNING|mate_ksx3267v2.py:437] 2020-12-09 19:33:15,497 > fail to get status from [11,200,["status"]]
+[WARNING|mate_ksx3267v2.py:458] 2020-12-09 19:33:15,498 > fail to read node info : {u'dt': u'nd', u'children': [{u'dt': u'sen', u'children': [], u'id': u'5', u'dk': u'[11,3060,["value","status"]]'}], u'id': u'4', u'dk': u'[11,200,["status"]]'}
+[INFO|mate_ksx3267v2.py:114] 2020-12-09 19:33:15,999 > read register: 11 3060 3
+[WARNING|mate_ksx3267v2.py:119] 2020-12-09 19:33:16,000 > fail to read holding registers. : Modbus Error: [Connection] Failed to connect[ModbusSerialClient(rtu baud[9600])]
+[WARNING|mate_ksx3267v2.py:437] 2020-12-09 19:33:16,000 > fail to get status from [11,3060,["value","status"]]
+[INFO|mate_ksx3267v2.py:114] 2020-12-09 19:33:19,504 > read register: 11 200 1
+[WARNING|mate_ksx3267v2.py:119] 2020-12-09 19:33:19,505 > fail to read holding registers. : Modbus Error: [Connection] Failed to connect[ModbusSerialClient(rtu baud[9600])]
+[WARNING|mate_ksx3267v2.py:437] 2020-12-09 19:33:19,505 > fail to get status from [11,200,["status"]]
+[WARNING|mate_ksx3267v2.py:458] 2020-12-09 19:33:19,506 > fail to read node info : {u'dt': u'nd', u'children': [{u'dt': u'sen', u'children': [], u'id': u'5', u'dk': u'[11,3060,["value","status"]]'}], u'id': u'4', u'dk': u'[11,200,["status"]]'}
+[INFO|mate_ksx3267v2.py:114] 2020-12-09 19:33:20,007 > read register: 11 3060 3
+[WARNING|mate_ksx3267v2.py:119] 2020-12-09 19:33:20,008 > fail to read holding registers. : Modbus Error: [Connection] Failed to connect[ModbusSerialClient(rtu baud[9600])]
+[WARNING|mate_ksx3267v2.py:437] 2020-12-09 19:33:20,008 > fail to get status from [11,3060,["value","status"]]
+[INFO|mate_ksx3267v2.py:114] 2020-12-09 19:33:20,509 > read register: 11 200 1
+[WARNING|mate_ksx3267v2.py:119] 2020-12-09 19:33:20,510 > fail to read holding registers. : Modbus Error: [Connection] Failed to connect[ModbusSerialClient(rtu baud[9600])]
+[WARNING|mate_ksx3267v2.py:437] 2020-12-09 19:33:20,510 > fail to get status from [11,200,["status"]]
+[WARNING|mate_ksx3267v2.py:458] 2020-12-09 19:33:20,511 > fail to read node info : {u'dt': u'nd', u'children': [{u'dt': u'sen', u'children': [], u'id': u'5', u'dk': u'[11,3060,["value","status"]]'}], u'id': u'4', u'dk': u'[11,200,["status"]]'}
+[INFO|mate_ksx3267v2.py:114] 2020-12-09 19:33:24,036 > read register: 11 200 1
+[WARNING|mate_ksx3267v2.py:119] 2020-12-09 19:33:24,037 > fail to read holding registers. : Modbus Error: [Connection] Failed to connect[ModbusSerialClient(rtu baud[9600])]
+[WARNING|mate_ksx3267v2.py:437] 2020-12-09 19:33:24,037 > fail to get status from [11,200,["status"]]
+[WARNING|mate_ksx3267v2.py:458] 2020-12-09 19:33:24,038 > fail to read node info : {u'dt': u'nd', u'children': [{u'dt': u'sen', u'children': [], u'id': u'5', u'dk': u'[11,3060,["value","status"]]'}], u'id': u'4', u'dk': u'[11,200,["status"]]'}
+[INFO|mate_ksx3267v2.py:114] 2020-12-09 19:33:24,539 > read register: 11 3060 3
+[WARNING|mate_ksx3267v2.py:119] 2020-12-09 19:33:24,540 > fail to read holding registers. : Modbus Error: [Connection] Failed to connect[ModbusSerialClient(rtu baud[9600])]
+[WARNING|mate_ksx3267v2.py:437] 2020-12-09 19:33:24,540 > fail to get status from [11,3060,["value","status"]]
+[INFO|mate_ksx3267v2.py:114] 2020-12-09 19:33:28,044 > read register: 11 200 1
+[WARNING|mate_ksx3267v2.py:119] 2020-12-09 19:33:28,044 > fail to read holding registers. : Modbus Error: [Connection] Failed to connect[ModbusSerialClient(rtu baud[9600])]
+[WARNING|mate_ksx3267v2.py:437] 2020-12-09 19:33:28,044 > fail to get status from [11,200,["status"]]
+[WARNING|mate_ksx3267v2.py:458] 2020-12-09 19:33:28,044 > fail to read node info : {u'dt': u'nd', u'children': [{u'dt': u'sen', u'children': [], u'id': u'5', u'dk': u'[11,3060,["value","status"]]'}], u'id': u'4', u'dk': u'[11,200,["status"]]'}
+[INFO|mate_ksx3267v2.py:114] 2020-12-09 19:33:28,545 > read register: 11 3060 3
+[WARNING|mate_ksx3267v2.py:119] 2020-12-09 19:33:28,545 > fail to read holding registers. : Modbus Error: [Connection] Failed to connect[ModbusSerialClient(rtu baud[9600])]
+[WARNING|mate_ksx3267v2.py:437] 2020-12-09 19:33:28,545 > fail to get status from [11,3060,["value","status"]]
+[INFO|mate_ksx3267v2.py:114] 2020-12-09 19:33:29,046 > read register: 11 200 1
+[WARNING|mate_ksx3267v2.py:119] 2020-12-09 19:33:29,048 > fail to read holding registers. : Modbus Error: [Connection] Failed to connect[ModbusSerialClient(rtu baud[9600])]
+[WARNING|mate_ksx3267v2.py:437] 2020-12-09 19:33:29,048 > fail to get status from [11,200,["status"]]
+[WARNING|mate_ksx3267v2.py:458] 2020-12-09 19:33:29,048 > fail to read node info : {u'dt': u'nd', u'children': [{u'dt': u'sen', u'children': [], u'id': u'5', u'dk': u'[11,3060,["value","status"]]'}], u'id': u'4', u'dk': u'[11,200,["status"]]'}
+[INFO|mate_ksx3267v2.py:114] 2020-12-09 19:33:32,595 > read register: 11 200 1
+[WARNING|mate_ksx3267v2.py:119] 2020-12-09 19:33:32,595 > fail to read holding registers. : Modbus Error: [Connection] Failed to connect[ModbusSerialClient(rtu baud[9600])]
+[WARNING|mate_ksx3267v2.py:437] 2020-12-09 19:33:32,595 > fail to get status from [11,200,["status"]]
+[WARNING|mate_ksx3267v2.py:458] 2020-12-09 19:33:32,596 > fail to read node info : {u'dt': u'nd', u'children': [{u'dt': u'sen', u'children': [], u'id': u'5', u'dk': u'[11,3060,["value","status"]]'}], u'id': u'4', u'dk': u'[11,200,["status"]]'}
+[INFO|mate_ksx3267v2.py:114] 2020-12-09 19:33:33,096 > read register: 11 3060 3
+[WARNING|mate_ksx3267v2.py:119] 2020-12-09 19:33:33,097 > fail to read holding registers. : Modbus Error: [Connection] Failed to connect[ModbusSerialClient(rtu baud[9600])]
+[WARNING|mate_ksx3267v2.py:437] 2020-12-09 19:33:33,097 > fail to get status from [11,3060,["value","status"]]
+[INFO|mate_ksx3267v2.py:114] 2020-12-09 19:33:36,600 > read register: 11 200 1
+[WARNING|mate_ksx3267v2.py:119] 2020-12-09 19:33:36,600 > fail to read holding registers. : Modbus Error: [Connection] Failed to connect[ModbusSerialClient(rtu baud[9600])]
+[WARNING|mate_ksx3267v2.py:437] 2020-12-09 19:33:36,600 > fail to get status from [11,200,["status"]]
+[WARNING|mate_ksx3267v2.py:458] 2020-12-09 19:33:36,600 > fail to read node info : {u'dt': u'nd', u'children': [{u'dt': u'sen', u'children': [], u'id': u'5', u'dk': u'[11,3060,["value","status"]]'}], u'id': u'4', u'dk': u'[11,200,["status"]]'}
+[INFO|mate_ksx3267v2.py:114] 2020-12-09 19:33:37,101 > read register: 11 3060 3
+[WARNING|mate_ksx3267v2.py:119] 2020-12-09 19:33:37,101 > fail to read holding registers. : Modbus Error: [Connection] Failed to connect[ModbusSerialClient(rtu baud[9600])]
+[WARNING|mate_ksx3267v2.py:437] 2020-12-09 19:33:37,101 > fail to get status from [11,3060,["value","status"]]
+[INFO|mate_ksx3267v2.py:114] 2020-12-09 19:33:37,602 > read register: 11 200 1
+[WARNING|mate_ksx3267v2.py:119] 2020-12-09 19:33:37,602 > fail to read holding registers. : Modbus Error: [Connection] Failed to connect[ModbusSerialClient(rtu baud[9600])]
+[WARNING|mate_ksx3267v2.py:437] 2020-12-09 19:33:37,604 > fail to get status from [11,200,["status"]]
+[WARNING|mate_ksx3267v2.py:458] 2020-12-09 19:33:37,604 > fail to read node info : {u'dt': u'nd', u'children': [{u'dt': u'sen', u'children': [], u'id': u'5', u'dk': u'[11,3060,["value","status"]]'}], u'id': u'4', u'dk': u'[11,200,["status"]]'}
+[INFO|mate_ksx3267v2.py:114] 2020-12-09 19:33:41,113 > read register: 11 200 1
+[WARNING|mate_ksx3267v2.py:119] 2020-12-09 19:33:41,114 > fail to read holding registers. : Modbus Error: [Connection] Failed to connect[ModbusSerialClient(rtu baud[9600])]
+[WARNING|mate_ksx3267v2.py:437] 2020-12-09 19:33:41,114 > fail to get status from [11,200,["status"]]
+[WARNING|mate_ksx3267v2.py:458] 2020-12-09 19:33:41,114 > fail to read node info : {u'dt': u'nd', u'children': [{u'dt': u'sen', u'children': [], u'id': u'5', u'dk': u'[11,3060,["value","status"]]'}], u'id': u'4', u'dk': u'[11,200,["status"]]'}
+[INFO|mate_ksx3267v2.py:114] 2020-12-09 19:33:41,615 > read register: 11 3060 3
+[WARNING|mate_ksx3267v2.py:119] 2020-12-09 19:33:41,615 > fail to read holding registers. : Modbus Error: [Connection] Failed to connect[ModbusSerialClient(rtu baud[9600])]
+[WARNING|mate_ksx3267v2.py:437] 2020-12-09 19:33:41,615 > fail to get status from [11,3060,["value","status"]]
+[INFO|mate_ksx3267v2.py:114] 2020-12-09 19:33:45,119 > read register: 11 200 1
+[WARNING|mate_ksx3267v2.py:119] 2020-12-09 19:33:45,120 > fail to read holding registers. : Modbus Error: [Connection] Failed to connect[ModbusSerialClient(rtu baud[9600])]
+[WARNING|mate_ksx3267v2.py:437] 2020-12-09 19:33:45,120 > fail to get status from [11,200,["status"]]
+[WARNING|mate_ksx3267v2.py:458] 2020-12-09 19:33:45,121 > fail to read node info : {u'dt': u'nd', u'children': [{u'dt': u'sen', u'children': [], u'id': u'5', u'dk': u'[11,3060,["value","status"]]'}], u'id': u'4', u'dk': u'[11,200,["status"]]'}
+[INFO|mate_ksx3267v2.py:114] 2020-12-09 19:33:45,622 > read register: 11 3060 3
+[WARNING|mate_ksx3267v2.py:119] 2020-12-09 19:33:45,623 > fail to read holding registers. : Modbus Error: [Connection] Failed to connect[ModbusSerialClient(rtu baud[9600])]
+[WARNING|mate_ksx3267v2.py:437] 2020-12-09 19:33:45,623 > fail to get status from [11,3060,["value","status"]]
+[INFO|mate_ksx3267v2.py:114] 2020-12-09 19:33:46,127 > read register: 11 200 1
+[WARNING|mate_ksx3267v2.py:119] 2020-12-09 19:33:46,127 > fail to read holding registers. : Modbus Error: [Connection] Failed to connect[ModbusSerialClient(rtu baud[9600])]
+[WARNING|mate_ksx3267v2.py:437] 2020-12-09 19:33:46,128 > fail to get status from [11,200,["status"]]
+[WARNING|mate_ksx3267v2.py:458] 2020-12-09 19:33:46,128 > fail to read node info : {u'dt': u'nd', u'children': [{u'dt': u'sen', u'children': [], u'id': u'5', u'dk': u'[11,3060,["value","status"]]'}], u'id': u'4', u'dk': u'[11,200,["status"]]'}
+[INFO|mate_ksx3267v2.py:114] 2020-12-09 19:33:49,640 > read register: 11 200 1
+[WARNING|mate_ksx3267v2.py:119] 2020-12-09 19:33:49,641 > fail to read holding registers. : Modbus Error: [Connection] Failed to connect[ModbusSerialClient(rtu baud[9600])]
+[WARNING|mate_ksx3267v2.py:437] 2020-12-09 19:33:49,641 > fail to get status from [11,200,["status"]]
+[WARNING|mate_ksx3267v2.py:458] 2020-12-09 19:33:49,642 > fail to read node info : {u'dt': u'nd', u'children': [{u'dt': u'sen', u'children': [], u'id': u'5', u'dk': u'[11,3060,["value","status"]]'}], u'id': u'4', u'dk': u'[11,200,["status"]]'}
+[INFO|mate_ksx3267v2.py:114] 2020-12-09 19:33:50,143 > read register: 11 3060 3
+[WARNING|mate_ksx3267v2.py:119] 2020-12-09 19:33:50,144 > fail to read holding registers. : Modbus Error: [Connection] Failed to connect[ModbusSerialClient(rtu baud[9600])]
+[WARNING|mate_ksx3267v2.py:437] 2020-12-09 19:33:50,144 > fail to get status from [11,3060,["value","status"]]
+[INFO|mate_ksx3267v2.py:114] 2020-12-09 19:33:53,648 > read register: 11 200 1
+[WARNING|mate_ksx3267v2.py:119] 2020-12-09 19:33:53,649 > fail to read holding registers. : Modbus Error: [Connection] Failed to connect[ModbusSerialClient(rtu baud[9600])]
+[WARNING|mate_ksx3267v2.py:437] 2020-12-09 19:33:53,649 > fail to get status from [11,200,["status"]]
+[WARNING|mate_ksx3267v2.py:458] 2020-12-09 19:33:53,650 > fail to read node info : {u'dt': u'nd', u'children': [{u'dt': u'sen', u'children': [], u'id': u'5', u'dk': u'[11,3060,["value","status"]]'}], u'id': u'4', u'dk': u'[11,200,["status"]]'}
+[INFO|mate_ksx3267v2.py:114] 2020-12-09 19:33:54,151 > read register: 11 3060 3
+[WARNING|mate_ksx3267v2.py:119] 2020-12-09 19:33:54,151 > fail to read holding registers. : Modbus Error: [Connection] Failed to connect[ModbusSerialClient(rtu baud[9600])]
+[WARNING|mate_ksx3267v2.py:437] 2020-12-09 19:33:54,151 > fail to get status from [11,3060,["value","status"]]
+[INFO|mate_ksx3267v2.py:114] 2020-12-09 19:33:54,652 > read register: 11 200 1
+[WARNING|mate_ksx3267v2.py:119] 2020-12-09 19:33:54,655 > fail to read holding registers. : Modbus Error: [Connection] Failed to connect[ModbusSerialClient(rtu baud[9600])]
+[WARNING|mate_ksx3267v2.py:437] 2020-12-09 19:33:54,655 > fail to get status from [11,200,["status"]]
+[WARNING|mate_ksx3267v2.py:458] 2020-12-09 19:33:54,656 > fail to read node info : {u'dt': u'nd', u'children': [{u'dt': u'sen', u'children': [], u'id': u'5', u'dk': u'[11,3060,["value","status"]]'}], u'id': u'4', u'dk': u'[11,200,["status"]]'}
+[INFO|mate_ksx3267v2.py:114] 2020-12-09 19:33:58,168 > read register: 11 200 1
+[WARNING|mate_ksx3267v2.py:119] 2020-12-09 19:33:58,169 > fail to read holding registers. : Modbus Error: [Connection] Failed to connect[ModbusSerialClient(rtu baud[9600])]
+[WARNING|mate_ksx3267v2.py:437] 2020-12-09 19:33:58,169 > fail to get status from [11,200,["status"]]
+[WARNING|mate_ksx3267v2.py:458] 2020-12-09 19:33:58,169 > fail to read node info : {u'dt': u'nd', u'children': [{u'dt': u'sen', u'children': [], u'id': u'5', u'dk': u'[11,3060,["value","status"]]'}], u'id': u'4', u'dk': u'[11,200,["status"]]'}
+[INFO|mate_ksx3267v2.py:114] 2020-12-09 19:33:58,671 > read register: 11 3060 3
+[WARNING|mate_ksx3267v2.py:119] 2020-12-09 19:33:58,672 > fail to read holding registers. : Modbus Error: [Connection] Failed to connect[ModbusSerialClient(rtu baud[9600])]
+[WARNING|mate_ksx3267v2.py:437] 2020-12-09 19:33:58,672 > fail to get status from [11,3060,["value","status"]]
+[INFO|mate_ksx3267v2.py:114] 2020-12-09 19:34:02,176 > read register: 11 200 1
+[WARNING|mate_ksx3267v2.py:119] 2020-12-09 19:34:02,177 > fail to read holding registers. : Modbus Error: [Connection] Failed to connect[ModbusSerialClient(rtu baud[9600])]
+[WARNING|mate_ksx3267v2.py:437] 2020-12-09 19:34:02,177 > fail to get status from [11,200,["status"]]
+[WARNING|mate_ksx3267v2.py:458] 2020-12-09 19:34:02,178 > fail to read node info : {u'dt': u'nd', u'children': [{u'dt': u'sen', u'children': [], u'id': u'5', u'dk': u'[11,3060,["value","status"]]'}], u'id': u'4', u'dk': u'[11,200,["status"]]'}
+[INFO|mate_ksx3267v2.py:114] 2020-12-09 19:34:02,679 > read register: 11 3060 3
+[WARNING|mate_ksx3267v2.py:119] 2020-12-09 19:34:02,680 > fail to read holding registers. : Modbus Error: [Connection] Failed to connect[ModbusSerialClient(rtu baud[9600])]
+[WARNING|mate_ksx3267v2.py:437] 2020-12-09 19:34:02,680 > fail to get status from [11,3060,["value","status"]]
+[INFO|mate_ksx3267v2.py:114] 2020-12-09 19:34:03,181 > read register: 11 200 1
+[WARNING|mate_ksx3267v2.py:119] 2020-12-09 19:34:03,184 > fail to read holding registers. : Modbus Error: [Connection] Failed to connect[ModbusSerialClient(rtu baud[9600])]
+[WARNING|mate_ksx3267v2.py:437] 2020-12-09 19:34:03,185 > fail to get status from [11,200,["status"]]
+[WARNING|mate_ksx3267v2.py:458] 2020-12-09 19:34:03,185 > fail to read node info : {u'dt': u'nd', u'children': [{u'dt': u'sen', u'children': [], u'id': u'5', u'dk': u'[11,3060,["value","status"]]'}], u'id': u'4', u'dk': u'[11,200,["status"]]'}
+[INFO|mate_ksx3267v2.py:114] 2020-12-09 19:34:06,695 > read register: 11 200 1
+[WARNING|mate_ksx3267v2.py:119] 2020-12-09 19:34:06,696 > fail to read holding registers. : Modbus Error: [Connection] Failed to connect[ModbusSerialClient(rtu baud[9600])]
+[WARNING|mate_ksx3267v2.py:437] 2020-12-09 19:34:06,696 > fail to get status from [11,200,["status"]]
+[WARNING|mate_ksx3267v2.py:458] 2020-12-09 19:34:06,697 > fail to read node info : {u'dt': u'nd', u'children': [{u'dt': u'sen', u'children': [], u'id': u'5', u'dk': u'[11,3060,["value","status"]]'}], u'id': u'4', u'dk': u'[11,200,["status"]]'}
+[INFO|mate_ksx3267v2.py:114] 2020-12-09 19:34:07,198 > read register: 11 3060 3
+[WARNING|mate_ksx3267v2.py:119] 2020-12-09 19:34:07,199 > fail to read holding registers. : Modbus Error: [Connection] Failed to connect[ModbusSerialClient(rtu baud[9600])]
+[WARNING|mate_ksx3267v2.py:437] 2020-12-09 19:34:07,199 > fail to get status from [11,3060,["value","status"]]
+[INFO|mate_ksx3267v2.py:114] 2020-12-09 19:34:10,703 > read register: 11 200 1
+[WARNING|mate_ksx3267v2.py:119] 2020-12-09 19:34:10,703 > fail to read holding registers. : Modbus Error: [Connection] Failed to connect[ModbusSerialClient(rtu baud[9600])]
+[WARNING|mate_ksx3267v2.py:437] 2020-12-09 19:34:10,704 > fail to get status from [11,200,["status"]]
+[WARNING|mate_ksx3267v2.py:458] 2020-12-09 19:34:10,704 > fail to read node info : {u'dt': u'nd', u'children': [{u'dt': u'sen', u'children': [], u'id': u'5', u'dk': u'[11,3060,["value","status"]]'}], u'id': u'4', u'dk': u'[11,200,["status"]]'}
+[INFO|mate_ksx3267v2.py:114] 2020-12-09 19:34:11,204 > read register: 11 3060 3
+[WARNING|mate_ksx3267v2.py:119] 2020-12-09 19:34:11,205 > fail to read holding registers. : Modbus Error: [Connection] Failed to connect[ModbusSerialClient(rtu baud[9600])]
+[WARNING|mate_ksx3267v2.py:437] 2020-12-09 19:34:11,205 > fail to get status from [11,3060,["value","status"]]
+[INFO|mate_ksx3267v2.py:114] 2020-12-09 19:34:11,706 > read register: 11 200 1
+[WARNING|mate_ksx3267v2.py:119] 2020-12-09 19:34:11,706 > fail to read holding registers. : Modbus Error: [Connection] Failed to connect[ModbusSerialClient(rtu baud[9600])]
+[WARNING|mate_ksx3267v2.py:437] 2020-12-09 19:34:11,706 > fail to get status from [11,200,["status"]]
+[WARNING|mate_ksx3267v2.py:458] 2020-12-09 19:34:11,706 > fail to read node info : {u'dt': u'nd', u'children': [{u'dt': u'sen', u'children': [], u'id': u'5', u'dk': u'[11,3060,["value","status"]]'}], u'id': u'4', u'dk': u'[11,200,["status"]]'}
+[INFO|mate_ksx3267v2.py:114] 2020-12-09 19:34:15,219 > read register: 11 200 1
+[WARNING|mate_ksx3267v2.py:119] 2020-12-09 19:34:15,220 > fail to read holding registers. : Modbus Error: [Connection] Failed to connect[ModbusSerialClient(rtu baud[9600])]
+[WARNING|mate_ksx3267v2.py:437] 2020-12-09 19:34:15,220 > fail to get status from [11,200,["status"]]
+[WARNING|mate_ksx3267v2.py:458] 2020-12-09 19:34:15,220 > fail to read node info : {u'dt': u'nd', u'children': [{u'dt': u'sen', u'children': [], u'id': u'5', u'dk': u'[11,3060,["value","status"]]'}], u'id': u'4', u'dk': u'[11,200,["status"]]'}
+[INFO|mate_ksx3267v2.py:114] 2020-12-09 19:34:15,721 > read register: 11 3060 3
+[WARNING|mate_ksx3267v2.py:119] 2020-12-09 19:34:15,721 > fail to read holding registers. : Modbus Error: [Connection] Failed to connect[ModbusSerialClient(rtu baud[9600])]
+[WARNING|mate_ksx3267v2.py:437] 2020-12-09 19:34:15,721 > fail to get status from [11,3060,["value","status"]]
+[INFO|mate_ksx3267v2.py:114] 2020-12-09 19:34:19,224 > read register: 11 200 1
+[WARNING|mate_ksx3267v2.py:119] 2020-12-09 19:34:19,225 > fail to read holding registers. : Modbus Error: [Connection] Failed to connect[ModbusSerialClient(rtu baud[9600])]
+[WARNING|mate_ksx3267v2.py:437] 2020-12-09 19:34:19,225 > fail to get status from [11,200,["status"]]
+[WARNING|mate_ksx3267v2.py:458] 2020-12-09 19:34:19,225 > fail to read node info : {u'dt': u'nd', u'children': [{u'dt': u'sen', u'children': [], u'id': u'5', u'dk': u'[11,3060,["value","status"]]'}], u'id': u'4', u'dk': u'[11,200,["status"]]'}
+[INFO|mate_ksx3267v2.py:114] 2020-12-09 19:34:19,726 > read register: 11 3060 3
+[WARNING|mate_ksx3267v2.py:119] 2020-12-09 19:34:19,727 > fail to read holding registers. : Modbus Error: [Connection] Failed to connect[ModbusSerialClient(rtu baud[9600])]
+[WARNING|mate_ksx3267v2.py:437] 2020-12-09 19:34:19,727 > fail to get status from [11,3060,["value","status"]]
+[INFO|mate_ksx3267v2.py:114] 2020-12-09 19:34:20,227 > read register: 11 200 1
+[WARNING|mate_ksx3267v2.py:119] 2020-12-09 19:34:20,228 > fail to read holding registers. : Modbus Error: [Connection] Failed to connect[ModbusSerialClient(rtu baud[9600])]
+[WARNING|mate_ksx3267v2.py:437] 2020-12-09 19:34:20,228 > fail to get status from [11,200,["status"]]
+[WARNING|mate_ksx3267v2.py:458] 2020-12-09 19:34:20,228 > fail to read node info : {u'dt': u'nd', u'children': [{u'dt': u'sen', u'children': [], u'id': u'5', u'dk': u'[11,3060,["value","status"]]'}], u'id': u'4', u'dk': u'[11,200,["status"]]'}
+[INFO|mate_ksx3267v2.py:114] 2020-12-09 19:34:23,752 > read register: 11 200 1
+[WARNING|mate_ksx3267v2.py:119] 2020-12-09 19:34:23,752 > fail to read holding registers. : Modbus Error: [Connection] Failed to connect[ModbusSerialClient(rtu baud[9600])]
+[WARNING|mate_ksx3267v2.py:437] 2020-12-09 19:34:23,753 > fail to get status from [11,200,["status"]]
+[WARNING|mate_ksx3267v2.py:458] 2020-12-09 19:34:23,753 > fail to read node info : {u'dt': u'nd', u'children': [{u'dt': u'sen', u'children': [], u'id': u'5', u'dk': u'[11,3060,["value","status"]]'}], u'id': u'4', u'dk': u'[11,200,["status"]]'}
+[INFO|mate_ksx3267v2.py:114] 2020-12-09 19:34:24,254 > read register: 11 3060 3
+[WARNING|mate_ksx3267v2.py:119] 2020-12-09 19:34:24,254 > fail to read holding registers. : Modbus Error: [Connection] Failed to connect[ModbusSerialClient(rtu baud[9600])]
+[WARNING|mate_ksx3267v2.py:437] 2020-12-09 19:34:24,255 > fail to get status from [11,3060,["value","status"]]
+[INFO|mate_ksx3267v2.py:114] 2020-12-09 19:34:27,759 > read register: 11 200 1
+[WARNING|mate_ksx3267v2.py:119] 2020-12-09 19:34:27,760 > fail to read holding registers. : Modbus Error: [Connection] Failed to connect[ModbusSerialClient(rtu baud[9600])]
+[WARNING|mate_ksx3267v2.py:437] 2020-12-09 19:34:27,760 > fail to get status from [11,200,["status"]]
+[WARNING|mate_ksx3267v2.py:458] 2020-12-09 19:34:27,760 > fail to read node info : {u'dt': u'nd', u'children': [{u'dt': u'sen', u'children': [], u'id': u'5', u'dk': u'[11,3060,["value","status"]]'}], u'id': u'4', u'dk': u'[11,200,["status"]]'}
+[INFO|mate_ksx3267v2.py:114] 2020-12-09 19:34:28,261 > read register: 11 3060 3
+[WARNING|mate_ksx3267v2.py:119] 2020-12-09 19:34:28,262 > fail to read holding registers. : Modbus Error: [Connection] Failed to connect[ModbusSerialClient(rtu baud[9600])]
+[WARNING|mate_ksx3267v2.py:437] 2020-12-09 19:34:28,262 > fail to get status from [11,3060,["value","status"]]
+[INFO|mate_ksx3267v2.py:114] 2020-12-09 19:34:28,764 > read register: 11 200 1
+[WARNING|mate_ksx3267v2.py:119] 2020-12-09 19:34:28,765 > fail to read holding registers. : Modbus Error: [Connection] Failed to connect[ModbusSerialClient(rtu baud[9600])]
+[WARNING|mate_ksx3267v2.py:437] 2020-12-09 19:34:28,765 > fail to get status from [11,200,["status"]]
+[WARNING|mate_ksx3267v2.py:458] 2020-12-09 19:34:28,766 > fail to read node info : {u'dt': u'nd', u'children': [{u'dt': u'sen', u'children': [], u'id': u'5', u'dk': u'[11,3060,["value","status"]]'}], u'id': u'4', u'dk': u'[11,200,["status"]]'}
+[INFO|mate_ksx3267v2.py:114] 2020-12-09 19:34:32,280 > read register: 11 200 1
+[WARNING|mate_ksx3267v2.py:119] 2020-12-09 19:34:32,281 > fail to read holding registers. : Modbus Error: [Connection] Failed to connect[ModbusSerialClient(rtu baud[9600])]
+[WARNING|mate_ksx3267v2.py:437] 2020-12-09 19:34:32,281 > fail to get status from [11,200,["status"]]
+[WARNING|mate_ksx3267v2.py:458] 2020-12-09 19:34:32,281 > fail to read node info : {u'dt': u'nd', u'children': [{u'dt': u'sen', u'children': [], u'id': u'5', u'dk': u'[11,3060,["value","status"]]'}], u'id': u'4', u'dk': u'[11,200,["status"]]'}
+[INFO|mate_ksx3267v2.py:114] 2020-12-09 19:34:32,782 > read register: 11 3060 3
+[WARNING|mate_ksx3267v2.py:119] 2020-12-09 19:34:32,783 > fail to read holding registers. : Modbus Error: [Connection] Failed to connect[ModbusSerialClient(rtu baud[9600])]
+[WARNING|mate_ksx3267v2.py:437] 2020-12-09 19:34:32,784 > fail to get status from [11,3060,["value","status"]]
+[INFO|mate_ksx3267v2.py:114] 2020-12-09 19:34:36,288 > read register: 11 200 1
+[WARNING|mate_ksx3267v2.py:119] 2020-12-09 19:34:36,289 > fail to read holding registers. : Modbus Error: [Connection] Failed to connect[ModbusSerialClient(rtu baud[9600])]
+[WARNING|mate_ksx3267v2.py:437] 2020-12-09 19:34:36,289 > fail to get status from [11,200,["status"]]
+[WARNING|mate_ksx3267v2.py:458] 2020-12-09 19:34:36,289 > fail to read node info : {u'dt': u'nd', u'children': [{u'dt': u'sen', u'children': [], u'id': u'5', u'dk': u'[11,3060,["value","status"]]'}], u'id': u'4', u'dk': u'[11,200,["status"]]'}
+[INFO|mate_ksx3267v2.py:114] 2020-12-09 19:34:36,790 > read register: 11 3060 3
+[WARNING|mate_ksx3267v2.py:119] 2020-12-09 19:34:36,791 > fail to read holding registers. : Modbus Error: [Connection] Failed to connect[ModbusSerialClient(rtu baud[9600])]
+[WARNING|mate_ksx3267v2.py:437] 2020-12-09 19:34:36,793 > fail to get status from [11,3060,["value","status"]]
+[INFO|mate_ksx3267v2.py:114] 2020-12-09 19:34:37,294 > read register: 11 200 1
+[WARNING|mate_ksx3267v2.py:119] 2020-12-09 19:34:37,295 > fail to read holding registers. : Modbus Error: [Connection] Failed to connect[ModbusSerialClient(rtu baud[9600])]
+[WARNING|mate_ksx3267v2.py:437] 2020-12-09 19:34:37,296 > fail to get status from [11,200,["status"]]
+[WARNING|mate_ksx3267v2.py:458] 2020-12-09 19:34:37,296 > fail to read node info : {u'dt': u'nd', u'children': [{u'dt': u'sen', u'children': [], u'id': u'5', u'dk': u'[11,3060,["value","status"]]'}], u'id': u'4', u'dk': u'[11,200,["status"]]'}
+[INFO|mate_ksx3267v2.py:114] 2020-12-09 19:34:40,808 > read register: 11 200 1
+[WARNING|mate_ksx3267v2.py:119] 2020-12-09 19:34:40,808 > fail to read holding registers. : Modbus Error: [Connection] Failed to connect[ModbusSerialClient(rtu baud[9600])]
+[WARNING|mate_ksx3267v2.py:437] 2020-12-09 19:34:40,808 > fail to get status from [11,200,["status"]]
+[WARNING|mate_ksx3267v2.py:458] 2020-12-09 19:34:40,808 > fail to read node info : {u'dt': u'nd', u'children': [{u'dt': u'sen', u'children': [], u'id': u'5', u'dk': u'[11,3060,["value","status"]]'}], u'id': u'4', u'dk': u'[11,200,["status"]]'}
+[INFO|mate_ksx3267v2.py:114] 2020-12-09 19:34:41,309 > read register: 11 3060 3
+[WARNING|mate_ksx3267v2.py:119] 2020-12-09 19:34:41,310 > fail to read holding registers. : Modbus Error: [Connection] Failed to connect[ModbusSerialClient(rtu baud[9600])]
+[WARNING|mate_ksx3267v2.py:437] 2020-12-09 19:34:41,310 > fail to get status from [11,3060,["value","status"]]
+[INFO|mate_ksx3267v2.py:114] 2020-12-09 19:34:44,814 > read register: 11 200 1
+[WARNING|mate_ksx3267v2.py:119] 2020-12-09 19:34:44,815 > fail to read holding registers. : Modbus Error: [Connection] Failed to connect[ModbusSerialClient(rtu baud[9600])]
+[WARNING|mate_ksx3267v2.py:437] 2020-12-09 19:34:44,815 > fail to get status from [11,200,["status"]]
+[WARNING|mate_ksx3267v2.py:458] 2020-12-09 19:34:44,815 > fail to read node info : {u'dt': u'nd', u'children': [{u'dt': u'sen', u'children': [], u'id': u'5', u'dk': u'[11,3060,["value","status"]]'}], u'id': u'4', u'dk': u'[11,200,["status"]]'}
+[INFO|mate_ksx3267v2.py:114] 2020-12-09 19:34:45,316 > read register: 11 3060 3
+[WARNING|mate_ksx3267v2.py:119] 2020-12-09 19:34:45,317 > fail to read holding registers. : Modbus Error: [Connection] Failed to connect[ModbusSerialClient(rtu baud[9600])]
+[WARNING|mate_ksx3267v2.py:437] 2020-12-09 19:34:45,317 > fail to get status from [11,3060,["value","status"]]
+[INFO|mate_ksx3267v2.py:114] 2020-12-09 19:34:45,819 > read register: 11 200 1
+[WARNING|mate_ksx3267v2.py:119] 2020-12-09 19:34:45,821 > fail to read holding registers. : Modbus Error: [Connection] Failed to connect[ModbusSerialClient(rtu baud[9600])]
+[WARNING|mate_ksx3267v2.py:437] 2020-12-09 19:34:45,821 > fail to get status from [11,200,["status"]]
+[WARNING|mate_ksx3267v2.py:458] 2020-12-09 19:34:45,822 > fail to read node info : {u'dt': u'nd', u'children': [{u'dt': u'sen', u'children': [], u'id': u'5', u'dk': u'[11,3060,["value","status"]]'}], u'id': u'4', u'dk': u'[11,200,["status"]]'}
+[INFO|mate_ksx3267v2.py:114] 2020-12-09 19:34:49,332 > read register: 11 200 1
+[WARNING|mate_ksx3267v2.py:119] 2020-12-09 19:34:49,333 > fail to read holding registers. : Modbus Error: [Connection] Failed to connect[ModbusSerialClient(rtu baud[9600])]
+[WARNING|mate_ksx3267v2.py:437] 2020-12-09 19:34:49,333 > fail to get status from [11,200,["status"]]
+[WARNING|mate_ksx3267v2.py:458] 2020-12-09 19:34:49,334 > fail to read node info : {u'dt': u'nd', u'children': [{u'dt': u'sen', u'children': [], u'id': u'5', u'dk': u'[11,3060,["value","status"]]'}], u'id': u'4', u'dk': u'[11,200,["status"]]'}
+[INFO|mate_ksx3267v2.py:114] 2020-12-09 19:34:49,835 > read register: 11 3060 3
+[WARNING|mate_ksx3267v2.py:119] 2020-12-09 19:34:49,835 > fail to read holding registers. : Modbus Error: [Connection] Failed to connect[ModbusSerialClient(rtu baud[9600])]
+[WARNING|mate_ksx3267v2.py:437] 2020-12-09 19:34:49,835 > fail to get status from [11,3060,["value","status"]]
+[INFO|mate_ksx3267v2.py:114] 2020-12-09 19:34:53,339 > read register: 11 200 1
+[WARNING|mate_ksx3267v2.py:119] 2020-12-09 19:34:53,340 > fail to read holding registers. : Modbus Error: [Connection] Failed to connect[ModbusSerialClient(rtu baud[9600])]
+[WARNING|mate_ksx3267v2.py:437] 2020-12-09 19:34:53,341 > fail to get status from [11,200,["status"]]
+[WARNING|mate_ksx3267v2.py:458] 2020-12-09 19:34:53,341 > fail to read node info : {u'dt': u'nd', u'children': [{u'dt': u'sen', u'children': [], u'id': u'5', u'dk': u'[11,3060,["value","status"]]'}], u'id': u'4', u'dk': u'[11,200,["status"]]'}
+[INFO|mate_ksx3267v2.py:114] 2020-12-09 19:34:53,842 > read register: 11 3060 3
+[WARNING|mate_ksx3267v2.py:119] 2020-12-09 19:34:53,843 > fail to read holding registers. : Modbus Error: [Connection] Failed to connect[ModbusSerialClient(rtu baud[9600])]
+[WARNING|mate_ksx3267v2.py:437] 2020-12-09 19:34:53,843 > fail to get status from [11,3060,["value","status"]]
+[INFO|mate_ksx3267v2.py:114] 2020-12-09 19:34:54,345 > read register: 11 200 1
+[WARNING|mate_ksx3267v2.py:119] 2020-12-09 19:34:54,347 > fail to read holding registers. : Modbus Error: [Connection] Failed to connect[ModbusSerialClient(rtu baud[9600])]
+[WARNING|mate_ksx3267v2.py:437] 2020-12-09 19:34:54,347 > fail to get status from [11,200,["status"]]
+[WARNING|mate_ksx3267v2.py:458] 2020-12-09 19:34:54,348 > fail to read node info : {u'dt': u'nd', u'children': [{u'dt': u'sen', u'children': [], u'id': u'5', u'dk': u'[11,3060,["value","status"]]'}], u'id': u'4', u'dk': u'[11,200,["status"]]'}
+[INFO|mate_ksx3267v2.py:114] 2020-12-09 19:34:57,864 > read register: 11 200 1
+[WARNING|mate_ksx3267v2.py:119] 2020-12-09 19:34:57,865 > fail to read holding registers. : Modbus Error: [Connection] Failed to connect[ModbusSerialClient(rtu baud[9600])]
+[WARNING|mate_ksx3267v2.py:437] 2020-12-09 19:34:57,865 > fail to get status from [11,200,["status"]]
+[WARNING|mate_ksx3267v2.py:458] 2020-12-09 19:34:57,865 > fail to read node info : {u'dt': u'nd', u'children': [{u'dt': u'sen', u'children': [], u'id': u'5', u'dk': u'[11,3060,["value","status"]]'}], u'id': u'4', u'dk': u'[11,200,["status"]]'}
+[INFO|mate_ksx3267v2.py:114] 2020-12-09 19:34:58,366 > read register: 11 3060 3
+[WARNING|mate_ksx3267v2.py:119] 2020-12-09 19:34:58,367 > fail to read holding registers. : Modbus Error: [Connection] Failed to connect[ModbusSerialClient(rtu baud[9600])]
+[WARNING|mate_ksx3267v2.py:437] 2020-12-09 19:34:58,367 > fail to get status from [11,3060,["value","status"]]
+[INFO|mate_ksx3267v2.py:114] 2020-12-09 19:35:01,871 > read register: 11 200 1
+[WARNING|mate_ksx3267v2.py:119] 2020-12-09 19:35:01,872 > fail to read holding registers. : Modbus Error: [Connection] Failed to connect[ModbusSerialClient(rtu baud[9600])]
+[WARNING|mate_ksx3267v2.py:437] 2020-12-09 19:35:01,872 > fail to get status from [11,200,["status"]]
+[WARNING|mate_ksx3267v2.py:458] 2020-12-09 19:35:01,872 > fail to read node info : {u'dt': u'nd', u'children': [{u'dt': u'sen', u'children': [], u'id': u'5', u'dk': u'[11,3060,["value","status"]]'}], u'id': u'4', u'dk': u'[11,200,["status"]]'}
+[INFO|mate_ksx3267v2.py:114] 2020-12-09 19:35:02,373 > read register: 11 3060 3
+[WARNING|mate_ksx3267v2.py:119] 2020-12-09 19:35:02,374 > fail to read holding registers. : Modbus Error: [Connection] Failed to connect[ModbusSerialClient(rtu baud[9600])]
+[WARNING|mate_ksx3267v2.py:437] 2020-12-09 19:35:02,374 > fail to get status from [11,3060,["value","status"]]
+[INFO|mate_ksx3267v2.py:114] 2020-12-09 19:35:02,875 > read register: 11 200 1
+[WARNING|mate_ksx3267v2.py:119] 2020-12-09 19:35:02,876 > fail to read holding registers. : Modbus Error: [Connection] Failed to connect[ModbusSerialClient(rtu baud[9600])]
+[WARNING|mate_ksx3267v2.py:437] 2020-12-09 19:35:02,876 > fail to get status from [11,200,["status"]]
+[WARNING|mate_ksx3267v2.py:458] 2020-12-09 19:35:02,876 > fail to read node info : {u'dt': u'nd', u'children': [{u'dt': u'sen', u'children': [], u'id': u'5', u'dk': u'[11,3060,["value","status"]]'}], u'id': u'4', u'dk': u'[11,200,["status"]]'}
+[INFO|mate_ksx3267v2.py:114] 2020-12-09 19:35:06,388 > read register: 11 200 1
+[WARNING|mate_ksx3267v2.py:119] 2020-12-09 19:35:06,389 > fail to read holding registers. : Modbus Error: [Connection] Failed to connect[ModbusSerialClient(rtu baud[9600])]
+[WARNING|mate_ksx3267v2.py:437] 2020-12-09 19:35:06,389 > fail to get status from [11,200,["status"]]
+[WARNING|mate_ksx3267v2.py:458] 2020-12-09 19:35:06,390 > fail to read node info : {u'dt': u'nd', u'children': [{u'dt': u'sen', u'children': [], u'id': u'5', u'dk': u'[11,3060,["value","status"]]'}], u'id': u'4', u'dk': u'[11,200,["status"]]'}
+[INFO|mate_ksx3267v2.py:114] 2020-12-09 19:35:06,891 > read register: 11 3060 3
+[WARNING|mate_ksx3267v2.py:119] 2020-12-09 19:35:06,892 > fail to read holding registers. : Modbus Error: [Connection] Failed to connect[ModbusSerialClient(rtu baud[9600])]
+[WARNING|mate_ksx3267v2.py:437] 2020-12-09 19:35:06,892 > fail to get status from [11,3060,["value","status"]]
+[INFO|mate_ksx3267v2.py:114] 2020-12-09 19:35:10,396 > read register: 11 200 1
+[WARNING|mate_ksx3267v2.py:119] 2020-12-09 19:35:10,397 > fail to read holding registers. : Modbus Error: [Connection] Failed to connect[ModbusSerialClient(rtu baud[9600])]
+[WARNING|mate_ksx3267v2.py:437] 2020-12-09 19:35:10,397 > fail to get status from [11,200,["status"]]
+[WARNING|mate_ksx3267v2.py:458] 2020-12-09 19:35:10,397 > fail to read node info : {u'dt': u'nd', u'children': [{u'dt': u'sen', u'children': [], u'id': u'5', u'dk': u'[11,3060,["value","status"]]'}], u'id': u'4', u'dk': u'[11,200,["status"]]'}
+[INFO|mate_ksx3267v2.py:114] 2020-12-09 19:35:10,898 > read register: 11 3060 3
+[WARNING|mate_ksx3267v2.py:119] 2020-12-09 19:35:10,899 > fail to read holding registers. : Modbus Error: [Connection] Failed to connect[ModbusSerialClient(rtu baud[9600])]
+[WARNING|mate_ksx3267v2.py:437] 2020-12-09 19:35:10,900 > fail to get status from [11,3060,["value","status"]]
+[INFO|mate_ksx3267v2.py:114] 2020-12-09 19:35:11,403 > read register: 11 200 1
+[WARNING|mate_ksx3267v2.py:119] 2020-12-09 19:35:11,404 > fail to read holding registers. : Modbus Error: [Connection] Failed to connect[ModbusSerialClient(rtu baud[9600])]
+[WARNING|mate_ksx3267v2.py:437] 2020-12-09 19:35:11,405 > fail to get status from [11,200,["status"]]
+[WARNING|mate_ksx3267v2.py:458] 2020-12-09 19:35:11,405 > fail to read node info : {u'dt': u'nd', u'children': [{u'dt': u'sen', u'children': [], u'id': u'5', u'dk': u'[11,3060,["value","status"]]'}], u'id': u'4', u'dk': u'[11,200,["status"]]'}
+[INFO|mate_ksx3267v2.py:114] 2020-12-09 19:35:14,919 > read register: 11 200 1
+[WARNING|mate_ksx3267v2.py:119] 2020-12-09 19:35:14,920 > fail to read holding registers. : Modbus Error: [Connection] Failed to connect[ModbusSerialClient(rtu baud[9600])]
+[WARNING|mate_ksx3267v2.py:437] 2020-12-09 19:35:14,920 > fail to get status from [11,200,["status"]]
+[WARNING|mate_ksx3267v2.py:458] 2020-12-09 19:35:14,921 > fail to read node info : {u'dt': u'nd', u'children': [{u'dt': u'sen', u'children': [], u'id': u'5', u'dk': u'[11,3060,["value","status"]]'}], u'id': u'4', u'dk': u'[11,200,["status"]]'}
+[INFO|mate_ksx3267v2.py:114] 2020-12-09 19:35:15,422 > read register: 11 3060 3
+[WARNING|mate_ksx3267v2.py:119] 2020-12-09 19:35:15,423 > fail to read holding registers. : Modbus Error: [Connection] Failed to connect[ModbusSerialClient(rtu baud[9600])]
+[WARNING|mate_ksx3267v2.py:437] 2020-12-09 19:35:15,423 > fail to get status from [11,3060,["value","status"]]
+[INFO|mate_ksx3267v2.py:114] 2020-12-09 19:35:18,927 > read register: 11 200 1
+[WARNING|mate_ksx3267v2.py:119] 2020-12-09 19:35:18,928 > fail to read holding registers. : Modbus Error: [Connection] Failed to connect[ModbusSerialClient(rtu baud[9600])]
+[WARNING|mate_ksx3267v2.py:437] 2020-12-09 19:35:18,928 > fail to get status from [11,200,["status"]]
+[WARNING|mate_ksx3267v2.py:458] 2020-12-09 19:35:18,928 > fail to read node info : {u'dt': u'nd', u'children': [{u'dt': u'sen', u'children': [], u'id': u'5', u'dk': u'[11,3060,["value","status"]]'}], u'id': u'4', u'dk': u'[11,200,["status"]]'}
+[INFO|mate_ksx3267v2.py:114] 2020-12-09 19:35:19,429 > read register: 11 3060 3
+[WARNING|mate_ksx3267v2.py:119] 2020-12-09 19:35:19,430 > fail to read holding registers. : Modbus Error: [Connection] Failed to connect[ModbusSerialClient(rtu baud[9600])]
+[WARNING|mate_ksx3267v2.py:437] 2020-12-09 19:35:19,430 > fail to get status from [11,3060,["value","status"]]
+[INFO|mate_ksx3267v2.py:114] 2020-12-09 19:35:19,931 > read register: 11 200 1
+[WARNING|mate_ksx3267v2.py:119] 2020-12-09 19:35:19,932 > fail to read holding registers. : Modbus Error: [Connection] Failed to connect[ModbusSerialClient(rtu baud[9600])]
+[WARNING|mate_ksx3267v2.py:437] 2020-12-09 19:35:19,932 > fail to get status from [11,200,["status"]]
+[WARNING|mate_ksx3267v2.py:458] 2020-12-09 19:35:19,932 > fail to read node info : {u'dt': u'nd', u'children': [{u'dt': u'sen', u'children': [], u'id': u'5', u'dk': u'[11,3060,["value","status"]]'}], u'id': u'4', u'dk': u'[11,200,["status"]]'}
+[INFO|mate_ksx3267v2.py:114] 2020-12-09 19:35:23,444 > read register: 11 200 1
+[WARNING|mate_ksx3267v2.py:119] 2020-12-09 19:35:23,445 > fail to read holding registers. : Modbus Error: [Connection] Failed to connect[ModbusSerialClient(rtu baud[9600])]
+[WARNING|mate_ksx3267v2.py:437] 2020-12-09 19:35:23,445 > fail to get status from [11,200,["status"]]
+[WARNING|mate_ksx3267v2.py:458] 2020-12-09 19:35:23,445 > fail to read node info : {u'dt': u'nd', u'children': [{u'dt': u'sen', u'children': [], u'id': u'5', u'dk': u'[11,3060,["value","status"]]'}], u'id': u'4', u'dk': u'[11,200,["status"]]'}
+[INFO|mate_ksx3267v2.py:114] 2020-12-09 19:35:23,946 > read register: 11 3060 3
+[WARNING|mate_ksx3267v2.py:119] 2020-12-09 19:35:23,947 > fail to read holding registers. : Modbus Error: [Connection] Failed to connect[ModbusSerialClient(rtu baud[9600])]
+[WARNING|mate_ksx3267v2.py:437] 2020-12-09 19:35:23,947 > fail to get status from [11,3060,["value","status"]]
+[INFO|mate_ksx3267v2.py:114] 2020-12-09 19:35:27,451 > read register: 11 200 1
+[WARNING|mate_ksx3267v2.py:119] 2020-12-09 19:35:27,451 > fail to read holding registers. : Modbus Error: [Connection] Failed to connect[ModbusSerialClient(rtu baud[9600])]
+[WARNING|mate_ksx3267v2.py:437] 2020-12-09 19:35:27,452 > fail to get status from [11,200,["status"]]
+[WARNING|mate_ksx3267v2.py:458] 2020-12-09 19:35:27,452 > fail to read node info : {u'dt': u'nd', u'children': [{u'dt': u'sen', u'children': [], u'id': u'5', u'dk': u'[11,3060,["value","status"]]'}], u'id': u'4', u'dk': u'[11,200,["status"]]'}
+[INFO|mate_ksx3267v2.py:114] 2020-12-09 19:35:27,953 > read register: 11 3060 3
+[WARNING|mate_ksx3267v2.py:119] 2020-12-09 19:35:27,954 > fail to read holding registers. : Modbus Error: [Connection] Failed to connect[ModbusSerialClient(rtu baud[9600])]
+[WARNING|mate_ksx3267v2.py:437] 2020-12-09 19:35:27,956 > fail to get status from [11,3060,["value","status"]]
+[INFO|mate_ksx3267v2.py:114] 2020-12-09 19:35:28,457 > read register: 11 200 1
+[WARNING|mate_ksx3267v2.py:119] 2020-12-09 19:35:28,457 > fail to read holding registers. : Modbus Error: [Connection] Failed to connect[ModbusSerialClient(rtu baud[9600])]
+[WARNING|mate_ksx3267v2.py:437] 2020-12-09 19:35:28,458 > fail to get status from [11,200,["status"]]
+[WARNING|mate_ksx3267v2.py:458] 2020-12-09 19:35:28,458 > fail to read node info : {u'dt': u'nd', u'children': [{u'dt': u'sen', u'children': [], u'id': u'5', u'dk': u'[11,3060,["value","status"]]'}], u'id': u'4', u'dk': u'[11,200,["status"]]'}
+[INFO|mate_ksx3267v2.py:114] 2020-12-09 19:35:31,976 > read register: 11 200 1
+[WARNING|mate_ksx3267v2.py:119] 2020-12-09 19:35:31,977 > fail to read holding registers. : Modbus Error: [Connection] Failed to connect[ModbusSerialClient(rtu baud[9600])]
+[WARNING|mate_ksx3267v2.py:437] 2020-12-09 19:35:31,977 > fail to get status from [11,200,["status"]]
+[WARNING|mate_ksx3267v2.py:458] 2020-12-09 19:35:31,977 > fail to read node info : {u'dt': u'nd', u'children': [{u'dt': u'sen', u'children': [], u'id': u'5', u'dk': u'[11,3060,["value","status"]]'}], u'id': u'4', u'dk': u'[11,200,["status"]]'}
+[INFO|mate_ksx3267v2.py:114] 2020-12-09 19:35:32,478 > read register: 11 3060 3
+[WARNING|mate_ksx3267v2.py:119] 2020-12-09 19:35:32,479 > fail to read holding registers. : Modbus Error: [Connection] Failed to connect[ModbusSerialClient(rtu baud[9600])]
+[WARNING|mate_ksx3267v2.py:437] 2020-12-09 19:35:32,479 > fail to get status from [11,3060,["value","status"]]
+[INFO|mate_ksx3267v2.py:114] 2020-12-09 19:35:35,983 > read register: 11 200 1
+[WARNING|mate_ksx3267v2.py:119] 2020-12-09 19:35:35,984 > fail to read holding registers. : Modbus Error: [Connection] Failed to connect[ModbusSerialClient(rtu baud[9600])]
+[WARNING|mate_ksx3267v2.py:437] 2020-12-09 19:35:35,984 > fail to get status from [11,200,["status"]]
+[WARNING|mate_ksx3267v2.py:458] 2020-12-09 19:35:35,985 > fail to read node info : {u'dt': u'nd', u'children': [{u'dt': u'sen', u'children': [], u'id': u'5', u'dk': u'[11,3060,["value","status"]]'}], u'id': u'4', u'dk': u'[11,200,["status"]]'}
+[INFO|mate_ksx3267v2.py:114] 2020-12-09 19:35:36,486 > read register: 11 3060 3
+[WARNING|mate_ksx3267v2.py:119] 2020-12-09 19:35:36,486 > fail to read holding registers. : Modbus Error: [Connection] Failed to connect[ModbusSerialClient(rtu baud[9600])]
+[WARNING|mate_ksx3267v2.py:437] 2020-12-09 19:35:36,486 > fail to get status from [11,3060,["value","status"]]
+[INFO|mate_ksx3267v2.py:114] 2020-12-09 19:35:36,987 > read register: 11 200 1
+[WARNING|mate_ksx3267v2.py:119] 2020-12-09 19:35:36,988 > fail to read holding registers. : Modbus Error: [Connection] Failed to connect[ModbusSerialClient(rtu baud[9600])]
+[WARNING|mate_ksx3267v2.py:437] 2020-12-09 19:35:36,988 > fail to get status from [11,200,["status"]]
+[WARNING|mate_ksx3267v2.py:458] 2020-12-09 19:35:36,988 > fail to read node info : {u'dt': u'nd', u'children': [{u'dt': u'sen', u'children': [], u'id': u'5', u'dk': u'[11,3060,["value","status"]]'}], u'id': u'4', u'dk': u'[11,200,["status"]]'}
+[INFO|mate_ksx3267v2.py:114] 2020-12-09 19:35:40,503 > read register: 11 200 1
+[WARNING|mate_ksx3267v2.py:119] 2020-12-09 19:35:40,504 > fail to read holding registers. : Modbus Error: [Connection] Failed to connect[ModbusSerialClient(rtu baud[9600])]
+[WARNING|mate_ksx3267v2.py:437] 2020-12-09 19:35:40,504 > fail to get status from [11,200,["status"]]
+[WARNING|mate_ksx3267v2.py:458] 2020-12-09 19:35:40,504 > fail to read node info : {u'dt': u'nd', u'children': [{u'dt': u'sen', u'children': [], u'id': u'5', u'dk': u'[11,3060,["value","status"]]'}], u'id': u'4', u'dk': u'[11,200,["status"]]'}
+[INFO|mate_ksx3267v2.py:114] 2020-12-09 19:35:41,005 > read register: 11 3060 3
+[WARNING|mate_ksx3267v2.py:119] 2020-12-09 19:35:41,006 > fail to read holding registers. : Modbus Error: [Connection] Failed to connect[ModbusSerialClient(rtu baud[9600])]
+[WARNING|mate_ksx3267v2.py:437] 2020-12-09 19:35:41,006 > fail to get status from [11,3060,["value","status"]]
+[INFO|mate_ksx3267v2.py:114] 2020-12-09 19:35:44,510 > read register: 11 200 1
+[WARNING|mate_ksx3267v2.py:119] 2020-12-09 19:35:44,511 > fail to read holding registers. : Modbus Error: [Connection] Failed to connect[ModbusSerialClient(rtu baud[9600])]
+[WARNING|mate_ksx3267v2.py:437] 2020-12-09 19:35:44,511 > fail to get status from [11,200,["status"]]
+[WARNING|mate_ksx3267v2.py:458] 2020-12-09 19:35:44,511 > fail to read node info : {u'dt': u'nd', u'children': [{u'dt': u'sen', u'children': [], u'id': u'5', u'dk': u'[11,3060,["value","status"]]'}], u'id': u'4', u'dk': u'[11,200,["status"]]'}
+[INFO|mate_ksx3267v2.py:114] 2020-12-09 19:35:45,012 > read register: 11 3060 3
+[WARNING|mate_ksx3267v2.py:119] 2020-12-09 19:35:45,013 > fail to read holding registers. : Modbus Error: [Connection] Failed to connect[ModbusSerialClient(rtu baud[9600])]
+[WARNING|mate_ksx3267v2.py:437] 2020-12-09 19:35:45,013 > fail to get status from [11,3060,["value","status"]]
+[INFO|mate_ksx3267v2.py:114] 2020-12-09 19:35:45,514 > read register: 11 200 1
+[WARNING|mate_ksx3267v2.py:119] 2020-12-09 19:35:45,516 > fail to read holding registers. : Modbus Error: [Connection] Failed to connect[ModbusSerialClient(rtu baud[9600])]
+[WARNING|mate_ksx3267v2.py:437] 2020-12-09 19:35:45,517 > fail to get status from [11,200,["status"]]
+[WARNING|mate_ksx3267v2.py:458] 2020-12-09 19:35:45,517 > fail to read node info : {u'dt': u'nd', u'children': [{u'dt': u'sen', u'children': [], u'id': u'5', u'dk': u'[11,3060,["value","status"]]'}], u'id': u'4', u'dk': u'[11,200,["status"]]'}
+[INFO|mate_ksx3267v2.py:114] 2020-12-09 19:35:49,025 > read register: 11 200 1
+[WARNING|mate_ksx3267v2.py:119] 2020-12-09 19:35:49,026 > fail to read holding registers. : Modbus Error: [Connection] Failed to connect[ModbusSerialClient(rtu baud[9600])]
+[WARNING|mate_ksx3267v2.py:437] 2020-12-09 19:35:49,026 > fail to get status from [11,200,["status"]]
+[WARNING|mate_ksx3267v2.py:458] 2020-12-09 19:35:49,026 > fail to read node info : {u'dt': u'nd', u'children': [{u'dt': u'sen', u'children': [], u'id': u'5', u'dk': u'[11,3060,["value","status"]]'}], u'id': u'4', u'dk': u'[11,200,["status"]]'}
+[INFO|mate_ksx3267v2.py:114] 2020-12-09 19:35:49,527 > read register: 11 3060 3
+[WARNING|mate_ksx3267v2.py:119] 2020-12-09 19:35:49,528 > fail to read holding registers. : Modbus Error: [Connection] Failed to connect[ModbusSerialClient(rtu baud[9600])]
+[WARNING|mate_ksx3267v2.py:437] 2020-12-09 19:35:49,528 > fail to get status from [11,3060,["value","status"]]
+[INFO|mate_ksx3267v2.py:114] 2020-12-09 19:35:53,032 > read register: 11 200 1
+[WARNING|mate_ksx3267v2.py:119] 2020-12-09 19:35:53,033 > fail to read holding registers. : Modbus Error: [Connection] Failed to connect[ModbusSerialClient(rtu baud[9600])]
+[WARNING|mate_ksx3267v2.py:437] 2020-12-09 19:35:53,033 > fail to get status from [11,200,["status"]]
+[WARNING|mate_ksx3267v2.py:458] 2020-12-09 19:35:53,033 > fail to read node info : {u'dt': u'nd', u'children': [{u'dt': u'sen', u'children': [], u'id': u'5', u'dk': u'[11,3060,["value","status"]]'}], u'id': u'4', u'dk': u'[11,200,["status"]]'}
+[INFO|mate_ksx3267v2.py:114] 2020-12-09 19:35:53,534 > read register: 11 3060 3
+[WARNING|mate_ksx3267v2.py:119] 2020-12-09 19:35:53,535 > fail to read holding registers. : Modbus Error: [Connection] Failed to connect[ModbusSerialClient(rtu baud[9600])]
+[WARNING|mate_ksx3267v2.py:437] 2020-12-09 19:35:53,536 > fail to get status from [11,3060,["value","status"]]
+[INFO|mate_ksx3267v2.py:114] 2020-12-09 19:35:54,039 > read register: 11 200 1
+[WARNING|mate_ksx3267v2.py:119] 2020-12-09 19:35:54,040 > fail to read holding registers. : Modbus Error: [Connection] Failed to connect[ModbusSerialClient(rtu baud[9600])]
+[WARNING|mate_ksx3267v2.py:437] 2020-12-09 19:35:54,041 > fail to get status from [11,200,["status"]]
+[WARNING|mate_ksx3267v2.py:458] 2020-12-09 19:35:54,041 > fail to read node info : {u'dt': u'nd', u'children': [{u'dt': u'sen', u'children': [], u'id': u'5', u'dk': u'[11,3060,["value","status"]]'}], u'id': u'4', u'dk': u'[11,200,["status"]]'}
+[INFO|mate_ksx3267v2.py:114] 2020-12-09 19:35:57,556 > read register: 11 200 1
+[WARNING|mate_ksx3267v2.py:119] 2020-12-09 19:35:57,557 > fail to read holding registers. : Modbus Error: [Connection] Failed to connect[ModbusSerialClient(rtu baud[9600])]
+[WARNING|mate_ksx3267v2.py:437] 2020-12-09 19:35:57,557 > fail to get status from [11,200,["status"]]
+[WARNING|mate_ksx3267v2.py:458] 2020-12-09 19:35:57,557 > fail to read node info : {u'dt': u'nd', u'children': [{u'dt': u'sen', u'children': [], u'id': u'5', u'dk': u'[11,3060,["value","status"]]'}], u'id': u'4', u'dk': u'[11,200,["status"]]'}
+[INFO|mate_ksx3267v2.py:114] 2020-12-09 19:35:58,058 > read register: 11 3060 3
+[WARNING|mate_ksx3267v2.py:119] 2020-12-09 19:35:58,059 > fail to read holding registers. : Modbus Error: [Connection] Failed to connect[ModbusSerialClient(rtu baud[9600])]
+[WARNING|mate_ksx3267v2.py:437] 2020-12-09 19:35:58,059 > fail to get status from [11,3060,["value","status"]]
+[INFO|mate_ksx3267v2.py:114] 2020-12-09 19:36:01,564 > read register: 11 200 1
+[WARNING|mate_ksx3267v2.py:119] 2020-12-09 19:36:01,564 > fail to read holding registers. : Modbus Error: [Connection] Failed to connect[ModbusSerialClient(rtu baud[9600])]
+[WARNING|mate_ksx3267v2.py:437] 2020-12-09 19:36:01,564 > fail to get status from [11,200,["status"]]
+[WARNING|mate_ksx3267v2.py:458] 2020-12-09 19:36:01,565 > fail to read node info : {u'dt': u'nd', u'children': [{u'dt': u'sen', u'children': [], u'id': u'5', u'dk': u'[11,3060,["value","status"]]'}], u'id': u'4', u'dk': u'[11,200,["status"]]'}
+[INFO|mate_ksx3267v2.py:114] 2020-12-09 19:36:02,066 > read register: 11 3060 3
+[WARNING|mate_ksx3267v2.py:119] 2020-12-09 19:36:02,067 > fail to read holding registers. : Modbus Error: [Connection] Failed to connect[ModbusSerialClient(rtu baud[9600])]
+[WARNING|mate_ksx3267v2.py:437] 2020-12-09 19:36:02,067 > fail to get status from [11,3060,["value","status"]]
+[INFO|mate_ksx3267v2.py:114] 2020-12-09 19:36:02,568 > read register: 11 200 1
+[WARNING|mate_ksx3267v2.py:119] 2020-12-09 19:36:02,569 > fail to read holding registers. : Modbus Error: [Connection] Failed to connect[ModbusSerialClient(rtu baud[9600])]
+[WARNING|mate_ksx3267v2.py:437] 2020-12-09 19:36:02,569 > fail to get status from [11,200,["status"]]
+[WARNING|mate_ksx3267v2.py:458] 2020-12-09 19:36:02,569 > fail to read node info : {u'dt': u'nd', u'children': [{u'dt': u'sen', u'children': [], u'id': u'5', u'dk': u'[11,3060,["value","status"]]'}], u'id': u'4', u'dk': u'[11,200,["status"]]'}
+[INFO|mate_ksx3267v2.py:114] 2020-12-09 19:36:06,080 > read register: 11 200 1
+[WARNING|mate_ksx3267v2.py:119] 2020-12-09 19:36:06,080 > fail to read holding registers. : Modbus Error: [Connection] Failed to connect[ModbusSerialClient(rtu baud[9600])]
+[WARNING|mate_ksx3267v2.py:437] 2020-12-09 19:36:06,080 > fail to get status from [11,200,["status"]]
+[WARNING|mate_ksx3267v2.py:458] 2020-12-09 19:36:06,080 > fail to read node info : {u'dt': u'nd', u'children': [{u'dt': u'sen', u'children': [], u'id': u'5', u'dk': u'[11,3060,["value","status"]]'}], u'id': u'4', u'dk': u'[11,200,["status"]]'}
+[INFO|mate_ksx3267v2.py:114] 2020-12-09 19:36:06,581 > read register: 11 3060 3
+[WARNING|mate_ksx3267v2.py:119] 2020-12-09 19:36:06,582 > fail to read holding registers. : Modbus Error: [Connection] Failed to connect[ModbusSerialClient(rtu baud[9600])]
+[WARNING|mate_ksx3267v2.py:437] 2020-12-09 19:36:06,582 > fail to get status from [11,3060,["value","status"]]
+[INFO|mate_ksx3267v2.py:114] 2020-12-09 19:36:10,084 > read register: 11 200 1
+[WARNING|mate_ksx3267v2.py:119] 2020-12-09 19:36:10,084 > fail to read holding registers. : Modbus Error: [Connection] Failed to connect[ModbusSerialClient(rtu baud[9600])]
+[WARNING|mate_ksx3267v2.py:437] 2020-12-09 19:36:10,084 > fail to get status from [11,200,["status"]]
+[WARNING|mate_ksx3267v2.py:458] 2020-12-09 19:36:10,084 > fail to read node info : {u'dt': u'nd', u'children': [{u'dt': u'sen', u'children': [], u'id': u'5', u'dk': u'[11,3060,["value","status"]]'}], u'id': u'4', u'dk': u'[11,200,["status"]]'}
+[INFO|mate_ksx3267v2.py:114] 2020-12-09 19:36:10,585 > read register: 11 3060 3
+[WARNING|mate_ksx3267v2.py:119] 2020-12-09 19:36:10,586 > fail to read holding registers. : Modbus Error: [Connection] Failed to connect[ModbusSerialClient(rtu baud[9600])]
+[WARNING|mate_ksx3267v2.py:437] 2020-12-09 19:36:10,586 > fail to get status from [11,3060,["value","status"]]
+[INFO|mate_ksx3267v2.py:114] 2020-12-09 19:36:11,087 > read register: 11 200 1
+[WARNING|mate_ksx3267v2.py:119] 2020-12-09 19:36:11,088 > fail to read holding registers. : Modbus Error: [Connection] Failed to connect[ModbusSerialClient(rtu baud[9600])]
+[WARNING|mate_ksx3267v2.py:437] 2020-12-09 19:36:11,088 > fail to get status from [11,200,["status"]]
+[WARNING|mate_ksx3267v2.py:458] 2020-12-09 19:36:11,089 > fail to read node info : {u'dt': u'nd', u'children': [{u'dt': u'sen', u'children': [], u'id': u'5', u'dk': u'[11,3060,["value","status"]]'}], u'id': u'4', u'dk': u'[11,200,["status"]]'}
+[INFO|mate_ksx3267v2.py:114] 2020-12-09 19:36:14,604 > read register: 11 200 1
+[WARNING|mate_ksx3267v2.py:119] 2020-12-09 19:36:14,605 > fail to read holding registers. : Modbus Error: [Connection] Failed to connect[ModbusSerialClient(rtu baud[9600])]
+[WARNING|mate_ksx3267v2.py:437] 2020-12-09 19:36:14,605 > fail to get status from [11,200,["status"]]
+[WARNING|mate_ksx3267v2.py:458] 2020-12-09 19:36:14,605 > fail to read node info : {u'dt': u'nd', u'children': [{u'dt': u'sen', u'children': [], u'id': u'5', u'dk': u'[11,3060,["value","status"]]'}], u'id': u'4', u'dk': u'[11,200,["status"]]'}
+[INFO|mate_ksx3267v2.py:114] 2020-12-09 19:36:15,106 > read register: 11 3060 3
+[WARNING|mate_ksx3267v2.py:119] 2020-12-09 19:36:15,107 > fail to read holding registers. : Modbus Error: [Connection] Failed to connect[ModbusSerialClient(rtu baud[9600])]
+[WARNING|mate_ksx3267v2.py:437] 2020-12-09 19:36:15,108 > fail to get status from [11,3060,["value","status"]]
+[INFO|mate_ksx3267v2.py:114] 2020-12-09 19:36:18,612 > read register: 11 200 1
+[WARNING|mate_ksx3267v2.py:119] 2020-12-09 19:36:18,612 > fail to read holding registers. : Modbus Error: [Connection] Failed to connect[ModbusSerialClient(rtu baud[9600])]
+[WARNING|mate_ksx3267v2.py:437] 2020-12-09 19:36:18,612 > fail to get status from [11,200,["status"]]
+[WARNING|mate_ksx3267v2.py:458] 2020-12-09 19:36:18,613 > fail to read node info : {u'dt': u'nd', u'children': [{u'dt': u'sen', u'children': [], u'id': u'5', u'dk': u'[11,3060,["value","status"]]'}], u'id': u'4', u'dk': u'[11,200,["status"]]'}
+[INFO|mate_ksx3267v2.py:114] 2020-12-09 19:36:19,113 > read register: 11 3060 3
+[WARNING|mate_ksx3267v2.py:119] 2020-12-09 19:36:19,114 > fail to read holding registers. : Modbus Error: [Connection] Failed to connect[ModbusSerialClient(rtu baud[9600])]
+[WARNING|mate_ksx3267v2.py:437] 2020-12-09 19:36:19,114 > fail to get status from [11,3060,["value","status"]]
+[INFO|mate_ksx3267v2.py:114] 2020-12-09 19:36:19,615 > read register: 11 200 1
+[WARNING|mate_ksx3267v2.py:119] 2020-12-09 19:36:19,615 > fail to read holding registers. : Modbus Error: [Connection] Failed to connect[ModbusSerialClient(rtu baud[9600])]
+[WARNING|mate_ksx3267v2.py:437] 2020-12-09 19:36:19,616 > fail to get status from [11,200,["status"]]
+[WARNING|mate_ksx3267v2.py:458] 2020-12-09 19:36:19,616 > fail to read node info : {u'dt': u'nd', u'children': [{u'dt': u'sen', u'children': [], u'id': u'5', u'dk': u'[11,3060,["value","status"]]'}], u'id': u'4', u'dk': u'[11,200,["status"]]'}
+[INFO|mate_ksx3267v2.py:114] 2020-12-09 19:36:23,129 > read register: 11 200 1
+[WARNING|mate_ksx3267v2.py:119] 2020-12-09 19:36:23,130 > fail to read holding registers. : Modbus Error: [Connection] Failed to connect[ModbusSerialClient(rtu baud[9600])]
+[WARNING|mate_ksx3267v2.py:437] 2020-12-09 19:36:23,130 > fail to get status from [11,200,["status"]]
+[WARNING|mate_ksx3267v2.py:458] 2020-12-09 19:36:23,130 > fail to read node info : {u'dt': u'nd', u'children': [{u'dt': u'sen', u'children': [], u'id': u'5', u'dk': u'[11,3060,["value","status"]]'}], u'id': u'4', u'dk': u'[11,200,["status"]]'}
+[INFO|mate_ksx3267v2.py:114] 2020-12-09 19:36:23,631 > read register: 11 3060 3
+[WARNING|mate_ksx3267v2.py:119] 2020-12-09 19:36:23,632 > fail to read holding registers. : Modbus Error: [Connection] Failed to connect[ModbusSerialClient(rtu baud[9600])]
+[WARNING|mate_ksx3267v2.py:437] 2020-12-09 19:36:23,632 > fail to get status from [11,3060,["value","status"]]
+[INFO|mate_ksx3267v2.py:114] 2020-12-09 19:36:27,136 > read register: 11 200 1
+[WARNING|mate_ksx3267v2.py:119] 2020-12-09 19:36:27,136 > fail to read holding registers. : Modbus Error: [Connection] Failed to connect[ModbusSerialClient(rtu baud[9600])]
+[WARNING|mate_ksx3267v2.py:437] 2020-12-09 19:36:27,136 > fail to get status from [11,200,["status"]]
+[WARNING|mate_ksx3267v2.py:458] 2020-12-09 19:36:27,136 > fail to read node info : {u'dt': u'nd', u'children': [{u'dt': u'sen', u'children': [], u'id': u'5', u'dk': u'[11,3060,["value","status"]]'}], u'id': u'4', u'dk': u'[11,200,["status"]]'}
+[INFO|mate_ksx3267v2.py:114] 2020-12-09 19:36:27,637 > read register: 11 3060 3
+[WARNING|mate_ksx3267v2.py:119] 2020-12-09 19:36:27,637 > fail to read holding registers. : Modbus Error: [Connection] Failed to connect[ModbusSerialClient(rtu baud[9600])]
+[WARNING|mate_ksx3267v2.py:437] 2020-12-09 19:36:27,637 > fail to get status from [11,3060,["value","status"]]
+[INFO|mate_ksx3267v2.py:114] 2020-12-09 19:36:28,138 > read register: 11 200 1
+[WARNING|mate_ksx3267v2.py:119] 2020-12-09 19:36:28,138 > fail to read holding registers. : Modbus Error: [Connection] Failed to connect[ModbusSerialClient(rtu baud[9600])]
+[WARNING|mate_ksx3267v2.py:437] 2020-12-09 19:36:28,139 > fail to get status from [11,200,["status"]]
+[WARNING|mate_ksx3267v2.py:458] 2020-12-09 19:36:28,139 > fail to read node info : {u'dt': u'nd', u'children': [{u'dt': u'sen', u'children': [], u'id': u'5', u'dk': u'[11,3060,["value","status"]]'}], u'id': u'4', u'dk': u'[11,200,["status"]]'}
+[INFO|mate_ksx3267v2.py:114] 2020-12-09 19:36:31,648 > read register: 11 200 1
+[WARNING|mate_ksx3267v2.py:119] 2020-12-09 19:36:31,648 > fail to read holding registers. : Modbus Error: [Connection] Failed to connect[ModbusSerialClient(rtu baud[9600])]
+[WARNING|mate_ksx3267v2.py:437] 2020-12-09 19:36:31,648 > fail to get status from [11,200,["status"]]
+[WARNING|mate_ksx3267v2.py:458] 2020-12-09 19:36:31,648 > fail to read node info : {u'dt': u'nd', u'children': [{u'dt': u'sen', u'children': [], u'id': u'5', u'dk': u'[11,3060,["value","status"]]'}], u'id': u'4', u'dk': u'[11,200,["status"]]'}
+[INFO|mate_ksx3267v2.py:114] 2020-12-09 19:36:32,149 > read register: 11 3060 3
+[WARNING|mate_ksx3267v2.py:119] 2020-12-09 19:36:32,149 > fail to read holding registers. : Modbus Error: [Connection] Failed to connect[ModbusSerialClient(rtu baud[9600])]
+[WARNING|mate_ksx3267v2.py:437] 2020-12-09 19:36:32,150 > fail to get status from [11,3060,["value","status"]]
+[INFO|mate_ksx3267v2.py:114] 2020-12-09 19:36:35,652 > read register: 11 200 1
+[WARNING|mate_ksx3267v2.py:119] 2020-12-09 19:36:35,652 > fail to read holding registers. : Modbus Error: [Connection] Failed to connect[ModbusSerialClient(rtu baud[9600])]
+[WARNING|mate_ksx3267v2.py:437] 2020-12-09 19:36:35,652 > fail to get status from [11,200,["status"]]
+[WARNING|mate_ksx3267v2.py:458] 2020-12-09 19:36:35,653 > fail to read node info : {u'dt': u'nd', u'children': [{u'dt': u'sen', u'children': [], u'id': u'5', u'dk': u'[11,3060,["value","status"]]'}], u'id': u'4', u'dk': u'[11,200,["status"]]'}
+[INFO|mate_ksx3267v2.py:114] 2020-12-09 19:36:36,153 > read register: 11 3060 3
+[WARNING|mate_ksx3267v2.py:119] 2020-12-09 19:36:36,154 > fail to read holding registers. : Modbus Error: [Connection] Failed to connect[ModbusSerialClient(rtu baud[9600])]
+[WARNING|mate_ksx3267v2.py:437] 2020-12-09 19:36:36,154 > fail to get status from [11,3060,["value","status"]]
+[INFO|mate_ksx3267v2.py:114] 2020-12-09 19:36:36,657 > read register: 11 200 1
+[WARNING|mate_ksx3267v2.py:119] 2020-12-09 19:36:36,657 > fail to read holding registers. : Modbus Error: [Connection] Failed to connect[ModbusSerialClient(rtu baud[9600])]
+[WARNING|mate_ksx3267v2.py:437] 2020-12-09 19:36:36,657 > fail to get status from [11,200,["status"]]
+[WARNING|mate_ksx3267v2.py:458] 2020-12-09 19:36:36,657 > fail to read node info : {u'dt': u'nd', u'children': [{u'dt': u'sen', u'children': [], u'id': u'5', u'dk': u'[11,3060,["value","status"]]'}], u'id': u'4', u'dk': u'[11,200,["status"]]'}
+[INFO|mate_ksx3267v2.py:114] 2020-12-09 19:36:40,168 > read register: 11 200 1
+[WARNING|mate_ksx3267v2.py:119] 2020-12-09 19:36:40,168 > fail to read holding registers. : Modbus Error: [Connection] Failed to connect[ModbusSerialClient(rtu baud[9600])]
+[WARNING|mate_ksx3267v2.py:437] 2020-12-09 19:36:40,168 > fail to get status from [11,200,["status"]]
+[WARNING|mate_ksx3267v2.py:458] 2020-12-09 19:36:40,168 > fail to read node info : {u'dt': u'nd', u'children': [{u'dt': u'sen', u'children': [], u'id': u'5', u'dk': u'[11,3060,["value","status"]]'}], u'id': u'4', u'dk': u'[11,200,["status"]]'}
+[INFO|mate_ksx3267v2.py:114] 2020-12-09 19:36:40,669 > read register: 11 3060 3
+[WARNING|mate_ksx3267v2.py:119] 2020-12-09 19:36:40,670 > fail to read holding registers. : Modbus Error: [Connection] Failed to connect[ModbusSerialClient(rtu baud[9600])]
+[WARNING|mate_ksx3267v2.py:437] 2020-12-09 19:36:40,670 > fail to get status from [11,3060,["value","status"]]
+[INFO|mate_ksx3267v2.py:114] 2020-12-09 19:36:44,172 > read register: 11 200 1
+[WARNING|mate_ksx3267v2.py:119] 2020-12-09 19:36:44,172 > fail to read holding registers. : Modbus Error: [Connection] Failed to connect[ModbusSerialClient(rtu baud[9600])]
+[WARNING|mate_ksx3267v2.py:437] 2020-12-09 19:36:44,172 > fail to get status from [11,200,["status"]]
+[WARNING|mate_ksx3267v2.py:458] 2020-12-09 19:36:44,172 > fail to read node info : {u'dt': u'nd', u'children': [{u'dt': u'sen', u'children': [], u'id': u'5', u'dk': u'[11,3060,["value","status"]]'}], u'id': u'4', u'dk': u'[11,200,["status"]]'}
+[INFO|mate_ksx3267v2.py:114] 2020-12-09 19:36:44,673 > read register: 11 3060 3
+[WARNING|mate_ksx3267v2.py:119] 2020-12-09 19:36:44,674 > fail to read holding registers. : Modbus Error: [Connection] Failed to connect[ModbusSerialClient(rtu baud[9600])]
+[WARNING|mate_ksx3267v2.py:437] 2020-12-09 19:36:44,674 > fail to get status from [11,3060,["value","status"]]
+[INFO|mate_ksx3267v2.py:114] 2020-12-09 19:36:45,175 > read register: 11 200 1
+[WARNING|mate_ksx3267v2.py:119] 2020-12-09 19:36:45,176 > fail to read holding registers. : Modbus Error: [Connection] Failed to connect[ModbusSerialClient(rtu baud[9600])]
+[WARNING|mate_ksx3267v2.py:437] 2020-12-09 19:36:45,176 > fail to get status from [11,200,["status"]]
+[WARNING|mate_ksx3267v2.py:458] 2020-12-09 19:36:45,176 > fail to read node info : {u'dt': u'nd', u'children': [{u'dt': u'sen', u'children': [], u'id': u'5', u'dk': u'[11,3060,["value","status"]]'}], u'id': u'4', u'dk': u'[11,200,["status"]]'}
+[INFO|mate_ksx3267v2.py:114] 2020-12-09 19:36:48,696 > read register: 11 200 1
+[WARNING|mate_ksx3267v2.py:119] 2020-12-09 19:36:48,697 > fail to read holding registers. : Modbus Error: [Connection] Failed to connect[ModbusSerialClient(rtu baud[9600])]
+[WARNING|mate_ksx3267v2.py:437] 2020-12-09 19:36:48,697 > fail to get status from [11,200,["status"]]
+[WARNING|mate_ksx3267v2.py:458] 2020-12-09 19:36:48,697 > fail to read node info : {u'dt': u'nd', u'children': [{u'dt': u'sen', u'children': [], u'id': u'5', u'dk': u'[11,3060,["value","status"]]'}], u'id': u'4', u'dk': u'[11,200,["status"]]'}
+[INFO|mate_ksx3267v2.py:114] 2020-12-09 19:36:49,198 > read register: 11 3060 3
+[WARNING|mate_ksx3267v2.py:119] 2020-12-09 19:36:49,199 > fail to read holding registers. : Modbus Error: [Connection] Failed to connect[ModbusSerialClient(rtu baud[9600])]
+[WARNING|mate_ksx3267v2.py:437] 2020-12-09 19:36:49,200 > fail to get status from [11,3060,["value","status"]]
+[INFO|mate_ksx3267v2.py:114] 2020-12-09 19:36:52,704 > read register: 11 200 1
+[WARNING|mate_ksx3267v2.py:119] 2020-12-09 19:36:52,705 > fail to read holding registers. : Modbus Error: [Connection] Failed to connect[ModbusSerialClient(rtu baud[9600])]
+[WARNING|mate_ksx3267v2.py:437] 2020-12-09 19:36:52,705 > fail to get status from [11,200,["status"]]
+[WARNING|mate_ksx3267v2.py:458] 2020-12-09 19:36:52,706 > fail to read node info : {u'dt': u'nd', u'children': [{u'dt': u'sen', u'children': [], u'id': u'5', u'dk': u'[11,3060,["value","status"]]'}], u'id': u'4', u'dk': u'[11,200,["status"]]'}
+[INFO|mate_ksx3267v2.py:114] 2020-12-09 19:36:53,207 > read register: 11 3060 3
+[WARNING|mate_ksx3267v2.py:119] 2020-12-09 19:36:53,208 > fail to read holding registers. : Modbus Error: [Connection] Failed to connect[ModbusSerialClient(rtu baud[9600])]
+[WARNING|mate_ksx3267v2.py:437] 2020-12-09 19:36:53,208 > fail to get status from [11,3060,["value","status"]]
+[INFO|mate_ksx3267v2.py:114] 2020-12-09 19:36:53,709 > read register: 11 200 1
+[WARNING|mate_ksx3267v2.py:119] 2020-12-09 19:36:53,709 > fail to read holding registers. : Modbus Error: [Connection] Failed to connect[ModbusSerialClient(rtu baud[9600])]
+[WARNING|mate_ksx3267v2.py:437] 2020-12-09 19:36:53,710 > fail to get status from [11,200,["status"]]
+[WARNING|mate_ksx3267v2.py:458] 2020-12-09 19:36:53,710 > fail to read node info : {u'dt': u'nd', u'children': [{u'dt': u'sen', u'children': [], u'id': u'5', u'dk': u'[11,3060,["value","status"]]'}], u'id': u'4', u'dk': u'[11,200,["status"]]'}
+[INFO|mate_ksx3267v2.py:114] 2020-12-09 19:36:57,221 > read register: 11 200 1
+[WARNING|mate_ksx3267v2.py:119] 2020-12-09 19:36:57,222 > fail to read holding registers. : Modbus Error: [Connection] Failed to connect[ModbusSerialClient(rtu baud[9600])]
+[WARNING|mate_ksx3267v2.py:437] 2020-12-09 19:36:57,222 > fail to get status from [11,200,["status"]]
+[WARNING|mate_ksx3267v2.py:458] 2020-12-09 19:36:57,223 > fail to read node info : {u'dt': u'nd', u'children': [{u'dt': u'sen', u'children': [], u'id': u'5', u'dk': u'[11,3060,["value","status"]]'}], u'id': u'4', u'dk': u'[11,200,["status"]]'}
+[INFO|mate_ksx3267v2.py:114] 2020-12-09 19:36:57,724 > read register: 11 3060 3
+[WARNING|mate_ksx3267v2.py:119] 2020-12-09 19:36:57,725 > fail to read holding registers. : Modbus Error: [Connection] Failed to connect[ModbusSerialClient(rtu baud[9600])]
+[WARNING|mate_ksx3267v2.py:437] 2020-12-09 19:36:57,725 > fail to get status from [11,3060,["value","status"]]
+[INFO|mate_ksx3267v2.py:114] 2020-12-09 19:37:01,229 > read register: 11 200 1
+[WARNING|mate_ksx3267v2.py:119] 2020-12-09 19:37:01,230 > fail to read holding registers. : Modbus Error: [Connection] Failed to connect[ModbusSerialClient(rtu baud[9600])]
+[WARNING|mate_ksx3267v2.py:437] 2020-12-09 19:37:01,231 > fail to get status from [11,200,["status"]]
+[WARNING|mate_ksx3267v2.py:458] 2020-12-09 19:37:01,231 > fail to read node info : {u'dt': u'nd', u'children': [{u'dt': u'sen', u'children': [], u'id': u'5', u'dk': u'[11,3060,["value","status"]]'}], u'id': u'4', u'dk': u'[11,200,["status"]]'}
+[INFO|mate_ksx3267v2.py:114] 2020-12-09 19:37:01,732 > read register: 11 3060 3
+[WARNING|mate_ksx3267v2.py:119] 2020-12-09 19:37:01,733 > fail to read holding registers. : Modbus Error: [Connection] Failed to connect[ModbusSerialClient(rtu baud[9600])]
+[WARNING|mate_ksx3267v2.py:437] 2020-12-09 19:37:01,734 > fail to get status from [11,3060,["value","status"]]
+[INFO|mate_ksx3267v2.py:114] 2020-12-09 19:37:02,235 > read register: 11 200 1
+[WARNING|mate_ksx3267v2.py:119] 2020-12-09 19:37:02,238 > fail to read holding registers. : Modbus Error: [Connection] Failed to connect[ModbusSerialClient(rtu baud[9600])]
+[WARNING|mate_ksx3267v2.py:437] 2020-12-09 19:37:02,238 > fail to get status from [11,200,["status"]]
+[WARNING|mate_ksx3267v2.py:458] 2020-12-09 19:37:02,239 > fail to read node info : {u'dt': u'nd', u'children': [{u'dt': u'sen', u'children': [], u'id': u'5', u'dk': u'[11,3060,["value","status"]]'}], u'id': u'4', u'dk': u'[11,200,["status"]]'}
+[INFO|mate_ksx3267v2.py:114] 2020-12-09 19:37:05,751 > read register: 11 200 1
+[WARNING|mate_ksx3267v2.py:119] 2020-12-09 19:37:05,752 > fail to read holding registers. : Modbus Error: [Connection] Failed to connect[ModbusSerialClient(rtu baud[9600])]
+[WARNING|mate_ksx3267v2.py:437] 2020-12-09 19:37:05,752 > fail to get status from [11,200,["status"]]
+[WARNING|mate_ksx3267v2.py:458] 2020-12-09 19:37:05,753 > fail to read node info : {u'dt': u'nd', u'children': [{u'dt': u'sen', u'children': [], u'id': u'5', u'dk': u'[11,3060,["value","status"]]'}], u'id': u'4', u'dk': u'[11,200,["status"]]'}
+[INFO|mate_ksx3267v2.py:114] 2020-12-09 19:37:06,254 > read register: 11 3060 3
+[WARNING|mate_ksx3267v2.py:119] 2020-12-09 19:37:06,255 > fail to read holding registers. : Modbus Error: [Connection] Failed to connect[ModbusSerialClient(rtu baud[9600])]
+[WARNING|mate_ksx3267v2.py:437] 2020-12-09 19:37:06,255 > fail to get status from [11,3060,["value","status"]]
+[INFO|mate_ksx3267v2.py:114] 2020-12-09 19:37:09,760 > read register: 11 200 1
+[WARNING|mate_ksx3267v2.py:119] 2020-12-09 19:37:09,761 > fail to read holding registers. : Modbus Error: [Connection] Failed to connect[ModbusSerialClient(rtu baud[9600])]
+[WARNING|mate_ksx3267v2.py:437] 2020-12-09 19:37:09,761 > fail to get status from [11,200,["status"]]
+[WARNING|mate_ksx3267v2.py:458] 2020-12-09 19:37:09,761 > fail to read node info : {u'dt': u'nd', u'children': [{u'dt': u'sen', u'children': [], u'id': u'5', u'dk': u'[11,3060,["value","status"]]'}], u'id': u'4', u'dk': u'[11,200,["status"]]'}
+[INFO|mate_ksx3267v2.py:114] 2020-12-09 19:37:10,262 > read register: 11 3060 3
+[WARNING|mate_ksx3267v2.py:119] 2020-12-09 19:37:10,263 > fail to read holding registers. : Modbus Error: [Connection] Failed to connect[ModbusSerialClient(rtu baud[9600])]
+[WARNING|mate_ksx3267v2.py:437] 2020-12-09 19:37:10,264 > fail to get status from [11,3060,["value","status"]]
+[INFO|mate_ksx3267v2.py:114] 2020-12-09 19:37:10,765 > read register: 11 200 1
+[WARNING|mate_ksx3267v2.py:119] 2020-12-09 19:37:10,765 > fail to read holding registers. : Modbus Error: [Connection] Failed to connect[ModbusSerialClient(rtu baud[9600])]
+[WARNING|mate_ksx3267v2.py:437] 2020-12-09 19:37:10,766 > fail to get status from [11,200,["status"]]
+[WARNING|mate_ksx3267v2.py:458] 2020-12-09 19:37:10,766 > fail to read node info : {u'dt': u'nd', u'children': [{u'dt': u'sen', u'children': [], u'id': u'5', u'dk': u'[11,3060,["value","status"]]'}], u'id': u'4', u'dk': u'[11,200,["status"]]'}
+[INFO|mate_ksx3267v2.py:114] 2020-12-09 19:37:14,279 > read register: 11 200 1
+[WARNING|mate_ksx3267v2.py:119] 2020-12-09 19:37:14,280 > fail to read holding registers. : Modbus Error: [Connection] Failed to connect[ModbusSerialClient(rtu baud[9600])]
+[WARNING|mate_ksx3267v2.py:437] 2020-12-09 19:37:14,280 > fail to get status from [11,200,["status"]]
+[WARNING|mate_ksx3267v2.py:458] 2020-12-09 19:37:14,280 > fail to read node info : {u'dt': u'nd', u'children': [{u'dt': u'sen', u'children': [], u'id': u'5', u'dk': u'[11,3060,["value","status"]]'}], u'id': u'4', u'dk': u'[11,200,["status"]]'}
+[INFO|mate_ksx3267v2.py:114] 2020-12-09 19:37:14,781 > read register: 11 3060 3
+[WARNING|mate_ksx3267v2.py:119] 2020-12-09 19:37:14,781 > fail to read holding registers. : Modbus Error: [Connection] Failed to connect[ModbusSerialClient(rtu baud[9600])]
+[WARNING|mate_ksx3267v2.py:437] 2020-12-09 19:37:14,782 > fail to get status from [11,3060,["value","status"]]
+[INFO|mate_ksx3267v2.py:114] 2020-12-09 19:37:18,284 > read register: 11 200 1
+[WARNING|mate_ksx3267v2.py:119] 2020-12-09 19:37:18,284 > fail to read holding registers. : Modbus Error: [Connection] Failed to connect[ModbusSerialClient(rtu baud[9600])]
+[WARNING|mate_ksx3267v2.py:437] 2020-12-09 19:37:18,285 > fail to get status from [11,200,["status"]]
+[WARNING|mate_ksx3267v2.py:458] 2020-12-09 19:37:18,285 > fail to read node info : {u'dt': u'nd', u'children': [{u'dt': u'sen', u'children': [], u'id': u'5', u'dk': u'[11,3060,["value","status"]]'}], u'id': u'4', u'dk': u'[11,200,["status"]]'}
+[INFO|mate_ksx3267v2.py:114] 2020-12-09 19:37:18,786 > read register: 11 3060 3
+[WARNING|mate_ksx3267v2.py:119] 2020-12-09 19:37:18,786 > fail to read holding registers. : Modbus Error: [Connection] Failed to connect[ModbusSerialClient(rtu baud[9600])]
+[WARNING|mate_ksx3267v2.py:437] 2020-12-09 19:37:18,787 > fail to get status from [11,3060,["value","status"]]
+[INFO|mate_ksx3267v2.py:114] 2020-12-09 19:37:19,289 > read register: 11 200 1
+[WARNING|mate_ksx3267v2.py:119] 2020-12-09 19:37:19,293 > fail to read holding registers. : Modbus Error: [Connection] Failed to connect[ModbusSerialClient(rtu baud[9600])]
+[WARNING|mate_ksx3267v2.py:437] 2020-12-09 19:37:19,294 > fail to get status from [11,200,["status"]]
+[WARNING|mate_ksx3267v2.py:458] 2020-12-09 19:37:19,294 > fail to read node info : {u'dt': u'nd', u'children': [{u'dt': u'sen', u'children': [], u'id': u'5', u'dk': u'[11,3060,["value","status"]]'}], u'id': u'4', u'dk': u'[11,200,["status"]]'}
+[INFO|mate_ksx3267v2.py:114] 2020-12-09 19:37:22,804 > read register: 11 200 1
+[WARNING|mate_ksx3267v2.py:119] 2020-12-09 19:37:22,805 > fail to read holding registers. : Modbus Error: [Connection] Failed to connect[ModbusSerialClient(rtu baud[9600])]
+[WARNING|mate_ksx3267v2.py:437] 2020-12-09 19:37:22,805 > fail to get status from [11,200,["status"]]
+[WARNING|mate_ksx3267v2.py:458] 2020-12-09 19:37:22,805 > fail to read node info : {u'dt': u'nd', u'children': [{u'dt': u'sen', u'children': [], u'id': u'5', u'dk': u'[11,3060,["value","status"]]'}], u'id': u'4', u'dk': u'[11,200,["status"]]'}
+[INFO|mate_ksx3267v2.py:114] 2020-12-09 19:37:23,306 > read register: 11 3060 3
+[WARNING|mate_ksx3267v2.py:119] 2020-12-09 19:37:23,307 > fail to read holding registers. : Modbus Error: [Connection] Failed to connect[ModbusSerialClient(rtu baud[9600])]
+[WARNING|mate_ksx3267v2.py:437] 2020-12-09 19:37:23,308 > fail to get status from [11,3060,["value","status"]]
+[INFO|mate_ksx3267v2.py:114] 2020-12-09 19:37:26,812 > read register: 11 200 1
+[WARNING|mate_ksx3267v2.py:119] 2020-12-09 19:37:26,812 > fail to read holding registers. : Modbus Error: [Connection] Failed to connect[ModbusSerialClient(rtu baud[9600])]
+[WARNING|mate_ksx3267v2.py:437] 2020-12-09 19:37:26,812 > fail to get status from [11,200,["status"]]
+[WARNING|mate_ksx3267v2.py:458] 2020-12-09 19:37:26,812 > fail to read node info : {u'dt': u'nd', u'children': [{u'dt': u'sen', u'children': [], u'id': u'5', u'dk': u'[11,3060,["value","status"]]'}], u'id': u'4', u'dk': u'[11,200,["status"]]'}
+[INFO|mate_ksx3267v2.py:114] 2020-12-09 19:37:27,313 > read register: 11 3060 3
+[WARNING|mate_ksx3267v2.py:119] 2020-12-09 19:37:27,313 > fail to read holding registers. : Modbus Error: [Connection] Failed to connect[ModbusSerialClient(rtu baud[9600])]
+[WARNING|mate_ksx3267v2.py:437] 2020-12-09 19:37:27,314 > fail to get status from [11,3060,["value","status"]]
+[INFO|mate_ksx3267v2.py:114] 2020-12-09 19:37:27,814 > read register: 11 200 1
+[WARNING|mate_ksx3267v2.py:119] 2020-12-09 19:37:27,815 > fail to read holding registers. : Modbus Error: [Connection] Failed to connect[ModbusSerialClient(rtu baud[9600])]
+[WARNING|mate_ksx3267v2.py:437] 2020-12-09 19:37:27,816 > fail to get status from [11,200,["status"]]
+[WARNING|mate_ksx3267v2.py:458] 2020-12-09 19:37:27,816 > fail to read node info : {u'dt': u'nd', u'children': [{u'dt': u'sen', u'children': [], u'id': u'5', u'dk': u'[11,3060,["value","status"]]'}], u'id': u'4', u'dk': u'[11,200,["status"]]'}
+[INFO|mate_ksx3267v2.py:114] 2020-12-09 19:37:31,333 > read register: 11 200 1
+[WARNING|mate_ksx3267v2.py:119] 2020-12-09 19:37:31,334 > fail to read holding registers. : Modbus Error: [Connection] Failed to connect[ModbusSerialClient(rtu baud[9600])]
+[WARNING|mate_ksx3267v2.py:437] 2020-12-09 19:37:31,334 > fail to get status from [11,200,["status"]]
+[WARNING|mate_ksx3267v2.py:458] 2020-12-09 19:37:31,334 > fail to read node info : {u'dt': u'nd', u'children': [{u'dt': u'sen', u'children': [], u'id': u'5', u'dk': u'[11,3060,["value","status"]]'}], u'id': u'4', u'dk': u'[11,200,["status"]]'}
+[INFO|mate_ksx3267v2.py:114] 2020-12-09 19:37:31,835 > read register: 11 3060 3
+[WARNING|mate_ksx3267v2.py:119] 2020-12-09 19:37:31,836 > fail to read holding registers. : Modbus Error: [Connection] Failed to connect[ModbusSerialClient(rtu baud[9600])]
+[WARNING|mate_ksx3267v2.py:437] 2020-12-09 19:37:31,836 > fail to get status from [11,3060,["value","status"]]
+[INFO|mate_ksx3267v2.py:114] 2020-12-09 19:37:35,338 > read register: 11 200 1
+[WARNING|mate_ksx3267v2.py:119] 2020-12-09 19:37:35,339 > fail to read holding registers. : Modbus Error: [Connection] Failed to connect[ModbusSerialClient(rtu baud[9600])]
+[WARNING|mate_ksx3267v2.py:437] 2020-12-09 19:37:35,339 > fail to get status from [11,200,["status"]]
+[WARNING|mate_ksx3267v2.py:458] 2020-12-09 19:37:35,339 > fail to read node info : {u'dt': u'nd', u'children': [{u'dt': u'sen', u'children': [], u'id': u'5', u'dk': u'[11,3060,["value","status"]]'}], u'id': u'4', u'dk': u'[11,200,["status"]]'}
+[INFO|mate_ksx3267v2.py:114] 2020-12-09 19:37:35,840 > read register: 11 3060 3
+[WARNING|mate_ksx3267v2.py:119] 2020-12-09 19:37:35,841 > fail to read holding registers. : Modbus Error: [Connection] Failed to connect[ModbusSerialClient(rtu baud[9600])]
+[WARNING|mate_ksx3267v2.py:437] 2020-12-09 19:37:35,841 > fail to get status from [11,3060,["value","status"]]
+[INFO|mate_ksx3267v2.py:114] 2020-12-09 19:37:36,343 > read register: 11 200 1
+[WARNING|mate_ksx3267v2.py:119] 2020-12-09 19:37:36,343 > fail to read holding registers. : Modbus Error: [Connection] Failed to connect[ModbusSerialClient(rtu baud[9600])]
+[WARNING|mate_ksx3267v2.py:437] 2020-12-09 19:37:36,344 > fail to get status from [11,200,["status"]]
+[WARNING|mate_ksx3267v2.py:458] 2020-12-09 19:37:36,344 > fail to read node info : {u'dt': u'nd', u'children': [{u'dt': u'sen', u'children': [], u'id': u'5', u'dk': u'[11,3060,["value","status"]]'}], u'id': u'4', u'dk': u'[11,200,["status"]]'}
+[INFO|mate_ksx3267v2.py:114] 2020-12-09 19:37:39,856 > read register: 11 200 1
+[WARNING|mate_ksx3267v2.py:119] 2020-12-09 19:37:39,857 > fail to read holding registers. : Modbus Error: [Connection] Failed to connect[ModbusSerialClient(rtu baud[9600])]
+[WARNING|mate_ksx3267v2.py:437] 2020-12-09 19:37:39,857 > fail to get status from [11,200,["status"]]
+[WARNING|mate_ksx3267v2.py:458] 2020-12-09 19:37:39,858 > fail to read node info : {u'dt': u'nd', u'children': [{u'dt': u'sen', u'children': [], u'id': u'5', u'dk': u'[11,3060,["value","status"]]'}], u'id': u'4', u'dk': u'[11,200,["status"]]'}
+[INFO|mate_ksx3267v2.py:114] 2020-12-09 19:37:40,359 > read register: 11 3060 3
+[WARNING|mate_ksx3267v2.py:119] 2020-12-09 19:37:40,360 > fail to read holding registers. : Modbus Error: [Connection] Failed to connect[ModbusSerialClient(rtu baud[9600])]
+[WARNING|mate_ksx3267v2.py:437] 2020-12-09 19:37:40,360 > fail to get status from [11,3060,["value","status"]]
+[INFO|mate_ksx3267v2.py:114] 2020-12-09 19:37:43,864 > read register: 11 200 1
+[WARNING|mate_ksx3267v2.py:119] 2020-12-09 19:37:43,865 > fail to read holding registers. : Modbus Error: [Connection] Failed to connect[ModbusSerialClient(rtu baud[9600])]
+[WARNING|mate_ksx3267v2.py:437] 2020-12-09 19:37:43,865 > fail to get status from [11,200,["status"]]
+[WARNING|mate_ksx3267v2.py:458] 2020-12-09 19:37:43,866 > fail to read node info : {u'dt': u'nd', u'children': [{u'dt': u'sen', u'children': [], u'id': u'5', u'dk': u'[11,3060,["value","status"]]'}], u'id': u'4', u'dk': u'[11,200,["status"]]'}
+[INFO|mate_ksx3267v2.py:114] 2020-12-09 19:37:44,367 > read register: 11 3060 3
+[WARNING|mate_ksx3267v2.py:119] 2020-12-09 19:37:44,368 > fail to read holding registers. : Modbus Error: [Connection] Failed to connect[ModbusSerialClient(rtu baud[9600])]
+[WARNING|mate_ksx3267v2.py:437] 2020-12-09 19:37:44,368 > fail to get status from [11,3060,["value","status"]]
+[INFO|mate_ksx3267v2.py:114] 2020-12-09 19:37:44,869 > read register: 11 200 1
+[WARNING|mate_ksx3267v2.py:119] 2020-12-09 19:37:44,870 > fail to read holding registers. : Modbus Error: [Connection] Failed to connect[ModbusSerialClient(rtu baud[9600])]
+[WARNING|mate_ksx3267v2.py:437] 2020-12-09 19:37:44,871 > fail to get status from [11,200,["status"]]
+[WARNING|mate_ksx3267v2.py:458] 2020-12-09 19:37:44,871 > fail to read node info : {u'dt': u'nd', u'children': [{u'dt': u'sen', u'children': [], u'id': u'5', u'dk': u'[11,3060,["value","status"]]'}], u'id': u'4', u'dk': u'[11,200,["status"]]'}
+[INFO|mate_ksx3267v2.py:114] 2020-12-09 19:37:48,390 > read register: 11 200 1
+[WARNING|mate_ksx3267v2.py:119] 2020-12-09 19:37:48,391 > fail to read holding registers. : Modbus Error: [Connection] Failed to connect[ModbusSerialClient(rtu baud[9600])]
+[WARNING|mate_ksx3267v2.py:437] 2020-12-09 19:37:48,392 > fail to get status from [11,200,["status"]]
+[WARNING|mate_ksx3267v2.py:458] 2020-12-09 19:37:48,392 > fail to read node info : {u'dt': u'nd', u'children': [{u'dt': u'sen', u'children': [], u'id': u'5', u'dk': u'[11,3060,["value","status"]]'}], u'id': u'4', u'dk': u'[11,200,["status"]]'}
+[INFO|mate_ksx3267v2.py:114] 2020-12-09 19:37:48,893 > read register: 11 3060 3
+[WARNING|mate_ksx3267v2.py:119] 2020-12-09 19:37:48,894 > fail to read holding registers. : Modbus Error: [Connection] Failed to connect[ModbusSerialClient(rtu baud[9600])]
+[WARNING|mate_ksx3267v2.py:437] 2020-12-09 19:37:48,894 > fail to get status from [11,3060,["value","status"]]
+[INFO|mate_ksx3267v2.py:114] 2020-12-09 19:37:52,399 > read register: 11 200 1
+[WARNING|mate_ksx3267v2.py:119] 2020-12-09 19:37:52,400 > fail to read holding registers. : Modbus Error: [Connection] Failed to connect[ModbusSerialClient(rtu baud[9600])]
+[WARNING|mate_ksx3267v2.py:437] 2020-12-09 19:37:52,400 > fail to get status from [11,200,["status"]]
+[WARNING|mate_ksx3267v2.py:458] 2020-12-09 19:37:52,400 > fail to read node info : {u'dt': u'nd', u'children': [{u'dt': u'sen', u'children': [], u'id': u'5', u'dk': u'[11,3060,["value","status"]]'}], u'id': u'4', u'dk': u'[11,200,["status"]]'}
+[INFO|mate_ksx3267v2.py:114] 2020-12-09 19:37:52,901 > read register: 11 3060 3
+[WARNING|mate_ksx3267v2.py:119] 2020-12-09 19:37:52,902 > fail to read holding registers. : Modbus Error: [Connection] Failed to connect[ModbusSerialClient(rtu baud[9600])]
+[WARNING|mate_ksx3267v2.py:437] 2020-12-09 19:37:52,902 > fail to get status from [11,3060,["value","status"]]
+[INFO|mate_ksx3267v2.py:114] 2020-12-09 19:37:53,403 > read register: 11 200 1
+[WARNING|mate_ksx3267v2.py:119] 2020-12-09 19:37:53,406 > fail to read holding registers. : Modbus Error: [Connection] Failed to connect[ModbusSerialClient(rtu baud[9600])]
+[WARNING|mate_ksx3267v2.py:437] 2020-12-09 19:37:53,406 > fail to get status from [11,200,["status"]]
+[WARNING|mate_ksx3267v2.py:458] 2020-12-09 19:37:53,406 > fail to read node info : {u'dt': u'nd', u'children': [{u'dt': u'sen', u'children': [], u'id': u'5', u'dk': u'[11,3060,["value","status"]]'}], u'id': u'4', u'dk': u'[11,200,["status"]]'}
+[INFO|mate_ksx3267v2.py:114] 2020-12-09 19:37:56,918 > read register: 11 200 1
+[WARNING|mate_ksx3267v2.py:119] 2020-12-09 19:37:56,919 > fail to read holding registers. : Modbus Error: [Connection] Failed to connect[ModbusSerialClient(rtu baud[9600])]
+[WARNING|mate_ksx3267v2.py:437] 2020-12-09 19:37:56,920 > fail to get status from [11,200,["status"]]
+[WARNING|mate_ksx3267v2.py:458] 2020-12-09 19:37:56,920 > fail to read node info : {u'dt': u'nd', u'children': [{u'dt': u'sen', u'children': [], u'id': u'5', u'dk': u'[11,3060,["value","status"]]'}], u'id': u'4', u'dk': u'[11,200,["status"]]'}
+[INFO|mate_ksx3267v2.py:114] 2020-12-09 19:37:57,421 > read register: 11 3060 3
+[WARNING|mate_ksx3267v2.py:119] 2020-12-09 19:37:57,422 > fail to read holding registers. : Modbus Error: [Connection] Failed to connect[ModbusSerialClient(rtu baud[9600])]
+[WARNING|mate_ksx3267v2.py:437] 2020-12-09 19:37:57,422 > fail to get status from [11,3060,["value","status"]]
+[INFO|mate_ksx3267v2.py:114] 2020-12-09 19:38:00,926 > read register: 11 200 1
+[WARNING|mate_ksx3267v2.py:119] 2020-12-09 19:38:00,927 > fail to read holding registers. : Modbus Error: [Connection] Failed to connect[ModbusSerialClient(rtu baud[9600])]
+[WARNING|mate_ksx3267v2.py:437] 2020-12-09 19:38:00,927 > fail to get status from [11,200,["status"]]
+[WARNING|mate_ksx3267v2.py:458] 2020-12-09 19:38:00,928 > fail to read node info : {u'dt': u'nd', u'children': [{u'dt': u'sen', u'children': [], u'id': u'5', u'dk': u'[11,3060,["value","status"]]'}], u'id': u'4', u'dk': u'[11,200,["status"]]'}
+[INFO|mate_ksx3267v2.py:114] 2020-12-09 19:38:01,429 > read register: 11 3060 3
+[WARNING|mate_ksx3267v2.py:119] 2020-12-09 19:38:01,429 > fail to read holding registers. : Modbus Error: [Connection] Failed to connect[ModbusSerialClient(rtu baud[9600])]
+[WARNING|mate_ksx3267v2.py:437] 2020-12-09 19:38:01,430 > fail to get status from [11,3060,["value","status"]]
+[INFO|mate_ksx3267v2.py:114] 2020-12-09 19:38:01,933 > read register: 11 200 1
+[WARNING|mate_ksx3267v2.py:119] 2020-12-09 19:38:01,935 > fail to read holding registers. : Modbus Error: [Connection] Failed to connect[ModbusSerialClient(rtu baud[9600])]
+[WARNING|mate_ksx3267v2.py:437] 2020-12-09 19:38:01,935 > fail to get status from [11,200,["status"]]
+[WARNING|mate_ksx3267v2.py:458] 2020-12-09 19:38:01,936 > fail to read node info : {u'dt': u'nd', u'children': [{u'dt': u'sen', u'children': [], u'id': u'5', u'dk': u'[11,3060,["value","status"]]'}], u'id': u'4', u'dk': u'[11,200,["status"]]'}
+[INFO|mate_ksx3267v2.py:114] 2020-12-09 19:38:05,446 > read register: 11 200 1
+[WARNING|mate_ksx3267v2.py:119] 2020-12-09 19:38:05,447 > fail to read holding registers. : Modbus Error: [Connection] Failed to connect[ModbusSerialClient(rtu baud[9600])]
+[WARNING|mate_ksx3267v2.py:437] 2020-12-09 19:38:05,447 > fail to get status from [11,200,["status"]]
+[WARNING|mate_ksx3267v2.py:458] 2020-12-09 19:38:05,447 > fail to read node info : {u'dt': u'nd', u'children': [{u'dt': u'sen', u'children': [], u'id': u'5', u'dk': u'[11,3060,["value","status"]]'}], u'id': u'4', u'dk': u'[11,200,["status"]]'}
+[INFO|mate_ksx3267v2.py:114] 2020-12-09 19:38:05,949 > read register: 11 3060 3
+[WARNING|mate_ksx3267v2.py:119] 2020-12-09 19:38:05,949 > fail to read holding registers. : Modbus Error: [Connection] Failed to connect[ModbusSerialClient(rtu baud[9600])]
+[WARNING|mate_ksx3267v2.py:437] 2020-12-09 19:38:05,949 > fail to get status from [11,3060,["value","status"]]
+[INFO|mate_ksx3267v2.py:114] 2020-12-09 19:38:09,453 > read register: 11 200 1
+[WARNING|mate_ksx3267v2.py:119] 2020-12-09 19:38:09,454 > fail to read holding registers. : Modbus Error: [Connection] Failed to connect[ModbusSerialClient(rtu baud[9600])]
+[WARNING|mate_ksx3267v2.py:437] 2020-12-09 19:38:09,454 > fail to get status from [11,200,["status"]]
+[WARNING|mate_ksx3267v2.py:458] 2020-12-09 19:38:09,455 > fail to read node info : {u'dt': u'nd', u'children': [{u'dt': u'sen', u'children': [], u'id': u'5', u'dk': u'[11,3060,["value","status"]]'}], u'id': u'4', u'dk': u'[11,200,["status"]]'}
+[INFO|mate_ksx3267v2.py:114] 2020-12-09 19:38:09,956 > read register: 11 3060 3
+[WARNING|mate_ksx3267v2.py:119] 2020-12-09 19:38:09,957 > fail to read holding registers. : Modbus Error: [Connection] Failed to connect[ModbusSerialClient(rtu baud[9600])]
+[WARNING|mate_ksx3267v2.py:437] 2020-12-09 19:38:09,957 > fail to get status from [11,3060,["value","status"]]
+[INFO|mate_ksx3267v2.py:114] 2020-12-09 19:38:10,458 > read register: 11 200 1
+[WARNING|mate_ksx3267v2.py:119] 2020-12-09 19:38:10,459 > fail to read holding registers. : Modbus Error: [Connection] Failed to connect[ModbusSerialClient(rtu baud[9600])]
+[WARNING|mate_ksx3267v2.py:437] 2020-12-09 19:38:10,459 > fail to get status from [11,200,["status"]]
+[WARNING|mate_ksx3267v2.py:458] 2020-12-09 19:38:10,459 > fail to read node info : {u'dt': u'nd', u'children': [{u'dt': u'sen', u'children': [], u'id': u'5', u'dk': u'[11,3060,["value","status"]]'}], u'id': u'4', u'dk': u'[11,200,["status"]]'}
+[INFO|mate_ksx3267v2.py:114] 2020-12-09 19:38:13,973 > read register: 11 200 1
+[WARNING|mate_ksx3267v2.py:119] 2020-12-09 19:38:13,974 > fail to read holding registers. : Modbus Error: [Connection] Failed to connect[ModbusSerialClient(rtu baud[9600])]
+[WARNING|mate_ksx3267v2.py:437] 2020-12-09 19:38:13,974 > fail to get status from [11,200,["status"]]
+[WARNING|mate_ksx3267v2.py:458] 2020-12-09 19:38:13,974 > fail to read node info : {u'dt': u'nd', u'children': [{u'dt': u'sen', u'children': [], u'id': u'5', u'dk': u'[11,3060,["value","status"]]'}], u'id': u'4', u'dk': u'[11,200,["status"]]'}
+[INFO|mate_ksx3267v2.py:114] 2020-12-09 19:38:14,475 > read register: 11 3060 3
+[WARNING|mate_ksx3267v2.py:119] 2020-12-09 19:38:14,476 > fail to read holding registers. : Modbus Error: [Connection] Failed to connect[ModbusSerialClient(rtu baud[9600])]
+[WARNING|mate_ksx3267v2.py:437] 2020-12-09 19:38:14,476 > fail to get status from [11,3060,["value","status"]]
+[INFO|mate_ksx3267v2.py:114] 2020-12-09 19:38:17,980 > read register: 11 200 1
+[WARNING|mate_ksx3267v2.py:119] 2020-12-09 19:38:17,981 > fail to read holding registers. : Modbus Error: [Connection] Failed to connect[ModbusSerialClient(rtu baud[9600])]
+[WARNING|mate_ksx3267v2.py:437] 2020-12-09 19:38:17,981 > fail to get status from [11,200,["status"]]
+[WARNING|mate_ksx3267v2.py:458] 2020-12-09 19:38:17,982 > fail to read node info : {u'dt': u'nd', u'children': [{u'dt': u'sen', u'children': [], u'id': u'5', u'dk': u'[11,3060,["value","status"]]'}], u'id': u'4', u'dk': u'[11,200,["status"]]'}
+[INFO|mate_ksx3267v2.py:114] 2020-12-09 19:38:18,483 > read register: 11 3060 3
+[WARNING|mate_ksx3267v2.py:119] 2020-12-09 19:38:18,484 > fail to read holding registers. : Modbus Error: [Connection] Failed to connect[ModbusSerialClient(rtu baud[9600])]
+[WARNING|mate_ksx3267v2.py:437] 2020-12-09 19:38:18,484 > fail to get status from [11,3060,["value","status"]]
+[INFO|mate_ksx3267v2.py:114] 2020-12-09 19:38:18,985 > read register: 11 200 1
+[WARNING|mate_ksx3267v2.py:119] 2020-12-09 19:38:18,986 > fail to read holding registers. : Modbus Error: [Connection] Failed to connect[ModbusSerialClient(rtu baud[9600])]
+[WARNING|mate_ksx3267v2.py:437] 2020-12-09 19:38:18,986 > fail to get status from [11,200,["status"]]
+[WARNING|mate_ksx3267v2.py:458] 2020-12-09 19:38:18,986 > fail to read node info : {u'dt': u'nd', u'children': [{u'dt': u'sen', u'children': [], u'id': u'5', u'dk': u'[11,3060,["value","status"]]'}], u'id': u'4', u'dk': u'[11,200,["status"]]'}
+[INFO|mate_ksx3267v2.py:114] 2020-12-09 19:38:22,500 > read register: 11 200 1
+[WARNING|mate_ksx3267v2.py:119] 2020-12-09 19:38:22,501 > fail to read holding registers. : Modbus Error: [Connection] Failed to connect[ModbusSerialClient(rtu baud[9600])]
+[WARNING|mate_ksx3267v2.py:437] 2020-12-09 19:38:22,501 > fail to get status from [11,200,["status"]]
+[WARNING|mate_ksx3267v2.py:458] 2020-12-09 19:38:22,501 > fail to read node info : {u'dt': u'nd', u'children': [{u'dt': u'sen', u'children': [], u'id': u'5', u'dk': u'[11,3060,["value","status"]]'}], u'id': u'4', u'dk': u'[11,200,["status"]]'}
+[INFO|mate_ksx3267v2.py:114] 2020-12-09 19:38:23,002 > read register: 11 3060 3
+[WARNING|mate_ksx3267v2.py:119] 2020-12-09 19:38:23,003 > fail to read holding registers. : Modbus Error: [Connection] Failed to connect[ModbusSerialClient(rtu baud[9600])]
+[WARNING|mate_ksx3267v2.py:437] 2020-12-09 19:38:23,003 > fail to get status from [11,3060,["value","status"]]
+[INFO|mate_ksx3267v2.py:114] 2020-12-09 19:38:26,507 > read register: 11 200 1
+[WARNING|mate_ksx3267v2.py:119] 2020-12-09 19:38:26,508 > fail to read holding registers. : Modbus Error: [Connection] Failed to connect[ModbusSerialClient(rtu baud[9600])]
+[WARNING|mate_ksx3267v2.py:437] 2020-12-09 19:38:26,508 > fail to get status from [11,200,["status"]]
+[WARNING|mate_ksx3267v2.py:458] 2020-12-09 19:38:26,508 > fail to read node info : {u'dt': u'nd', u'children': [{u'dt': u'sen', u'children': [], u'id': u'5', u'dk': u'[11,3060,["value","status"]]'}], u'id': u'4', u'dk': u'[11,200,["status"]]'}
+[INFO|mate_ksx3267v2.py:114] 2020-12-09 19:38:27,009 > read register: 11 3060 3
+[WARNING|mate_ksx3267v2.py:119] 2020-12-09 19:38:27,010 > fail to read holding registers. : Modbus Error: [Connection] Failed to connect[ModbusSerialClient(rtu baud[9600])]
+[WARNING|mate_ksx3267v2.py:437] 2020-12-09 19:38:27,010 > fail to get status from [11,3060,["value","status"]]
+[INFO|mate_ksx3267v2.py:114] 2020-12-09 19:38:27,511 > read register: 11 200 1
+[WARNING|mate_ksx3267v2.py:119] 2020-12-09 19:38:27,514 > fail to read holding registers. : Modbus Error: [Connection] Failed to connect[ModbusSerialClient(rtu baud[9600])]
+[WARNING|mate_ksx3267v2.py:437] 2020-12-09 19:38:27,514 > fail to get status from [11,200,["status"]]
+[WARNING|mate_ksx3267v2.py:458] 2020-12-09 19:38:27,514 > fail to read node info : {u'dt': u'nd', u'children': [{u'dt': u'sen', u'children': [], u'id': u'5', u'dk': u'[11,3060,["value","status"]]'}], u'id': u'4', u'dk': u'[11,200,["status"]]'}
+[INFO|mate_ksx3267v2.py:114] 2020-12-09 19:38:31,027 > read register: 11 200 1
+[WARNING|mate_ksx3267v2.py:119] 2020-12-09 19:38:31,028 > fail to read holding registers. : Modbus Error: [Connection] Failed to connect[ModbusSerialClient(rtu baud[9600])]
+[WARNING|mate_ksx3267v2.py:437] 2020-12-09 19:38:31,028 > fail to get status from [11,200,["status"]]
+[WARNING|mate_ksx3267v2.py:458] 2020-12-09 19:38:31,029 > fail to read node info : {u'dt': u'nd', u'children': [{u'dt': u'sen', u'children': [], u'id': u'5', u'dk': u'[11,3060,["value","status"]]'}], u'id': u'4', u'dk': u'[11,200,["status"]]'}
+[INFO|mate_ksx3267v2.py:114] 2020-12-09 19:38:31,530 > read register: 11 3060 3
+[WARNING|mate_ksx3267v2.py:119] 2020-12-09 19:38:31,531 > fail to read holding registers. : Modbus Error: [Connection] Failed to connect[ModbusSerialClient(rtu baud[9600])]
+[WARNING|mate_ksx3267v2.py:437] 2020-12-09 19:38:31,531 > fail to get status from [11,3060,["value","status"]]
+[INFO|mate_ksx3267v2.py:114] 2020-12-09 19:38:35,036 > read register: 11 200 1
+[WARNING|mate_ksx3267v2.py:119] 2020-12-09 19:38:35,037 > fail to read holding registers. : Modbus Error: [Connection] Failed to connect[ModbusSerialClient(rtu baud[9600])]
+[WARNING|mate_ksx3267v2.py:437] 2020-12-09 19:38:35,037 > fail to get status from [11,200,["status"]]
+[WARNING|mate_ksx3267v2.py:458] 2020-12-09 19:38:35,037 > fail to read node info : {u'dt': u'nd', u'children': [{u'dt': u'sen', u'children': [], u'id': u'5', u'dk': u'[11,3060,["value","status"]]'}], u'id': u'4', u'dk': u'[11,200,["status"]]'}
+[INFO|mate_ksx3267v2.py:114] 2020-12-09 19:38:35,538 > read register: 11 3060 3
+[WARNING|mate_ksx3267v2.py:119] 2020-12-09 19:38:35,539 > fail to read holding registers. : Modbus Error: [Connection] Failed to connect[ModbusSerialClient(rtu baud[9600])]
+[WARNING|mate_ksx3267v2.py:437] 2020-12-09 19:38:35,540 > fail to get status from [11,3060,["value","status"]]
+[INFO|mate_ksx3267v2.py:114] 2020-12-09 19:38:36,041 > read register: 11 200 1
+[WARNING|mate_ksx3267v2.py:119] 2020-12-09 19:38:36,044 > fail to read holding registers. : Modbus Error: [Connection] Failed to connect[ModbusSerialClient(rtu baud[9600])]
+[WARNING|mate_ksx3267v2.py:437] 2020-12-09 19:38:36,044 > fail to get status from [11,200,["status"]]
+[WARNING|mate_ksx3267v2.py:458] 2020-12-09 19:38:36,044 > fail to read node info : {u'dt': u'nd', u'children': [{u'dt': u'sen', u'children': [], u'id': u'5', u'dk': u'[11,3060,["value","status"]]'}], u'id': u'4', u'dk': u'[11,200,["status"]]'}
+[INFO|mate_ksx3267v2.py:114] 2020-12-09 19:38:39,555 > read register: 11 200 1
+[WARNING|mate_ksx3267v2.py:119] 2020-12-09 19:38:39,556 > fail to read holding registers. : Modbus Error: [Connection] Failed to connect[ModbusSerialClient(rtu baud[9600])]
+[WARNING|mate_ksx3267v2.py:437] 2020-12-09 19:38:39,556 > fail to get status from [11,200,["status"]]
+[WARNING|mate_ksx3267v2.py:458] 2020-12-09 19:38:39,556 > fail to read node info : {u'dt': u'nd', u'children': [{u'dt': u'sen', u'children': [], u'id': u'5', u'dk': u'[11,3060,["value","status"]]'}], u'id': u'4', u'dk': u'[11,200,["status"]]'}
+[INFO|mate_ksx3267v2.py:114] 2020-12-09 19:38:40,057 > read register: 11 3060 3
+[WARNING|mate_ksx3267v2.py:119] 2020-12-09 19:38:40,058 > fail to read holding registers. : Modbus Error: [Connection] Failed to connect[ModbusSerialClient(rtu baud[9600])]
+[WARNING|mate_ksx3267v2.py:437] 2020-12-09 19:38:40,058 > fail to get status from [11,3060,["value","status"]]
+[INFO|mate_ksx3267v2.py:114] 2020-12-09 19:38:43,560 > read register: 11 200 1
+[WARNING|mate_ksx3267v2.py:119] 2020-12-09 19:38:43,560 > fail to read holding registers. : Modbus Error: [Connection] Failed to connect[ModbusSerialClient(rtu baud[9600])]
+[WARNING|mate_ksx3267v2.py:437] 2020-12-09 19:38:43,560 > fail to get status from [11,200,["status"]]
+[WARNING|mate_ksx3267v2.py:458] 2020-12-09 19:38:43,560 > fail to read node info : {u'dt': u'nd', u'children': [{u'dt': u'sen', u'children': [], u'id': u'5', u'dk': u'[11,3060,["value","status"]]'}], u'id': u'4', u'dk': u'[11,200,["status"]]'}
+[INFO|mate_ksx3267v2.py:114] 2020-12-09 19:38:44,061 > read register: 11 3060 3
+[WARNING|mate_ksx3267v2.py:119] 2020-12-09 19:38:44,061 > fail to read holding registers. : Modbus Error: [Connection] Failed to connect[ModbusSerialClient(rtu baud[9600])]
+[WARNING|mate_ksx3267v2.py:437] 2020-12-09 19:38:44,061 > fail to get status from [11,3060,["value","status"]]
+[INFO|mate_ksx3267v2.py:114] 2020-12-09 19:38:44,563 > read register: 11 200 1
+[WARNING|mate_ksx3267v2.py:119] 2020-12-09 19:38:44,564 > fail to read holding registers. : Modbus Error: [Connection] Failed to connect[ModbusSerialClient(rtu baud[9600])]
+[WARNING|mate_ksx3267v2.py:437] 2020-12-09 19:38:44,564 > fail to get status from [11,200,["status"]]
+[WARNING|mate_ksx3267v2.py:458] 2020-12-09 19:38:44,564 > fail to read node info : {u'dt': u'nd', u'children': [{u'dt': u'sen', u'children': [], u'id': u'5', u'dk': u'[11,3060,["value","status"]]'}], u'id': u'4', u'dk': u'[11,200,["status"]]'}
+[INFO|mate_ksx3267v2.py:114] 2020-12-09 19:38:48,084 > read register: 11 200 1
+[WARNING|mate_ksx3267v2.py:119] 2020-12-09 19:38:48,084 > fail to read holding registers. : Modbus Error: [Connection] Failed to connect[ModbusSerialClient(rtu baud[9600])]
+[WARNING|mate_ksx3267v2.py:437] 2020-12-09 19:38:48,085 > fail to get status from [11,200,["status"]]
+[WARNING|mate_ksx3267v2.py:458] 2020-12-09 19:38:48,085 > fail to read node info : {u'dt': u'nd', u'children': [{u'dt': u'sen', u'children': [], u'id': u'5', u'dk': u'[11,3060,["value","status"]]'}], u'id': u'4', u'dk': u'[11,200,["status"]]'}
+[INFO|mate_ksx3267v2.py:114] 2020-12-09 19:38:48,586 > read register: 11 3060 3
+[WARNING|mate_ksx3267v2.py:119] 2020-12-09 19:38:48,586 > fail to read holding registers. : Modbus Error: [Connection] Failed to connect[ModbusSerialClient(rtu baud[9600])]
+[WARNING|mate_ksx3267v2.py:437] 2020-12-09 19:38:48,586 > fail to get status from [11,3060,["value","status"]]
+[INFO|mate_ksx3267v2.py:114] 2020-12-09 19:38:52,088 > read register: 11 200 1
+[WARNING|mate_ksx3267v2.py:119] 2020-12-09 19:38:52,088 > fail to read holding registers. : Modbus Error: [Connection] Failed to connect[ModbusSerialClient(rtu baud[9600])]
+[WARNING|mate_ksx3267v2.py:437] 2020-12-09 19:38:52,089 > fail to get status from [11,200,["status"]]
+[WARNING|mate_ksx3267v2.py:458] 2020-12-09 19:38:52,089 > fail to read node info : {u'dt': u'nd', u'children': [{u'dt': u'sen', u'children': [], u'id': u'5', u'dk': u'[11,3060,["value","status"]]'}], u'id': u'4', u'dk': u'[11,200,["status"]]'}
+[INFO|mate_ksx3267v2.py:114] 2020-12-09 19:38:52,590 > read register: 11 3060 3
+[WARNING|mate_ksx3267v2.py:119] 2020-12-09 19:38:52,590 > fail to read holding registers. : Modbus Error: [Connection] Failed to connect[ModbusSerialClient(rtu baud[9600])]
+[WARNING|mate_ksx3267v2.py:437] 2020-12-09 19:38:52,591 > fail to get status from [11,3060,["value","status"]]
+[INFO|mate_ksx3267v2.py:114] 2020-12-09 19:38:53,092 > read register: 11 200 1
+[WARNING|mate_ksx3267v2.py:119] 2020-12-09 19:38:53,093 > fail to read holding registers. : Modbus Error: [Connection] Failed to connect[ModbusSerialClient(rtu baud[9600])]
+[WARNING|mate_ksx3267v2.py:437] 2020-12-09 19:38:53,093 > fail to get status from [11,200,["status"]]
+[WARNING|mate_ksx3267v2.py:458] 2020-12-09 19:38:53,093 > fail to read node info : {u'dt': u'nd', u'children': [{u'dt': u'sen', u'children': [], u'id': u'5', u'dk': u'[11,3060,["value","status"]]'}], u'id': u'4', u'dk': u'[11,200,["status"]]'}
+[INFO|mate_ksx3267v2.py:114] 2020-12-09 19:38:56,608 > read register: 11 200 1
+[WARNING|mate_ksx3267v2.py:119] 2020-12-09 19:38:56,608 > fail to read holding registers. : Modbus Error: [Connection] Failed to connect[ModbusSerialClient(rtu baud[9600])]
+[WARNING|mate_ksx3267v2.py:437] 2020-12-09 19:38:56,608 > fail to get status from [11,200,["status"]]
+[WARNING|mate_ksx3267v2.py:458] 2020-12-09 19:38:56,608 > fail to read node info : {u'dt': u'nd', u'children': [{u'dt': u'sen', u'children': [], u'id': u'5', u'dk': u'[11,3060,["value","status"]]'}], u'id': u'4', u'dk': u'[11,200,["status"]]'}
+[INFO|mate_ksx3267v2.py:114] 2020-12-09 19:38:57,109 > read register: 11 3060 3
+[WARNING|mate_ksx3267v2.py:119] 2020-12-09 19:38:57,110 > fail to read holding registers. : Modbus Error: [Connection] Failed to connect[ModbusSerialClient(rtu baud[9600])]
+[WARNING|mate_ksx3267v2.py:437] 2020-12-09 19:38:57,110 > fail to get status from [11,3060,["value","status"]]
+[INFO|mate_ksx3267v2.py:114] 2020-12-09 19:39:00,612 > read register: 11 200 1
+[WARNING|mate_ksx3267v2.py:119] 2020-12-09 19:39:00,612 > fail to read holding registers. : Modbus Error: [Connection] Failed to connect[ModbusSerialClient(rtu baud[9600])]
+[WARNING|mate_ksx3267v2.py:437] 2020-12-09 19:39:00,612 > fail to get status from [11,200,["status"]]
+[WARNING|mate_ksx3267v2.py:458] 2020-12-09 19:39:00,612 > fail to read node info : {u'dt': u'nd', u'children': [{u'dt': u'sen', u'children': [], u'id': u'5', u'dk': u'[11,3060,["value","status"]]'}], u'id': u'4', u'dk': u'[11,200,["status"]]'}
+[INFO|mate_ksx3267v2.py:114] 2020-12-09 19:39:01,113 > read register: 11 3060 3
+[WARNING|mate_ksx3267v2.py:119] 2020-12-09 19:39:01,113 > fail to read holding registers. : Modbus Error: [Connection] Failed to connect[ModbusSerialClient(rtu baud[9600])]
+[WARNING|mate_ksx3267v2.py:437] 2020-12-09 19:39:01,114 > fail to get status from [11,3060,["value","status"]]
+[INFO|mate_ksx3267v2.py:114] 2020-12-09 19:39:01,614 > read register: 11 200 1
+[WARNING|mate_ksx3267v2.py:119] 2020-12-09 19:39:01,615 > fail to read holding registers. : Modbus Error: [Connection] Failed to connect[ModbusSerialClient(rtu baud[9600])]
+[WARNING|mate_ksx3267v2.py:437] 2020-12-09 19:39:01,615 > fail to get status from [11,200,["status"]]
+[WARNING|mate_ksx3267v2.py:458] 2020-12-09 19:39:01,615 > fail to read node info : {u'dt': u'nd', u'children': [{u'dt': u'sen', u'children': [], u'id': u'5', u'dk': u'[11,3060,["value","status"]]'}], u'id': u'4', u'dk': u'[11,200,["status"]]'}
+[INFO|mate_ksx3267v2.py:114] 2020-12-09 19:39:05,128 > read register: 11 200 1
+[WARNING|mate_ksx3267v2.py:119] 2020-12-09 19:39:05,128 > fail to read holding registers. : Modbus Error: [Connection] Failed to connect[ModbusSerialClient(rtu baud[9600])]
+[WARNING|mate_ksx3267v2.py:437] 2020-12-09 19:39:05,128 > fail to get status from [11,200,["status"]]
+[WARNING|mate_ksx3267v2.py:458] 2020-12-09 19:39:05,128 > fail to read node info : {u'dt': u'nd', u'children': [{u'dt': u'sen', u'children': [], u'id': u'5', u'dk': u'[11,3060,["value","status"]]'}], u'id': u'4', u'dk': u'[11,200,["status"]]'}
+[INFO|mate_ksx3267v2.py:114] 2020-12-09 19:39:05,629 > read register: 11 3060 3
+[WARNING|mate_ksx3267v2.py:119] 2020-12-09 19:39:05,629 > fail to read holding registers. : Modbus Error: [Connection] Failed to connect[ModbusSerialClient(rtu baud[9600])]
+[WARNING|mate_ksx3267v2.py:437] 2020-12-09 19:39:05,630 > fail to get status from [11,3060,["value","status"]]
+[INFO|mate_ksx3267v2.py:114] 2020-12-09 19:39:09,132 > read register: 11 200 1
+[INFO|mate_ksx3267v2.py:114] 2020-12-09 19:39:09,671 > read register: 11 3060 3
+[INFO|mate_ksx3267v2.py:114] 2020-12-09 19:39:10,215 > read register: 11 200 1
+[INFO|mate_ksx3267v2.py:114] 2020-12-09 19:39:13,768 > read register: 11 200 1
+[INFO|mate_ksx3267v2.py:114] 2020-12-09 19:39:14,307 > read register: 11 3060 3
+[INFO|mate_ksx3267v2.py:114] 2020-12-09 19:39:17,852 > read register: 11 200 1
+[INFO|mate_ksx3267v2.py:114] 2020-12-09 19:39:18,391 > read register: 11 3060 3
+[INFO|mate_ksx3267v2.py:114] 2020-12-09 19:39:18,935 > read register: 11 200 1
+[INFO|couplemng.py:114] 2020-12-09 19:39:21,993 > Configuration of a couple [시험온실#1] is changed.
+[INFO|mate_ksx3267v2.py:114] 2020-12-09 19:39:22,483 > read register: 11 200 1
+[INFO|mate_ksx3267v2.py:114] 2020-12-09 19:39:23,023 > read register: 11 3060 3
+[INFO|couplemng.py:87] 2020-12-09 19:39:23,066 > 4157859e-df55-48e5-b3ac-8e6288f2165e stopped
+[INFO|couplemng.py:80] 2020-12-09 19:39:23,066 > load a mate : FarmosMate 4157859e-df55-48e5-b3ac-8e6288f2165e
+[INFO|calibration.py:46] 2020-12-09 19:39:23,067 > There is no information of calibration
+[INFO|couplemng.py:70] 2020-12-09 19:39:23,067 > A ssmate [mate_farmos/FarmosMate] is loading.
+[INFO|couplemng.py:80] 2020-12-09 19:39:23,067 > load a mate : KSX3267MateV2 4157859e-df55-48e5-b3ac-8e6288f2165e
+[INFO|calibration.py:46] 2020-12-09 19:39:23,067 > There is no information of calibration
+[INFO|mate.py:171] 2020-12-09 19:39:23,067 > Mate Started.
+[INFO|mate_ksx3267v2.py:60] 2020-12-09 19:39:23,068 > KSX3267MateV2 Started.
+[INFO|couplemng.py:72] 2020-12-09 19:39:23,068 > A dsmate [mate_ksx3267v2/KSX3267MateV2] is loading.
+[INFO|mate.py:141] 2020-12-09 19:39:23,074 > sleep 10 seconds and try to connect
+[INFO|mate_ksx3267v2.py:411] 2020-12-09 19:48:07,730 > write response: <mblock.Response object at 0x7f721dadb990>
+[INFO|mate_ksx3267v2.py:114] 2020-12-09 19:48:10,025 > read register: 11 2 6
+[INFO|mate_ksx3267v2.py:114] 2020-12-09 19:48:10,575 > read register: 11 101 1
+[INFO|mate_ksx3267v2.py:178] 2020-12-09 19:48:10,614 > Found a node : 11 {'compcode': 8877, 'nodecode': 20220, 'devcodes': [12060]}
+[INFO|mate_ksx3267v2.py:131] 2020-12-09 19:48:10,716 > finished to detect devices : {u'USB0': {11: {'compcode': 8877, 'nodecode': 20220, 'devcodes': [12060]}}}
+[INFO|couplemng.py:94] 2020-12-09 20:13:42,248 > Couple Manager tries to stop
+[INFO|daemon.py:188] 2020-12-09 20:13:42,248 > Trying to stop a process 998
+[INFO|daemon.py:189] 2020-12-09 20:13:42,248 > It might take a minute.
+[INFO|daemon.py:209] 2020-12-09 20:13:42,248 > process killed.
+[INFO|couplemng.py:94] 2020-12-09 20:13:42,248 > Couple Manager tries to stop
+[INFO|daemon.py:188] 2020-12-09 20:13:42,248 > Trying to stop a process 998
+[INFO|daemon.py:189] 2020-12-09 20:13:42,249 > It might take a minute.
+[INFO|daemon.py:193] 2020-12-09 20:14:47,312 > sent SIGKILL to 998
+[WARNING|daemon.py:149] 2020-12-09 20:39:32,463 > Check for a pidfile to see if the daemon already runs
+
+[WARNING|daemon.py:150] 2020-12-09 20:39:32,463 > /var/run/cpmng.pid
+
+[WARNING|daemon.py:116] 2020-12-09 20:39:32,464 > Entering daemon mode (26238)
+
+[DEBUG|daemon.py:36] 2020-12-09 20:39:32,465 > initialized....
+[INFO|couplemng.py:111] 2020-12-09 20:39:32,465 > A new couple [시험온실#1] is loading.
+[INFO|couplemng.py:80] 2020-12-09 20:39:32,498 > load a mate : FarmosMate 4157859e-df55-48e5-b3ac-8e6288f2165e
+[INFO|calibration.py:46] 2020-12-09 20:39:32,499 > There is no information of calibration
+[INFO|couplemng.py:70] 2020-12-09 20:39:32,499 > A ssmate [mate_farmos/FarmosMate] is loading.
+[INFO|couplemng.py:80] 2020-12-09 20:39:32,508 > load a mate : KSX3267MateV2 4157859e-df55-48e5-b3ac-8e6288f2165e
+[INFO|calibration.py:46] 2020-12-09 20:39:32,508 > There is no information of calibration
+[INFO|mate.py:171] 2020-12-09 20:39:32,509 > Mate Started.
+[INFO|mate_ksx3267v2.py:60] 2020-12-09 20:39:32,509 > KSX3267MateV2 Started.
+[INFO|couplemng.py:72] 2020-12-09 20:39:32,509 > A dsmate [mate_ksx3267v2/KSX3267MateV2] is loading.
+[INFO|mate.py:141] 2020-12-09 20:39:32,512 > sleep 10 seconds and try to connect
+[INFO|mate_ksx3267v2.py:411] 2020-12-09 20:40:49,639 > write response: <mblock.Response object at 0x7f52e4c10890>
+[INFO|mate_ksx3267v2.py:114] 2020-12-09 20:40:52,074 > read register: 11 2 6
+[INFO|mate_ksx3267v2.py:114] 2020-12-09 20:40:52,624 > read register: 11 101 1
+[INFO|mate_ksx3267v2.py:178] 2020-12-09 20:40:52,663 > Found a node : 11 {'compcode': 8877, 'nodecode': 20220, 'devcodes': [12060]}
+[INFO|mate_ksx3267v2.py:131] 2020-12-09 20:40:52,766 > finished to detect devices : {u'USB0': {11: {'compcode': 8877, 'nodecode': 20220, 'devcodes': [12060]}}}
+[INFO|couplemng.py:94] 2020-12-09 23:02:07,959 > Couple Manager tries to stop
+[INFO|daemon.py:188] 2020-12-09 23:02:07,960 > Trying to stop a process 26238
+[INFO|daemon.py:189] 2020-12-09 23:02:07,960 > It might take a minute.
+[INFO|daemon.py:209] 2020-12-09 23:02:07,960 > process killed.
+[INFO|couplemng.py:94] 2020-12-09 23:02:07,960 > Couple Manager tries to stop
+[INFO|daemon.py:188] 2020-12-09 23:02:07,960 > Trying to stop a process 26238
+[INFO|daemon.py:189] 2020-12-09 23:02:07,960 > It might take a minute.
+[INFO|daemon.py:193] 2020-12-09 23:03:18,015 > sent SIGKILL to 26238
+[INFO|daemon.py:193] 2020-12-09 23:03:23,019 > sent SIGKILL to 26238
+[WARNING|daemon.py:149] 2020-12-09 23:56:58,550 > Check for a pidfile to see if the daemon already runs
+
+[WARNING|daemon.py:150] 2020-12-09 23:56:58,550 > /var/run/cpmng.pid
+
+[WARNING|daemon.py:116] 2020-12-09 23:56:58,551 > Entering daemon mode (28430)
+
+[DEBUG|daemon.py:36] 2020-12-09 23:56:58,551 > initialized....
+[INFO|couplemng.py:111] 2020-12-09 23:56:58,552 > A new couple [시험온실#1] is loading.
+[INFO|couplemng.py:80] 2020-12-09 23:56:58,585 > load a mate : FarmosMate 4157859e-df55-48e5-b3ac-8e6288f2165e
+[INFO|calibration.py:46] 2020-12-09 23:56:58,585 > There is no information of calibration
+[INFO|couplemng.py:70] 2020-12-09 23:56:58,585 > A ssmate [mate_farmos/FarmosMate] is loading.
+[INFO|couplemng.py:80] 2020-12-09 23:56:58,594 > load a mate : KSX3267MateV2 4157859e-df55-48e5-b3ac-8e6288f2165e
+[INFO|calibration.py:46] 2020-12-09 23:56:58,594 > There is no information of calibration
+[INFO|mate.py:171] 2020-12-09 23:56:58,594 > Mate Started.
+[INFO|mate_ksx3267v2.py:60] 2020-12-09 23:56:58,594 > KSX3267MateV2 Started.
+[INFO|couplemng.py:72] 2020-12-09 23:56:58,594 > A dsmate [mate_ksx3267v2/KSX3267MateV2] is loading.
+[INFO|mate.py:141] 2020-12-09 23:56:58,598 > sleep 10 seconds and try to connect
+[INFO|mate_ksx3267v2.py:411] 2020-12-09 23:57:10,285 > write response: <mblock.Response object at 0x7f050394c8d0>
+[INFO|mate_ksx3267v2.py:114] 2020-12-09 23:57:12,101 > read register: 1 2 6
+[INFO|mate_ksx3267v2.py:114] 2020-12-09 23:57:15,604 > read register: 1 2 6
+[INFO|mate_ksx3267v2.py:114] 2020-12-09 23:57:19,117 > read register: 1 2 6
+[INFO|mate_ksx3267v2.py:172] 2020-12-09 23:57:22,120 > Fail to get information from a node : 1 Modbus Error: [Input/Output] No Response received from the remote unit/Unable to decode response
+[INFO|mate_ksx3267v2.py:114] 2020-12-09 23:57:22,726 > read register: 2 2 6
+[INFO|mate_ksx3267v2.py:114] 2020-12-09 23:57:26,229 > read register: 2 2 6
+[INFO|mate_ksx3267v2.py:114] 2020-12-09 23:57:29,739 > read register: 2 2 6
+[INFO|mate_ksx3267v2.py:172] 2020-12-09 23:57:32,743 > Fail to get information from a node : 2 Modbus Error: [Input/Output] No Response received from the remote unit/Unable to decode response
+[INFO|mate_ksx3267v2.py:114] 2020-12-09 23:57:33,348 > read register: 3 2 6
+[INFO|mate_ksx3267v2.py:114] 2020-12-09 23:57:36,854 > read register: 3 2 6
+[INFO|mate_ksx3267v2.py:114] 2020-12-09 23:57:40,364 > read register: 3 2 6
+[INFO|mate_ksx3267v2.py:172] 2020-12-09 23:57:43,367 > Fail to get information from a node : 3 Modbus Error: [Input/Output] No Response received from the remote unit/Unable to decode response
+[INFO|mate_ksx3267v2.py:114] 2020-12-09 23:57:43,973 > read register: 4 2 6
+[INFO|mate_ksx3267v2.py:114] 2020-12-09 23:57:47,477 > read register: 4 2 6
+[INFO|mate_ksx3267v2.py:114] 2020-12-09 23:57:50,985 > read register: 4 2 6
+[INFO|mate_ksx3267v2.py:172] 2020-12-09 23:57:53,989 > Fail to get information from a node : 4 Modbus Error: [Input/Output] No Response received from the remote unit/Unable to decode response
+[INFO|mate_ksx3267v2.py:114] 2020-12-09 23:57:54,593 > read register: 5 2 6
+[INFO|mate_ksx3267v2.py:114] 2020-12-09 23:57:58,099 > read register: 5 2 6
+[INFO|mate_ksx3267v2.py:114] 2020-12-09 23:58:01,608 > read register: 5 2 6
+[INFO|mate_ksx3267v2.py:172] 2020-12-09 23:58:04,611 > Fail to get information from a node : 5 Modbus Error: [Input/Output] No Response received from the remote unit/Unable to decode response
+[INFO|mate_ksx3267v2.py:114] 2020-12-09 23:58:05,217 > read register: 6 2 6
+[INFO|mate_ksx3267v2.py:114] 2020-12-09 23:58:08,719 > read register: 6 2 6
+[INFO|mate_ksx3267v2.py:114] 2020-12-09 23:58:12,228 > read register: 6 2 6
+[INFO|mate_ksx3267v2.py:172] 2020-12-09 23:58:15,231 > Fail to get information from a node : 6 Modbus Error: [Input/Output] No Response received from the remote unit/Unable to decode response
+[INFO|mate_ksx3267v2.py:114] 2020-12-09 23:58:15,836 > read register: 7 2 6
+[INFO|mate_ksx3267v2.py:114] 2020-12-09 23:58:19,340 > read register: 7 2 6
+[INFO|mate_ksx3267v2.py:114] 2020-12-09 23:58:22,848 > read register: 7 2 6
+[INFO|mate_ksx3267v2.py:172] 2020-12-09 23:58:25,851 > Fail to get information from a node : 7 Modbus Error: [Input/Output] No Response received from the remote unit/Unable to decode response
+[INFO|mate_ksx3267v2.py:114] 2020-12-09 23:58:26,456 > read register: 8 2 6
+[INFO|mate_ksx3267v2.py:114] 2020-12-09 23:58:29,960 > read register: 8 2 6
+[INFO|mate_ksx3267v2.py:114] 2020-12-09 23:58:33,469 > read register: 8 2 6
+[INFO|mate_ksx3267v2.py:172] 2020-12-09 23:58:36,471 > Fail to get information from a node : 8 Modbus Error: [Input/Output] No Response received from the remote unit/Unable to decode response
+[INFO|mate_ksx3267v2.py:114] 2020-12-09 23:58:37,077 > read register: 9 2 6
+[INFO|mate_ksx3267v2.py:114] 2020-12-09 23:58:40,581 > read register: 9 2 6
+[INFO|mate_ksx3267v2.py:114] 2020-12-09 23:58:44,088 > read register: 9 2 6
+[INFO|mate_ksx3267v2.py:172] 2020-12-09 23:58:47,091 > Fail to get information from a node : 9 Modbus Error: [Input/Output] No Response received from the remote unit/Unable to decode response
+[INFO|mate_ksx3267v2.py:114] 2020-12-09 23:58:47,696 > read register: 10 2 6
+[INFO|mate_ksx3267v2.py:114] 2020-12-09 23:58:51,200 > read register: 10 2 6
+[INFO|mate_ksx3267v2.py:114] 2020-12-09 23:58:54,708 > read register: 10 2 6
+[INFO|mate_ksx3267v2.py:172] 2020-12-09 23:58:57,711 > Fail to get information from a node : 10 Modbus Error: [Input/Output] No Response received from the remote unit/Unable to decode response
+[INFO|mate_ksx3267v2.py:114] 2020-12-09 23:58:58,316 > read register: 11 2 6
+[INFO|mate_ksx3267v2.py:131] 2020-12-09 23:58:58,468 > finished to detect devices : {u'USB0': {}}
+[INFO|couplemng.py:94] 2020-12-10 00:00:04,906 > Couple Manager tries to stop
+[INFO|daemon.py:188] 2020-12-10 00:00:04,906 > Trying to stop a process 28430
+[INFO|daemon.py:189] 2020-12-10 00:00:04,906 > It might take a minute.
+[INFO|daemon.py:209] 2020-12-10 00:00:04,906 > process killed.
+[INFO|couplemng.py:94] 2020-12-10 00:00:04,906 > Couple Manager tries to stop
+[INFO|daemon.py:188] 2020-12-10 00:00:04,907 > Trying to stop a process 28430
+[INFO|daemon.py:189] 2020-12-10 00:00:04,907 > It might take a minute.
+[INFO|daemon.py:193] 2020-12-10 00:01:14,965 > sent SIGKILL to 28430
+[INFO|daemon.py:193] 2020-12-10 00:01:19,968 > sent SIGKILL to 28430
+[WARNING|daemon.py:149] 2020-12-10 00:16:36,507 > Check for a pidfile to see if the daemon already runs
+
+[WARNING|daemon.py:150] 2020-12-10 00:16:36,507 > /var/run/cpmng.pid
+
+[WARNING|daemon.py:116] 2020-12-10 00:16:36,508 > Entering daemon mode (28824)
+
+[DEBUG|daemon.py:36] 2020-12-10 00:16:36,509 > initialized....
+[INFO|couplemng.py:111] 2020-12-10 00:16:36,509 > A new couple [시험온실#1] is loading.
+[INFO|couplemng.py:80] 2020-12-10 00:16:36,545 > load a mate : FarmosMate 4157859e-df55-48e5-b3ac-8e6288f2165e
+[INFO|calibration.py:46] 2020-12-10 00:16:36,545 > There is no information of calibration
+[INFO|couplemng.py:70] 2020-12-10 00:16:36,545 > A ssmate [mate_farmos/FarmosMate] is loading.
+[INFO|couplemng.py:80] 2020-12-10 00:16:36,551 > load a mate : KSX3267MateV2 4157859e-df55-48e5-b3ac-8e6288f2165e
+[INFO|calibration.py:46] 2020-12-10 00:16:36,551 > There is no information of calibration
+[INFO|mate.py:171] 2020-12-10 00:16:36,551 > Mate Started.
+[INFO|mate_ksx3267v2.py:60] 2020-12-10 00:16:36,551 > KSX3267MateV2 Started.
+[INFO|couplemng.py:72] 2020-12-10 00:16:36,551 > A dsmate [mate_ksx3267v2/KSX3267MateV2] is loading.
+[INFO|mate.py:141] 2020-12-10 00:16:36,556 > sleep 10 seconds and try to connect
+[INFO|mate_ksx3267v2.py:412] 2020-12-10 00:16:42,409 > write response: <mblock.Response object at 0x7f95ee5a5990>
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 00:16:50,071 > read register: 10 2 6
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 00:16:53,577 > read register: 10 2 6
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 00:16:57,086 > read register: 10 2 6
+[INFO|mate_ksx3267v2.py:173] 2020-12-10 00:17:00,087 > Fail to get information from a node : 10 Modbus Error: [Input/Output] No Response received from the remote unit/Unable to decode response
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 00:17:00,693 > read register: 11 2 6
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 00:17:04,196 > read register: 11 2 6
+[INFO|mate_ksx3267v2.py:131] 2020-12-10 00:17:04,354 > finished to detect devices : {u'USB0': {}}
+[INFO|couplemng.py:94] 2020-12-10 00:20:47,935 > Couple Manager tries to stop
+[INFO|daemon.py:188] 2020-12-10 00:20:47,936 > Trying to stop a process 28824
+[INFO|daemon.py:189] 2020-12-10 00:20:47,936 > It might take a minute.
+[INFO|daemon.py:209] 2020-12-10 00:20:47,936 > process killed.
+[INFO|couplemng.py:94] 2020-12-10 00:20:47,936 > Couple Manager tries to stop
+[INFO|daemon.py:188] 2020-12-10 00:20:47,936 > Trying to stop a process 28824
+[INFO|daemon.py:189] 2020-12-10 00:20:47,936 > It might take a minute.
+[INFO|daemon.py:193] 2020-12-10 00:21:52,987 > sent SIGKILL to 28824
+[WARNING|daemon.py:149] 2020-12-10 00:34:09,755 > Check for a pidfile to see if the daemon already runs
+
+[WARNING|daemon.py:150] 2020-12-10 00:34:09,755 > /var/run/cpmng.pid
+
+[WARNING|daemon.py:116] 2020-12-10 00:34:09,756 > Entering daemon mode (29106)
+
+[DEBUG|daemon.py:36] 2020-12-10 00:34:09,756 > initialized....
+[INFO|couplemng.py:111] 2020-12-10 00:34:09,757 > A new couple [시험온실#1] is loading.
+[INFO|couplemng.py:80] 2020-12-10 00:34:09,790 > load a mate : FarmosMate 4157859e-df55-48e5-b3ac-8e6288f2165e
+[INFO|calibration.py:46] 2020-12-10 00:34:09,790 > There is no information of calibration
+[INFO|couplemng.py:70] 2020-12-10 00:34:09,790 > A ssmate [mate_farmos/FarmosMate] is loading.
+[INFO|couplemng.py:80] 2020-12-10 00:34:09,796 > load a mate : KSX3267MateV2 4157859e-df55-48e5-b3ac-8e6288f2165e
+[INFO|calibration.py:46] 2020-12-10 00:34:09,796 > There is no information of calibration
+[INFO|mate.py:171] 2020-12-10 00:34:09,796 > Mate Started.
+[INFO|mate_ksx3267v2.py:60] 2020-12-10 00:34:09,796 > KSX3267MateV2 Started.
+[INFO|couplemng.py:72] 2020-12-10 00:34:09,796 > A dsmate [mate_ksx3267v2/KSX3267MateV2] is loading.
+[INFO|mate.py:141] 2020-12-10 00:34:09,801 > sleep 10 seconds and try to connect
+[INFO|mate_ksx3267v2.py:412] 2020-12-10 00:34:19,632 > write response: <mblock.Response object at 0x7f94ca1b8990>
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 00:34:23,317 > read register: 10 2 6
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 00:34:26,821 > read register: 10 2 6
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 00:34:30,331 > read register: 10 2 6
+[INFO|mate_ksx3267v2.py:173] 2020-12-10 00:34:33,334 > Fail to get information from a node : 10 Modbus Error: [Input/Output] No Response received from the remote unit/Unable to decode response
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 00:34:33,938 > read register: 11 2 6
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 00:34:37,443 > read register: 11 2 6
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 00:34:37,998 > read register: 11 101 1
+[INFO|mate_ksx3267v2.py:179] 2020-12-10 00:34:38,038 > Found a node : 11 {'compcode': 8877, 'nodecode': 20220, 'devcodes': [12060]}
+[INFO|mate_ksx3267v2.py:131] 2020-12-10 00:34:38,141 > finished to detect devices : {u'USB0': {11: {'compcode': 8877, 'nodecode': 20220, 'devcodes': [12060]}}}
