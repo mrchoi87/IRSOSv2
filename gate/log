@@ -7493,3 +7493,477 @@
 [INFO|mate_ksx3267v2.py:114] 2020-12-10 00:56:27,960 > read register: 11 2 6
 [INFO|mate_ksx3267v2.py:173] 2020-12-10 00:56:30,963 > Fail to get information from a node : 11 Modbus Error: [Input/Output] No Response received from the remote unit/Unable to decode response
 [INFO|mate_ksx3267v2.py:131] 2020-12-10 00:56:31,066 > finished to detect devices : {u'USB1': {1: {'compcode': 0, 'nodecode': 0, 'devcodes': [1, 0, 0, 1]}}}
+[INFO|couplemng.py:114] 2020-12-10 02:29:36,613 > Configuration of a couple [시험온실#1] is changed.
+[INFO|couplemng.py:87] 2020-12-10 02:29:38,775 > 4157859e-df55-48e5-b3ac-8e6288f2165e stopped
+[INFO|couplemng.py:80] 2020-12-10 02:29:38,775 > load a mate : FarmosMate 4157859e-df55-48e5-b3ac-8e6288f2165e
+[INFO|calibration.py:46] 2020-12-10 02:29:38,776 > There is no information of calibration
+[INFO|couplemng.py:70] 2020-12-10 02:29:38,776 > A ssmate [mate_farmos/FarmosMate] is loading.
+[INFO|couplemng.py:80] 2020-12-10 02:29:38,776 > load a mate : KSX3267MateV2 4157859e-df55-48e5-b3ac-8e6288f2165e
+[INFO|calibration.py:46] 2020-12-10 02:29:38,777 > There is no information of calibration
+[INFO|mate.py:171] 2020-12-10 02:29:38,777 > Mate Started.
+[INFO|mate_ksx3267v2.py:60] 2020-12-10 02:29:38,777 > KSX3267MateV2 Started.
+[INFO|couplemng.py:72] 2020-12-10 02:29:38,778 > A dsmate [mate_ksx3267v2/KSX3267MateV2] is loading.
+[INFO|mate.py:141] 2020-12-10 02:29:38,785 > sleep 10 seconds and try to connect
+[INFO|couplemng.py:94] 2020-12-10 02:38:12,380 > Couple Manager tries to stop
+[INFO|daemon.py:188] 2020-12-10 02:38:12,380 > Trying to stop a process 29633
+[INFO|daemon.py:189] 2020-12-10 02:38:12,380 > It might take a minute.
+[INFO|daemon.py:209] 2020-12-10 02:38:12,380 > process killed.
+[INFO|couplemng.py:94] 2020-12-10 02:38:12,380 > Couple Manager tries to stop
+[INFO|daemon.py:188] 2020-12-10 02:38:12,381 > Trying to stop a process 29633
+[INFO|daemon.py:189] 2020-12-10 02:38:12,381 > It might take a minute.
+[INFO|daemon.py:193] 2020-12-10 02:39:17,427 > sent SIGKILL to 29633
+[WARNING|daemon.py:149] 2020-12-10 02:39:36,929 > Check for a pidfile to see if the daemon already runs
+
+[WARNING|daemon.py:150] 2020-12-10 02:39:36,930 > /var/run/cpmng.pid
+
+[WARNING|daemon.py:116] 2020-12-10 02:39:36,930 > Entering daemon mode (32305)
+
+[DEBUG|daemon.py:36] 2020-12-10 02:39:36,931 > initialized....
+[INFO|couplemng.py:111] 2020-12-10 02:39:36,931 > A new couple [시험온실#1] is loading.
+[INFO|couplemng.py:80] 2020-12-10 02:39:36,970 > load a mate : FarmosMate 4157859e-df55-48e5-b3ac-8e6288f2165e
+[INFO|calibration.py:46] 2020-12-10 02:39:36,970 > There is no information of calibration
+[INFO|couplemng.py:70] 2020-12-10 02:39:36,970 > A ssmate [mate_farmos/FarmosMate] is loading.
+[INFO|couplemng.py:80] 2020-12-10 02:39:36,976 > load a mate : KSX3267MateV2 4157859e-df55-48e5-b3ac-8e6288f2165e
+[INFO|calibration.py:46] 2020-12-10 02:39:36,976 > There is no information of calibration
+[INFO|mate.py:171] 2020-12-10 02:39:36,976 > Mate Started.
+[INFO|mate_ksx3267v2.py:60] 2020-12-10 02:39:36,976 > KSX3267MateV2 Started.
+[INFO|couplemng.py:72] 2020-12-10 02:39:36,977 > A dsmate [mate_ksx3267v2/KSX3267MateV2] is loading.
+[INFO|mate.py:141] 2020-12-10 02:39:36,982 > sleep 10 seconds and try to connect
+[INFO|mate_ksx3267v2.py:412] 2020-12-10 02:39:38,533 > write response: <mblock.Response object at 0x7fbfe2de69d0>
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:39:50,498 > read register: 1 2 6
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:39:54,001 > read register: 1 2 6
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:39:57,511 > read register: 1 2 6
+[INFO|mate_ksx3267v2.py:173] 2020-12-10 02:40:00,515 > Fail to get information from a node : 1 Modbus Error: [Input/Output] No Response received from the remote unit/Unable to decode response
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:40:01,122 > read register: 2 2 6
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:40:04,625 > read register: 2 2 6
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:40:08,135 > read register: 2 2 6
+[INFO|mate_ksx3267v2.py:173] 2020-12-10 02:40:11,139 > Fail to get information from a node : 2 Modbus Error: [Input/Output] No Response received from the remote unit/Unable to decode response
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:40:11,744 > read register: 3 2 6
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:40:15,249 > read register: 3 2 6
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:40:18,759 > read register: 3 2 6
+[INFO|mate_ksx3267v2.py:173] 2020-12-10 02:40:21,763 > Fail to get information from a node : 3 Modbus Error: [Input/Output] No Response received from the remote unit/Unable to decode response
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:40:22,368 > read register: 4 2 6
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:40:25,873 > read register: 4 2 6
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:40:29,380 > read register: 4 2 6
+[INFO|mate_ksx3267v2.py:173] 2020-12-10 02:40:32,384 > Fail to get information from a node : 4 Modbus Error: [Input/Output] No Response received from the remote unit/Unable to decode response
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:40:32,989 > read register: 5 2 6
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:40:36,493 > read register: 5 2 6
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:40:40,002 > read register: 5 2 6
+[INFO|mate_ksx3267v2.py:173] 2020-12-10 02:40:43,003 > Fail to get information from a node : 5 Modbus Error: [Input/Output] No Response received from the remote unit/Unable to decode response
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:40:43,608 > read register: 6 2 6
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:40:47,112 > read register: 6 2 6
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:40:50,620 > read register: 6 2 6
+[INFO|mate_ksx3267v2.py:173] 2020-12-10 02:40:53,623 > Fail to get information from a node : 6 Modbus Error: [Input/Output] No Response received from the remote unit/Unable to decode response
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:40:54,228 > read register: 7 2 6
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:40:57,733 > read register: 7 2 6
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:41:01,243 > read register: 7 2 6
+[INFO|mate_ksx3267v2.py:173] 2020-12-10 02:41:04,247 > Fail to get information from a node : 7 Modbus Error: [Input/Output] No Response received from the remote unit/Unable to decode response
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:41:04,852 > read register: 8 2 6
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:41:08,357 > read register: 8 2 6
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:41:11,864 > read register: 8 2 6
+[INFO|mate_ksx3267v2.py:173] 2020-12-10 02:41:14,867 > Fail to get information from a node : 8 Modbus Error: [Input/Output] No Response received from the remote unit/Unable to decode response
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:41:15,472 > read register: 9 2 6
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:41:18,977 > read register: 9 2 6
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:41:22,487 > read register: 9 2 6
+[INFO|mate_ksx3267v2.py:173] 2020-12-10 02:41:25,491 > Fail to get information from a node : 9 Modbus Error: [Input/Output] No Response received from the remote unit/Unable to decode response
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:41:26,096 > read register: 10 2 6
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:41:29,601 > read register: 10 2 6
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:41:33,108 > read register: 10 2 6
+[INFO|mate_ksx3267v2.py:173] 2020-12-10 02:41:36,111 > Fail to get information from a node : 10 Modbus Error: [Input/Output] No Response received from the remote unit/Unable to decode response
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:41:36,716 > read register: 11 2 6
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:41:37,266 > read register: 11 101 1
+[INFO|mate_ksx3267v2.py:179] 2020-12-10 02:41:37,306 > Found a node : 11 {'compcode': 8877, 'nodecode': 20220, 'devcodes': [12060]}
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:41:37,911 > read register: 1 2 6
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:41:38,443 > read register: 1 101 4
+[INFO|mate_ksx3267v2.py:179] 2020-12-10 02:41:38,472 > Found a node : 1 {'compcode': 0, 'nodecode': 0, 'devcodes': [1, 0, 0, 1]}
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:41:39,075 > read register: 2 2 6
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:41:42,580 > read register: 2 2 6
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:41:46,088 > read register: 2 2 6
+[INFO|mate_ksx3267v2.py:173] 2020-12-10 02:41:49,091 > Fail to get information from a node : 2 Modbus Error: [Input/Output] No Response received from the remote unit/Unable to decode response
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:41:49,696 > read register: 3 2 6
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:41:53,201 > read register: 3 2 6
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:41:56,708 > read register: 3 2 6
+[INFO|mate_ksx3267v2.py:173] 2020-12-10 02:41:59,711 > Fail to get information from a node : 3 Modbus Error: [Input/Output] No Response received from the remote unit/Unable to decode response
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:42:00,315 > read register: 4 2 6
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:42:03,820 > read register: 4 2 6
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:42:07,328 > read register: 4 2 6
+[INFO|mate_ksx3267v2.py:173] 2020-12-10 02:42:10,331 > Fail to get information from a node : 4 Modbus Error: [Input/Output] No Response received from the remote unit/Unable to decode response
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:42:10,934 > read register: 5 2 6
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:42:14,437 > read register: 5 2 6
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:42:17,947 > read register: 5 2 6
+[INFO|mate_ksx3267v2.py:173] 2020-12-10 02:42:20,951 > Fail to get information from a node : 5 Modbus Error: [Input/Output] No Response received from the remote unit/Unable to decode response
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:42:21,556 > read register: 6 2 6
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:42:25,061 > read register: 6 2 6
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:42:28,571 > read register: 6 2 6
+[INFO|mate_ksx3267v2.py:173] 2020-12-10 02:42:31,575 > Fail to get information from a node : 6 Modbus Error: [Input/Output] No Response received from the remote unit/Unable to decode response
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:42:32,180 > read register: 7 2 6
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:42:35,685 > read register: 7 2 6
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:42:39,196 > read register: 7 2 6
+[INFO|mate_ksx3267v2.py:173] 2020-12-10 02:42:42,199 > Fail to get information from a node : 7 Modbus Error: [Input/Output] No Response received from the remote unit/Unable to decode response
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:42:42,804 > read register: 8 2 6
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:42:46,309 > read register: 8 2 6
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:42:49,817 > read register: 8 2 6
+[INFO|mate_ksx3267v2.py:173] 2020-12-10 02:42:52,819 > Fail to get information from a node : 8 Modbus Error: [Input/Output] No Response received from the remote unit/Unable to decode response
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:42:53,424 > read register: 9 2 6
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:42:56,929 > read register: 9 2 6
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:43:00,439 > read register: 9 2 6
+[INFO|mate_ksx3267v2.py:173] 2020-12-10 02:43:03,443 > Fail to get information from a node : 9 Modbus Error: [Input/Output] No Response received from the remote unit/Unable to decode response
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:43:04,048 > read register: 10 2 6
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:43:07,553 > read register: 10 2 6
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:43:11,063 > read register: 10 2 6
+[INFO|mate_ksx3267v2.py:173] 2020-12-10 02:43:14,067 > Fail to get information from a node : 10 Modbus Error: [Input/Output] No Response received from the remote unit/Unable to decode response
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:43:14,672 > read register: 11 2 6
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:43:18,176 > read register: 11 2 6
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:43:21,684 > read register: 11 2 6
+[INFO|mate_ksx3267v2.py:173] 2020-12-10 02:43:24,687 > Fail to get information from a node : 11 Modbus Error: [Input/Output] No Response received from the remote unit/Unable to decode response
+[INFO|mate_ksx3267v2.py:131] 2020-12-10 02:43:24,790 > finished to detect devices : {u'USB0': {11: {'compcode': 8877, 'nodecode': 20220, 'devcodes': [12060]}}, u'USB1': {1: {'compcode': 0, 'nodecode': 0, 'devcodes': [1, 0, 0, 1]}}}
+[INFO|couplemng.py:114] 2020-12-10 02:43:37,216 > Configuration of a couple [시험온실#1] is changed.
+[INFO|couplemng.py:87] 2020-12-10 02:43:39,802 > 4157859e-df55-48e5-b3ac-8e6288f2165e stopped
+[INFO|couplemng.py:80] 2020-12-10 02:43:39,803 > load a mate : FarmosMate 4157859e-df55-48e5-b3ac-8e6288f2165e
+[INFO|calibration.py:46] 2020-12-10 02:43:39,803 > There is no information of calibration
+[INFO|couplemng.py:70] 2020-12-10 02:43:39,804 > A ssmate [mate_farmos/FarmosMate] is loading.
+[INFO|couplemng.py:80] 2020-12-10 02:43:39,804 > load a mate : KSX3267MateV2 4157859e-df55-48e5-b3ac-8e6288f2165e
+[INFO|calibration.py:46] 2020-12-10 02:43:39,804 > There is no information of calibration
+[INFO|mate.py:171] 2020-12-10 02:43:39,804 > Mate Started.
+[INFO|mate_ksx3267v2.py:60] 2020-12-10 02:43:39,804 > KSX3267MateV2 Started.
+[INFO|couplemng.py:72] 2020-12-10 02:43:39,805 > A dsmate [mate_ksx3267v2/KSX3267MateV2] is loading.
+[INFO|mate.py:141] 2020-12-10 02:43:39,811 > sleep 10 seconds and try to connect
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:43:53,323 > read register: 1 201 2
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:43:53,846 > read register: 1 203 3
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:43:54,373 > read register: 1 212 3
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:43:54,899 > read register: 11 200 1
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:43:55,439 > read register: 11 3060 3
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:43:56,039 > read register: 1 201 2
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:43:56,578 > read register: 11 200 1
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:44:00,136 > read register: 1 201 2
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:44:00,660 > read register: 1 203 3
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:44:01,185 > read register: 1 212 3
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:44:01,710 > read register: 11 200 1
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:44:02,250 > read register: 11 3060 3
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:44:05,796 > read register: 1 201 2
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:44:06,319 > read register: 1 203 3
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:44:06,845 > read register: 1 212 3
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:44:07,371 > read register: 11 200 1
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:44:07,911 > read register: 11 3060 3
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:44:08,456 > read register: 1 201 2
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:44:08,990 > read register: 11 200 1
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:44:12,548 > read register: 1 201 2
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:44:13,071 > read register: 1 203 3
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:44:13,598 > read register: 1 212 3
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:44:14,124 > read register: 11 200 1
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:44:14,664 > read register: 11 3060 3
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:44:18,212 > read register: 1 201 2
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:44:18,736 > read register: 1 203 3
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:44:19,261 > read register: 1 212 3
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:44:19,787 > read register: 11 200 1
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:44:20,327 > read register: 11 3060 3
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:44:20,871 > read register: 1 201 2
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:44:21,407 > read register: 11 200 1
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:44:24,960 > read register: 1 201 2
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:44:25,483 > read register: 1 203 3
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:44:26,009 > read register: 1 212 3
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:44:26,535 > read register: 11 200 1
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:44:27,075 > read register: 11 3060 3
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:44:30,623 > read register: 1 201 2
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:44:31,147 > read register: 1 203 3
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:44:31,673 > read register: 1 212 3
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:44:32,198 > read register: 11 200 1
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:44:32,938 > read register: 11 3060 3
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:44:33,482 > read register: 1 201 2
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:44:34,013 > read register: 11 200 1
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:44:37,567 > read register: 1 201 2
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:44:38,090 > read register: 1 203 3
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:44:38,616 > read register: 1 212 3
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:44:39,143 > read register: 11 200 1
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:44:39,683 > read register: 11 3060 3
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:44:43,228 > read register: 1 201 2
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:44:43,751 > read register: 1 203 3
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:44:44,277 > read register: 1 212 3
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:44:44,802 > read register: 11 200 1
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:44:45,342 > read register: 11 3060 3
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:44:45,886 > read register: 1 201 2
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:44:46,419 > read register: 11 200 1
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:44:49,971 > read register: 1 201 2
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:44:50,495 > read register: 1 203 3
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:44:51,021 > read register: 1 212 3
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:44:51,547 > read register: 11 200 1
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:44:52,087 > read register: 11 3060 3
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:44:55,632 > read register: 1 201 2
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:44:56,155 > read register: 1 203 3
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:44:56,681 > read register: 1 212 3
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:44:57,207 > read register: 11 200 1
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:44:57,747 > read register: 11 3060 3
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:44:58,321 > read register: 1 201 2
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:44:58,853 > read register: 11 200 1
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:45:02,404 > read register: 1 201 2
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:45:02,927 > read register: 1 203 3
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:45:03,454 > read register: 1 212 3
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:45:03,980 > read register: 11 200 1
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:45:04,520 > read register: 11 3060 3
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:45:08,067 > read register: 1 201 2
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:45:08,591 > read register: 1 203 3
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:45:09,117 > read register: 1 212 3
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:45:09,643 > read register: 11 200 1
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:45:10,184 > read register: 11 3060 3
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:45:10,728 > read register: 1 201 2
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:45:11,261 > read register: 11 200 1
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:45:14,819 > read register: 1 201 2
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:45:15,342 > read register: 1 203 3
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:45:15,868 > read register: 1 212 3
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:45:16,394 > read register: 11 200 1
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:45:16,933 > read register: 11 3060 3
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:45:20,480 > read register: 1 201 2
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:45:21,003 > read register: 1 203 3
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:45:21,530 > read register: 1 212 3
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:45:22,055 > read register: 11 200 1
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:45:22,596 > read register: 11 3060 3
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:45:23,740 > read register: 1 201 2
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:45:24,272 > read register: 11 200 1
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:45:27,820 > read register: 1 201 2
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:45:28,344 > read register: 1 203 3
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:45:28,870 > read register: 1 212 3
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:45:29,395 > read register: 11 200 1
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:45:29,935 > read register: 11 3060 3
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:45:33,483 > read register: 1 201 2
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:45:34,006 > read register: 1 203 3
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:45:34,532 > read register: 1 212 3
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:45:35,058 > read register: 11 200 1
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:45:35,597 > read register: 11 3060 3
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:45:36,142 > read register: 1 201 2
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:45:36,678 > read register: 11 200 1
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:45:40,228 > read register: 1 201 2
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:45:40,752 > read register: 1 203 3
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:45:41,278 > read register: 1 212 3
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:45:41,804 > read register: 11 200 1
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:45:42,344 > read register: 11 3060 3
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:45:45,891 > read register: 1 201 2
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:45:46,415 > read register: 1 203 3
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:45:46,941 > read register: 1 212 3
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:45:47,467 > read register: 11 200 1
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:45:48,007 > read register: 11 3060 3
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:45:48,551 > read register: 1 201 2
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:45:49,082 > read register: 11 200 1
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:45:52,636 > read register: 1 201 2
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:45:53,160 > read register: 1 203 3
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:45:53,686 > read register: 1 212 3
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:45:54,211 > read register: 11 200 1
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:45:54,751 > read register: 11 3060 3
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:45:58,298 > read register: 1 201 2
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:45:58,822 > read register: 1 203 3
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:45:59,348 > read register: 1 212 3
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:45:59,874 > read register: 11 200 1
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:46:00,414 > read register: 11 3060 3
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:46:00,986 > read register: 1 201 2
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:46:01,519 > read register: 11 200 1
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:46:05,071 > read register: 1 201 2
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:46:05,595 > read register: 1 203 3
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:46:06,120 > read register: 1 212 3
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:46:06,646 > read register: 11 200 1
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:46:07,186 > read register: 11 3060 3
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:46:10,736 > read register: 1 201 2
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:46:11,259 > read register: 1 203 3
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:46:11,785 > read register: 1 212 3
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:46:12,311 > read register: 11 200 1
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:46:12,850 > read register: 11 3060 3
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:46:13,394 > read register: 1 201 2
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:46:13,927 > read register: 11 200 1
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:46:17,544 > read register: 1 201 2
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:46:18,067 > read register: 1 203 3
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:46:18,593 > read register: 1 212 3
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:46:19,119 > read register: 11 200 1
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:46:19,659 > read register: 11 3060 3
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:46:23,204 > read register: 1 201 2
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:46:23,727 > read register: 1 203 3
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:46:24,254 > read register: 1 212 3
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:46:24,779 > read register: 11 200 1
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:46:25,319 > read register: 11 3060 3
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:46:25,863 > read register: 1 201 2
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:46:26,395 > read register: 11 200 1
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:46:29,952 > read register: 1 201 2
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:46:30,475 > read register: 1 203 3
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:46:31,001 > read register: 1 212 3
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:46:31,526 > read register: 11 200 1
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:46:32,065 > read register: 11 3060 3
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:46:35,612 > read register: 1 201 2
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:46:36,135 > read register: 1 203 3
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:46:36,661 > read register: 1 212 3
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:46:37,186 > read register: 11 200 1
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:46:37,726 > read register: 11 3060 3
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:46:38,270 > read register: 1 201 2
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:46:38,802 > read register: 11 200 1
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:46:42,351 > read register: 1 201 2
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:46:42,874 > read register: 1 203 3
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:46:43,400 > read register: 1 212 3
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:46:43,926 > read register: 11 200 1
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:46:44,465 > read register: 11 3060 3
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:46:48,012 > read register: 1 201 2
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:46:48,535 > read register: 1 203 3
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:46:49,061 > read register: 1 212 3
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:46:49,586 > read register: 11 200 1
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:46:50,126 > read register: 11 3060 3
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:46:50,670 > read register: 1 201 2
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:46:51,201 > read register: 11 200 1
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:46:54,752 > read register: 1 201 2
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:46:55,275 > read register: 1 203 3
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:46:55,801 > read register: 1 212 3
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:46:56,326 > read register: 11 200 1
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:46:56,866 > read register: 11 3060 3
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:47:00,412 > read register: 1 201 2
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:47:00,935 > read register: 1 203 3
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:47:01,461 > read register: 1 212 3
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:47:01,986 > read register: 11 200 1
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:47:02,530 > read register: 11 3060 3
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:47:03,101 > read register: 1 201 2
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:47:03,632 > read register: 11 200 1
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:47:07,181 > read register: 1 201 2
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:47:07,704 > read register: 1 203 3
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:47:08,230 > read register: 1 212 3
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:47:08,755 > read register: 11 200 1
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:47:09,295 > read register: 11 3060 3
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:47:12,840 > read register: 1 201 2
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:47:13,363 > read register: 1 203 3
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:47:13,889 > read register: 1 212 3
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:47:14,414 > read register: 11 200 1
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:47:14,954 > read register: 11 3060 3
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:47:15,498 > read register: 1 201 2
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:47:16,029 > read register: 11 200 1
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:47:19,580 > read register: 1 201 2
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:47:20,103 > read register: 1 203 3
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:47:20,629 > read register: 1 212 3
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:47:21,154 > read register: 11 200 1
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:47:21,694 > read register: 11 3060 3
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:47:25,240 > read register: 1 201 2
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:47:25,763 > read register: 1 203 3
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:47:26,289 > read register: 1 212 3
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:47:26,814 > read register: 11 200 1
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:47:27,354 > read register: 11 3060 3
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:47:27,898 > read register: 1 201 2
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:47:28,442 > read register: 11 200 1
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:47:31,992 > read register: 1 201 2
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:47:32,516 > read register: 1 203 3
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:47:33,041 > read register: 1 212 3
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:47:33,567 > read register: 11 200 1
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:47:34,106 > read register: 11 3060 3
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:47:37,652 > read register: 1 201 2
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:47:38,175 > read register: 1 203 3
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:47:38,701 > read register: 1 212 3
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:47:39,226 > read register: 11 200 1
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:47:39,766 > read register: 11 3060 3
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:47:40,310 > read register: 1 201 2
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:47:40,842 > read register: 11 200 1
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:47:44,396 > read register: 1 201 2
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:47:44,919 > read register: 1 203 3
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:47:45,445 > read register: 1 212 3
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:47:45,970 > read register: 11 200 1
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:47:46,510 > read register: 11 3060 3
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:47:50,056 > read register: 1 201 2
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:47:50,579 > read register: 1 203 3
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:47:51,105 > read register: 1 212 3
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:47:51,630 > read register: 11 200 1
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:47:52,170 > read register: 11 3060 3
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:47:52,714 > read register: 1 201 2
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:47:53,245 > read register: 11 200 1
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:47:56,796 > read register: 1 201 2
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:47:57,320 > read register: 1 203 3
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:47:57,846 > read register: 1 212 3
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:47:58,371 > read register: 11 200 1
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:47:58,911 > read register: 11 3060 3
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:48:02,456 > read register: 1 201 2
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:48:02,979 > read register: 1 203 3
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:48:03,505 > read register: 1 212 3
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:48:04,030 > read register: 11 200 1
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:48:04,570 > read register: 11 3060 3
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:48:05,143 > read register: 1 201 2
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:48:05,674 > read register: 11 200 1
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:48:09,220 > read register: 1 201 2
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:48:09,743 > read register: 1 203 3
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:48:10,269 > read register: 1 212 3
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:48:10,794 > read register: 11 200 1
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:48:11,334 > read register: 11 3060 3
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:48:14,880 > read register: 1 201 2
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:48:15,403 > read register: 1 203 3
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:48:15,929 > read register: 1 212 3
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:48:16,454 > read register: 11 200 1
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:48:16,993 > read register: 11 3060 3
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:48:17,537 > read register: 1 201 2
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:48:18,068 > read register: 11 200 1
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:48:21,619 > read register: 1 201 2
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:48:22,142 > read register: 1 203 3
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:48:22,668 > read register: 1 212 3
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:48:23,193 > read register: 11 200 1
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:48:23,733 > read register: 11 3060 3
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:48:27,280 > read register: 1 201 2
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:48:27,803 > read register: 1 203 3
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:48:28,328 > read register: 1 212 3
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:48:28,854 > read register: 11 200 1
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:48:29,395 > read register: 11 3060 3
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:48:29,939 > read register: 1 201 2
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:48:30,482 > read register: 11 200 1
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:48:34,032 > read register: 1 201 2
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:48:34,556 > read register: 1 203 3
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:48:35,082 > read register: 1 212 3
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:48:35,607 > read register: 11 200 1
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:48:36,147 > read register: 11 3060 3
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:48:39,694 > read register: 1 201 2
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:48:40,217 > read register: 1 203 3
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:48:40,742 > read register: 1 212 3
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:48:41,268 > read register: 11 200 1
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:48:41,809 > read register: 11 3060 3
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:48:42,354 > read register: 1 201 2
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:48:42,887 > read register: 11 200 1
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:48:46,440 > read register: 1 201 2
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:48:46,963 > read register: 1 203 3
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:48:47,489 > read register: 1 212 3
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:48:48,014 > read register: 11 200 1
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:48:48,554 > read register: 11 3060 3
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:48:52,100 > read register: 1 201 2
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:48:52,623 > read register: 1 203 3
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:48:53,149 > read register: 1 212 3
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:48:53,674 > read register: 11 200 1
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:48:54,214 > read register: 11 3060 3
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:48:54,758 > read register: 1 201 2
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:48:55,289 > read register: 11 200 1
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:48:58,847 > read register: 1 201 2
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:48:59,370 > read register: 1 203 3
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:48:59,896 > read register: 1 212 3
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:49:00,422 > read register: 11 200 1
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:49:00,961 > read register: 11 3060 3
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:49:04,508 > read register: 1 201 2
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:49:05,031 > read register: 1 203 3
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:49:05,556 > read register: 1 212 3
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:49:06,082 > read register: 11 200 1
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:49:06,621 > read register: 11 3060 3
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:49:07,196 > read register: 1 201 2
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:49:07,728 > read register: 11 200 1
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:49:11,276 > read register: 1 201 2
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:49:11,799 > read register: 1 203 3
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:49:12,325 > read register: 1 212 3
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:49:12,851 > read register: 11 200 1
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:49:13,392 > read register: 11 3060 3
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:49:16,939 > read register: 1 201 2
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:49:17,463 > read register: 1 203 3
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:49:17,989 > read register: 1 212 3
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:49:18,515 > read register: 11 200 1
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:49:19,056 > read register: 11 3060 3
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:49:19,601 > read register: 1 201 2
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:49:20,142 > read register: 11 200 1
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:49:23,697 > read register: 1 201 2
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:49:24,221 > read register: 1 203 3
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:49:24,747 > read register: 1 212 3
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:49:25,273 > read register: 11 200 1
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:49:25,813 > read register: 11 3060 3
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:49:29,360 > read register: 1 201 2
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:49:29,884 > read register: 1 203 3
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:49:30,410 > read register: 1 212 3
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:49:30,937 > read register: 11 200 1
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:49:31,477 > read register: 11 3060 3
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:49:32,021 > read register: 1 201 2
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:49:32,562 > read register: 11 200 1
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:49:36,116 > read register: 1 201 2
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:49:36,640 > read register: 1 203 3
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:49:37,166 > read register: 1 212 3
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:49:37,691 > read register: 11 200 1
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:49:38,231 > read register: 11 3060 3
+[INFO|couplemng.py:114] 2020-12-10 02:49:40,162 > Configuration of a couple [시험온실#1] is changed.
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:49:41,776 > read register: 1 201 2
+[INFO|mate_ksx3267v2.py:114] 2020-12-10 02:49:42,300 > read register: 1 203 3
