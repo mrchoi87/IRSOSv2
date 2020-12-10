@@ -1,5 +1,9 @@
 package-lock.json
 
+*.pyc
+
+**/node_modules/
+
 # IDE files
 .idea
 
