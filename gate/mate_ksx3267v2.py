@@ -27,21 +27,23 @@ class NodeType(IntEnum):
     NUTNODE = 4
 
 class ProtoVer(IntEnum):
+    #mrchoi87
     KS_X_3267_2018 = 101
+    #KS_X_3267_2018 = 10
     TTA_1 = 201
 
 
 class KSX3267MateV2(ThreadMate):
     _SLEEP = 0.5
     _VERSION = "KSX3267_0.1"
-    _KEYWORDS = {"value" : (2, "float"), "status" : (1, "status"), 
-            "opid" : (1, "short"), "state-hold-time" : (2, "int"), "ratio": (1, "short"), 
+    _KEYWORDS = {"value" : (2, "float"), "status" : (1, "status"),
+            "opid" : (1, "short"), "state-hold-time" : (2, "int"), "ratio": (1, "short"),
             "position" : (1, "short"), "remain-time" : (2, "int"),
-            "control": (1, "control"), "area" : (1, "short"), "alert" : (1, "alert"), 
+            "control": (1, "control"), "area" : (1, "short"), "alert" : (1, "alert"),
             "hold-time" : (2, "int"), "operation" : (1, "operation"),
             "time" : (2, "int"), "opentime" : (1, "short"), "closetime" : (1, "short"),
             "EC": (2, "float"), "pH": (2, "float"), "on-sec" : (1, "short"),
-            "start-area" : (1, "short"), "stop-area": (1, "short"), 
+            "start-area" : (1, "short"), "stop-area": (1, "short"),
             "epoch" : (2, "int"), "vfloat": (2, "float"), "vint" : (2, "int")}
     _DEVINFOREG = 2
     _DEVCODEREG = 101
@@ -89,6 +91,8 @@ class KSX3267MateV2(ThreadMate):
             self._logger.info("detection is processing.... so this command would be ignored.")
             return ResCode.FAIL
 
+
+
         self.setdetection(True, opid)
         if params:
             self._detection["saddr"] = params['saddr']
@@ -105,6 +109,10 @@ class KSX3267MateV2(ThreadMate):
         with self._lock:
             time.sleep(KSX3267MateV2._SLEEP)
             print "read register", unit, addr, count
+
+            #mrchoi87
+            self._logger.info("read register: " + str(unit) + " " + str(addr) + " " + str(count))
+
             try:
                 return conn.read_holding_registers(addr, count, unit=unit)
             except Exception as ex:
@@ -134,7 +142,8 @@ class KSX3267MateV2(ThreadMate):
         if self._detection["port"] is not None and port not in self._detection["port"]:
             return detected
 
-        for unit in range(self._detection["saddr"], self._detection["eaddr"]):
+        #for unit in range(self._detection["saddr"], self._detection["eaddr"]):
+        for unit in range(11, 12):
             if self._isdetecting == False or self.isexecuting() == False:
                 self._logger.info("A port " + str(port) + " detection is canceled.")
                 break
@@ -189,7 +198,7 @@ class KSX3267MateV2(ThreadMate):
             print "noti", noti.stringify()
             self.writecb(noti)
             time.sleep(0.1)
-    
+
         return detected
 
     def canceldetection(self, params):
@@ -325,8 +334,8 @@ class KSX3267MateV2(ThreadMate):
             else:
                 self._logger.warn("Wrong Keyword : " + str(key))
                 return ResCode.FAIL_WRONG_KEYWORD
-                    
-            if KSX3267MateV2._KEYWORDS[key][0] == 1: 
+
+            if KSX3267MateV2._KEYWORDS[key][0] == 1:
                 registers.append(val)
             elif KSX3267MateV2._KEYWORDS[key][1] == "int":
                 registers.extend(struct.unpack('HH', struct.pack('i', val)))
@@ -418,7 +427,7 @@ class KSX3267MateV2(ThreadMate):
             idx = idx + size
         print "parsed", ret
         return ret
-            
+
     def readinfofromdev(self, conn, dev):
         size = self.getsize(self.getdk(dev, 2))
         #for _ in range(3):
@@ -437,7 +446,7 @@ class KSX3267MateV2(ThreadMate):
                 self._logger.info("retry to get data since size of data is not matched. " + str(size) + " " + str(len(res.registers)))
         return None
 
-    def readnodeinfo(self, node):    
+    def readnodeinfo(self, node):
         ret = {"id" : node["id"], "sen" : {}, "act" : {}, "nd" : {"status":StatCode.ERROR.value}}
         gw = self._devinfo.findgateway(node["id"])
         conn = self._conn[gw["dk"]]
@@ -449,7 +458,7 @@ class KSX3267MateV2(ThreadMate):
             self._logger.warn("fail to read node info : " + str(node))
         return ret
 
-    def readsensornodeinfo(self, node):    
+    def readsensornodeinfo(self, node):
         ret = self.readnodeinfo(node)
 
         for dev in node['children']:
@@ -461,7 +470,7 @@ class KSX3267MateV2(ThreadMate):
             #    self._logger.warn("fail to read sensor info : " + str(dev) + " however continue to read other device")
         return ret
 
-    def readactnodeinfo(self, node):    
+    def readactnodeinfo(self, node):
         ret = self.readnodeinfo(node)
         for dev in node['children']:
             if DevType.issensor(dev["dt"]) == False:
@@ -472,7 +481,7 @@ class KSX3267MateV2(ThreadMate):
                 self._logger.warn("fail to read actuator info : " + str(dev) + " however continue to read other device")
         return ret
 
-    def readactinfo(self, node, act):    
+    def readactinfo(self, node, act):
         ret = self.readnodeinfo(node)
 
         info = self.readinfofromdev(ret["conn"], act)
@@ -560,7 +569,7 @@ if __name__ == "__main__":
             'timeout': 5
         }]
     }
-    
+
     nutriinfo = [{
         "id" : "1", "dk" : "", "dt": "gw", "children" : [{
             "id" : "101", "dk" : '[1,40201,["status"],45001,["operation","opid"]]', "dt": "nd", "children" : [
@@ -673,7 +682,7 @@ if __name__ == "__main__":
     req = Request(201)
     req.setcommand(202, CmdCode.OFF, {})
     kdmate.writeblk(req)
-    
+
     time.sleep(10)
     req = Request(201)
     req.setcommand(202, CmdCode.TIMED_OPEN, {"time":10})
@@ -688,9 +697,9 @@ if __name__ == "__main__":
     req = Request(201)
     req.setcommand(202, CmdCode.OFF, {})
     kdmate.writeblk(req)
-    
+
     """
 
     time.sleep(30)
     kdmate.stop()
-    print "mate stopped" 
+    print "mate stopped"

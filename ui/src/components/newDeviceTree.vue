@@ -422,7 +422,7 @@ export default {
         let searchCodePrmise = []
         for (let item of specCodeList) {
           searchCodePrmise.push(
-            this.getDevSpec(item.split('/')[0], item.split('/')[1], 'nd')
+            this.getDevSpec(item.split('/')[0], item.split('/')[1], 'nd', 1)
           )
         }
 
@@ -476,7 +476,7 @@ export default {
         searchCodePrmise = []
         for (let item of specCodeList) {
           searchCodePrmise.push(
-            this.getDevSpec(item.split('/')[0], item.split('/')[1], 'dev')
+            this.getDevSpec(item.split('/')[0], item.split('/')[1], 'dev', 1)
           )
         }
 
@@ -601,14 +601,16 @@ export default {
         .concat(this.$refs.tree.getCheckedNodes())
       return this._.cloneDeep(device)
     },
-    getDevSpec (compcode, devcode, type) {
+    getDevSpec (compcode, devcode, type, ndtype) {
+      //mrchoi87 add ndtype
       let specIP = commonSpecIp
 
       return this.axios.get(specIP, {
         params: {
           compcode: compcode,
           code: devcode,
-          devtype: type
+          devtype: type,
+          ndtype: ndtype
         }
       })
     },
