@@ -1,4 +1,4 @@
--- 
+--
 SET NAMES utf8mb4;
 SET FOREIGN_KEY_CHECKS = 0;
 
@@ -8,7 +8,7 @@ CREATE database farmos;
 -- 사용자 생성
 CREATE USER 'farmos'@'localhost' IDENTIFIED BY 'farmosv2@';
 GRANT ALL PRIVILEGES ON farmos.* TO 'farmos'@'localhost';
-FLUSH PRIVILEGES; 
+FLUSH PRIVILEGES;
 
 USE farmos;
 
@@ -37,7 +37,7 @@ CREATE TABLE `farm` (
 -- Records of farm
 -- ----------------------------
 BEGIN;
-INSERT INTO `farm` VALUES (1, '기본 농장', '{\"telephone\":\"0313601970\",\"gps\":\"37.397962970070104,126.93206214966011\",\"address\":\"경기 안양시 동안구 관악대로 69\",\"postcode\":\"13956\"}');
+INSERT INTO `farm` VALUES (1, 'IRS 연구동', '{\"telephone\":\"0316955540\",\"gps\":\"37.24689013803942,127.05050229018975\",\"address\":\"경기 수원시 영통구 신원로88\",\"postcode\":\"16681\"}');
 COMMIT;
 
 -- ----------------------------

@@ -1,15 +1,15 @@
 #!/bin/bash
 
 echo -e '\n\n'
-echo -e '    ______                                   _    _____ 
+echo -e '    ______                                   _    _____
    / ____/___ __________ ___  ____  _____   | |  / /__ \
   / /_  / __ `/ ___/ __ `__ \/ __ \/ ___/   | | / /__/ /
- / __/ / /_/ / /  / / / / / / /_/ (__  )    | |/ // __/ 
-/_/    \__,_/_/  /_/ /_/ /_/\____/____/     |___//____/ 
+ / __/ / /_/ / /  / / / / / / /_/ (__  )    | |/ // __/
+/_/    \__,_/_/  /_/ /_/ /_/\____/____/     |___//____/
                                                         '
 
 dirpath=`dirname $0`
-echo -e $dirpath 
+echo -e $dirpath
 cd $dirpath
 SHELL_PATH=`pwd -P`
 
@@ -32,8 +32,8 @@ echo -e '\n\n 4-9. apt-get install monit\n'; sudo apt-get install monit
 echo -e '\n\n 5. mysql check\n'
 which mysql
 if [ $? -eq 1 ];then
-   echo -e "\n\n apt install mysql-server\n"; sudo apt install -y mysql-server 
-   echo -e "\n\n apt install mariadb-server\n"; sudo apt-get install -y mariadb-server 
+   echo -e "\n\n apt install mysql-server\n"; sudo apt install -y mysql-server
+   echo -e "\n\n apt install mariadb-server\n"; sudo apt-get install -y mariadb-server
    echo -e "\n\n systemctl start mysql\n"; sudo systemctl start mysql
    echo -e "\n\n systemctl enable mysql\n"; sudo systemctl enable mysql
 else
@@ -56,7 +56,7 @@ echo -e "\nend"
 echo -e '\n\n 7. Mosquitto check\n'
 which mosquitto
 if [ $? -eq 1 ];then
-   echo -e "\n\n apt install mosquitto\n"; sudo apt install -y mosquitto 
+   echo -e "\n\n apt install mosquitto\n"; sudo apt install -y mosquitto* 
    echo -e "\nport 1883\nprotocol mqtt\n\nlistener 9001\nprotocol websockets" | sudo tee -a /etc/mosquitto/mosquitto.conf
    echo -e "\n\n sudo systemctl restart mosquitto\n"; sudo systemctl restart mosquitto
    sleep 2
@@ -206,6 +206,3 @@ sudo /etc/init.d/cvtgate start
 sudo update-rc.d fui defaults
 sudo update-rc.d fcore defaults
 sudo update-rc.d cvtgate defaults
-
-
-

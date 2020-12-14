@@ -7986,3 +7986,230 @@
 [INFO|mate_ksx3267v2.py:60] 2020-12-10 02:49:45,013 > KSX3267MateV2 Started.
 [INFO|couplemng.py:72] 2020-12-10 02:49:45,013 > A dsmate [mate_ksx3267v2/KSX3267MateV2] is loading.
 [INFO|mate.py:141] 2020-12-10 02:49:45,022 > sleep 10 seconds and try to connect
+[INFO|couplemng.py:94] 2020-12-10 05:37:22,382 > Couple Manager tries to stop
+[INFO|daemon.py:188] 2020-12-10 05:37:22,383 > Trying to stop a process 32305
+[INFO|daemon.py:189] 2020-12-10 05:37:22,383 > It might take a minute.
+[WARNING|daemon.py:149] 2020-12-10 18:55:29,128 > Check for a pidfile to see if the daemon already runs
+
+[WARNING|daemon.py:150] 2020-12-10 18:55:29,128 > /var/run/cpmng.pid
+
+[WARNING|daemon.py:116] 2020-12-10 18:55:29,129 > Entering daemon mode (1063)
+
+[DEBUG|daemon.py:36] 2020-12-10 18:55:29,129 > initialized....
+[INFO|couplemng.py:111] 2020-12-10 18:55:29,130 > A new couple [시험온실#1] is loading.
+[INFO|couplemng.py:80] 2020-12-10 18:55:29,232 > load a mate : FarmosMate 4157859e-df55-48e5-b3ac-8e6288f2165e
+[INFO|calibration.py:46] 2020-12-10 18:55:29,232 > There is no information of calibration
+[INFO|couplemng.py:70] 2020-12-10 18:55:29,232 > A ssmate [mate_farmos/FarmosMate] is loading.
+[INFO|couplemng.py:80] 2020-12-10 18:55:29,272 > load a mate : KSX3267MateV2 4157859e-df55-48e5-b3ac-8e6288f2165e
+[INFO|calibration.py:46] 2020-12-10 18:55:29,272 > There is no information of calibration
+[INFO|mate.py:171] 2020-12-10 18:55:29,272 > Mate Started.
+[INFO|mate_ksx3267v2.py:60] 2020-12-10 18:55:29,272 > KSX3267MateV2 Started.
+[INFO|couplemng.py:72] 2020-12-10 18:55:29,272 > A dsmate [mate_ksx3267v2/KSX3267MateV2] is loading.
+[WARNING|mate_ksx3267v2.py:280] 2020-12-10 18:55:29,277 > failed to connect with rtu
+[WARNING|mate_ksx3267v2.py:280] 2020-12-10 18:55:29,279 > failed to connect with rtu
+[INFO|mate.py:141] 2020-12-10 18:55:29,280 > sleep 10 seconds and try to connect
+[INFO|couplemng.py:94] 2020-12-11 00:00:54,260 > Couple Manager tries to stop
+[INFO|daemon.py:188] 2020-12-11 00:00:54,260 > Trying to stop a process 1063
+[INFO|daemon.py:189] 2020-12-11 00:00:54,260 > It might take a minute.
+[INFO|daemon.py:209] 2020-12-11 00:00:54,260 > process killed.
+[INFO|couplemng.py:94] 2020-12-11 00:00:54,261 > Couple Manager tries to stop
+[INFO|daemon.py:188] 2020-12-11 00:00:54,261 > Trying to stop a process 1063
+[INFO|daemon.py:189] 2020-12-11 00:00:54,261 > It might take a minute.
+[INFO|daemon.py:193] 2020-12-11 00:02:09,320 > sent SIGKILL to 1063
+[WARNING|daemon.py:149] 2020-12-11 00:03:56,996 > Check for a pidfile to see if the daemon already runs
+
+[WARNING|daemon.py:150] 2020-12-11 00:03:56,996 > /var/run/cpmng.pid
+
+[WARNING|daemon.py:116] 2020-12-11 00:03:56,997 > Entering daemon mode (3874)
+
+[DEBUG|daemon.py:36] 2020-12-11 00:03:56,998 > initialized....
+[INFO|couplemng.py:111] 2020-12-11 00:03:56,998 > A new couple [시험온실#1] is loading.
+[INFO|couplemng.py:80] 2020-12-11 00:03:57,031 > load a mate : FarmosMate 4157859e-df55-48e5-b3ac-8e6288f2165e
+[INFO|calibration.py:46] 2020-12-11 00:03:57,031 > There is no information of calibration
+[INFO|couplemng.py:70] 2020-12-11 00:03:57,031 > A ssmate [mate_farmos/FarmosMate] is loading.
+[INFO|couplemng.py:80] 2020-12-11 00:03:57,037 > load a mate : KSX3267MateV2 4157859e-df55-48e5-b3ac-8e6288f2165e
+[INFO|calibration.py:46] 2020-12-11 00:03:57,038 > There is no information of calibration
+[INFO|mate.py:171] 2020-12-11 00:03:57,038 > Mate Started.
+[INFO|mate_ksx3267v2.py:60] 2020-12-11 00:03:57,038 > KSX3267MateV2 Started.
+[INFO|couplemng.py:72] 2020-12-11 00:03:57,038 > A dsmate [mate_ksx3267v2/KSX3267MateV2] is loading.
+[WARNING|mate_ksx3267v2.py:280] 2020-12-11 00:03:57,040 > failed to connect with rtu
+[WARNING|mate_ksx3267v2.py:280] 2020-12-11 00:03:57,041 > failed to connect with rtu
+[INFO|mate.py:141] 2020-12-11 00:03:57,042 > sleep 10 seconds and try to connect
+[INFO|mate_ksx3267v2.py:412] 2020-12-11 00:04:40,298 > write response: <mblock.Response object at 0x7f531a7b4ad0>
+[INFO|mate_ksx3267v2.py:114] 2020-12-11 00:04:43,581 > read register: 1 2 6
+[WARNING|mate_ksx3267v2.py:119] 2020-12-11 00:04:43,582 > fail to read holding registers. : Modbus Error: [Connection] Failed to connect[ModbusSerialClient(rtu baud[9600])]
+[INFO|mate_ksx3267v2.py:114] 2020-12-11 00:04:44,083 > read register: 1 2 6
+[WARNING|mate_ksx3267v2.py:119] 2020-12-11 00:04:44,083 > fail to read holding registers. : Modbus Error: [Connection] Failed to connect[ModbusSerialClient(rtu baud[9600])]
+[INFO|mate_ksx3267v2.py:114] 2020-12-11 00:04:44,584 > read register: 1 2 6
+[WARNING|mate_ksx3267v2.py:119] 2020-12-11 00:04:44,584 > fail to read holding registers. : Modbus Error: [Connection] Failed to connect[ModbusSerialClient(rtu baud[9600])]
+[INFO|mate_ksx3267v2.py:173] 2020-12-11 00:04:44,584 > Fail to get information from a node : 1 None
+[INFO|mate_ksx3267v2.py:114] 2020-12-11 00:04:45,188 > read register: 2 2 6
+[WARNING|mate_ksx3267v2.py:119] 2020-12-11 00:04:45,188 > fail to read holding registers. : Modbus Error: [Connection] Failed to connect[ModbusSerialClient(rtu baud[9600])]
+[INFO|mate_ksx3267v2.py:114] 2020-12-11 00:04:45,689 > read register: 2 2 6
+[WARNING|mate_ksx3267v2.py:119] 2020-12-11 00:04:45,690 > fail to read holding registers. : Modbus Error: [Connection] Failed to connect[ModbusSerialClient(rtu baud[9600])]
+[INFO|mate_ksx3267v2.py:114] 2020-12-11 00:04:46,190 > read register: 2 2 6
+[WARNING|mate_ksx3267v2.py:119] 2020-12-11 00:04:46,191 > fail to read holding registers. : Modbus Error: [Connection] Failed to connect[ModbusSerialClient(rtu baud[9600])]
+[INFO|mate_ksx3267v2.py:173] 2020-12-11 00:04:46,191 > Fail to get information from a node : 2 None
+[INFO|mate_ksx3267v2.py:114] 2020-12-11 00:04:46,796 > read register: 3 2 6
+[WARNING|mate_ksx3267v2.py:119] 2020-12-11 00:04:46,797 > fail to read holding registers. : Modbus Error: [Connection] Failed to connect[ModbusSerialClient(rtu baud[9600])]
+[INFO|mate_ksx3267v2.py:114] 2020-12-11 00:04:47,298 > read register: 3 2 6
+[WARNING|mate_ksx3267v2.py:119] 2020-12-11 00:04:47,299 > fail to read holding registers. : Modbus Error: [Connection] Failed to connect[ModbusSerialClient(rtu baud[9600])]
+[INFO|mate_ksx3267v2.py:114] 2020-12-11 00:04:47,800 > read register: 3 2 6
+[WARNING|mate_ksx3267v2.py:119] 2020-12-11 00:04:47,800 > fail to read holding registers. : Modbus Error: [Connection] Failed to connect[ModbusSerialClient(rtu baud[9600])]
+[INFO|mate_ksx3267v2.py:173] 2020-12-11 00:04:47,801 > Fail to get information from a node : 3 None
+[INFO|mate_ksx3267v2.py:114] 2020-12-11 00:04:48,405 > read register: 4 2 6
+[WARNING|mate_ksx3267v2.py:119] 2020-12-11 00:04:48,406 > fail to read holding registers. : Modbus Error: [Connection] Failed to connect[ModbusSerialClient(rtu baud[9600])]
+[INFO|mate_ksx3267v2.py:114] 2020-12-11 00:04:48,906 > read register: 4 2 6
+[WARNING|mate_ksx3267v2.py:119] 2020-12-11 00:04:48,907 > fail to read holding registers. : Modbus Error: [Connection] Failed to connect[ModbusSerialClient(rtu baud[9600])]
+[INFO|mate_ksx3267v2.py:114] 2020-12-11 00:04:49,408 > read register: 4 2 6
+[WARNING|mate_ksx3267v2.py:119] 2020-12-11 00:04:49,409 > fail to read holding registers. : Modbus Error: [Connection] Failed to connect[ModbusSerialClient(rtu baud[9600])]
+[INFO|mate_ksx3267v2.py:173] 2020-12-11 00:04:49,409 > Fail to get information from a node : 4 None
+[INFO|mate_ksx3267v2.py:114] 2020-12-11 00:04:50,016 > read register: 5 2 6
+[WARNING|mate_ksx3267v2.py:119] 2020-12-11 00:04:50,017 > fail to read holding registers. : Modbus Error: [Connection] Failed to connect[ModbusSerialClient(rtu baud[9600])]
+[INFO|mate_ksx3267v2.py:114] 2020-12-11 00:04:50,518 > read register: 5 2 6
+[WARNING|mate_ksx3267v2.py:119] 2020-12-11 00:04:50,519 > fail to read holding registers. : Modbus Error: [Connection] Failed to connect[ModbusSerialClient(rtu baud[9600])]
+[INFO|mate_ksx3267v2.py:114] 2020-12-11 00:04:51,020 > read register: 5 2 6
+[WARNING|mate_ksx3267v2.py:119] 2020-12-11 00:04:51,021 > fail to read holding registers. : Modbus Error: [Connection] Failed to connect[ModbusSerialClient(rtu baud[9600])]
+[INFO|mate_ksx3267v2.py:173] 2020-12-11 00:04:51,021 > Fail to get information from a node : 5 None
+[INFO|mate_ksx3267v2.py:114] 2020-12-11 00:04:51,627 > read register: 6 2 6
+[WARNING|mate_ksx3267v2.py:119] 2020-12-11 00:04:51,627 > fail to read holding registers. : Modbus Error: [Connection] Failed to connect[ModbusSerialClient(rtu baud[9600])]
+[INFO|mate_ksx3267v2.py:114] 2020-12-11 00:04:52,128 > read register: 6 2 6
+[WARNING|mate_ksx3267v2.py:119] 2020-12-11 00:04:52,129 > fail to read holding registers. : Modbus Error: [Connection] Failed to connect[ModbusSerialClient(rtu baud[9600])]
+[INFO|mate_ksx3267v2.py:114] 2020-12-11 00:04:52,630 > read register: 6 2 6
+[WARNING|mate_ksx3267v2.py:119] 2020-12-11 00:04:52,630 > fail to read holding registers. : Modbus Error: [Connection] Failed to connect[ModbusSerialClient(rtu baud[9600])]
+[INFO|mate_ksx3267v2.py:173] 2020-12-11 00:04:52,631 > Fail to get information from a node : 6 None
+[INFO|mate_ksx3267v2.py:114] 2020-12-11 00:04:53,235 > read register: 7 2 6
+[WARNING|mate_ksx3267v2.py:119] 2020-12-11 00:04:53,236 > fail to read holding registers. : Modbus Error: [Connection] Failed to connect[ModbusSerialClient(rtu baud[9600])]
+[INFO|mate_ksx3267v2.py:114] 2020-12-11 00:04:53,737 > read register: 7 2 6
+[WARNING|mate_ksx3267v2.py:119] 2020-12-11 00:04:53,738 > fail to read holding registers. : Modbus Error: [Connection] Failed to connect[ModbusSerialClient(rtu baud[9600])]
+[INFO|mate_ksx3267v2.py:114] 2020-12-11 00:04:54,238 > read register: 7 2 6
+[WARNING|mate_ksx3267v2.py:119] 2020-12-11 00:04:54,239 > fail to read holding registers. : Modbus Error: [Connection] Failed to connect[ModbusSerialClient(rtu baud[9600])]
+[INFO|mate_ksx3267v2.py:173] 2020-12-11 00:04:54,240 > Fail to get information from a node : 7 None
+[INFO|mate_ksx3267v2.py:114] 2020-12-11 00:04:54,846 > read register: 8 2 6
+[WARNING|mate_ksx3267v2.py:119] 2020-12-11 00:04:54,847 > fail to read holding registers. : Modbus Error: [Connection] Failed to connect[ModbusSerialClient(rtu baud[9600])]
+[INFO|mate_ksx3267v2.py:114] 2020-12-11 00:04:55,348 > read register: 8 2 6
+[WARNING|mate_ksx3267v2.py:119] 2020-12-11 00:04:55,349 > fail to read holding registers. : Modbus Error: [Connection] Failed to connect[ModbusSerialClient(rtu baud[9600])]
+[INFO|mate_ksx3267v2.py:114] 2020-12-11 00:04:55,850 > read register: 8 2 6
+[WARNING|mate_ksx3267v2.py:119] 2020-12-11 00:04:55,851 > fail to read holding registers. : Modbus Error: [Connection] Failed to connect[ModbusSerialClient(rtu baud[9600])]
+[INFO|mate_ksx3267v2.py:173] 2020-12-11 00:04:55,851 > Fail to get information from a node : 8 None
+[INFO|mate_ksx3267v2.py:114] 2020-12-11 00:04:56,457 > read register: 9 2 6
+[WARNING|mate_ksx3267v2.py:119] 2020-12-11 00:04:56,458 > fail to read holding registers. : Modbus Error: [Connection] Failed to connect[ModbusSerialClient(rtu baud[9600])]
+[INFO|mate_ksx3267v2.py:114] 2020-12-11 00:04:56,959 > read register: 9 2 6
+[WARNING|mate_ksx3267v2.py:119] 2020-12-11 00:04:56,960 > fail to read holding registers. : Modbus Error: [Connection] Failed to connect[ModbusSerialClient(rtu baud[9600])]
+[INFO|mate_ksx3267v2.py:114] 2020-12-11 00:04:57,460 > read register: 9 2 6
+[WARNING|mate_ksx3267v2.py:119] 2020-12-11 00:04:57,461 > fail to read holding registers. : Modbus Error: [Connection] Failed to connect[ModbusSerialClient(rtu baud[9600])]
+[INFO|mate_ksx3267v2.py:173] 2020-12-11 00:04:57,462 > Fail to get information from a node : 9 None
+[INFO|mate_ksx3267v2.py:114] 2020-12-11 00:04:58,068 > read register: 10 2 6
+[WARNING|mate_ksx3267v2.py:119] 2020-12-11 00:04:58,069 > fail to read holding registers. : Modbus Error: [Connection] Failed to connect[ModbusSerialClient(rtu baud[9600])]
+[INFO|mate_ksx3267v2.py:114] 2020-12-11 00:04:58,570 > read register: 10 2 6
+[WARNING|mate_ksx3267v2.py:119] 2020-12-11 00:04:58,570 > fail to read holding registers. : Modbus Error: [Connection] Failed to connect[ModbusSerialClient(rtu baud[9600])]
+[INFO|mate_ksx3267v2.py:114] 2020-12-11 00:04:59,071 > read register: 10 2 6
+[WARNING|mate_ksx3267v2.py:119] 2020-12-11 00:04:59,072 > fail to read holding registers. : Modbus Error: [Connection] Failed to connect[ModbusSerialClient(rtu baud[9600])]
+[INFO|mate_ksx3267v2.py:173] 2020-12-11 00:04:59,073 > Fail to get information from a node : 10 None
+[INFO|mate_ksx3267v2.py:114] 2020-12-11 00:04:59,679 > read register: 11 2 6
+[WARNING|mate_ksx3267v2.py:119] 2020-12-11 00:04:59,680 > fail to read holding registers. : Modbus Error: [Connection] Failed to connect[ModbusSerialClient(rtu baud[9600])]
+[INFO|mate_ksx3267v2.py:114] 2020-12-11 00:05:00,181 > read register: 11 2 6
+[WARNING|mate_ksx3267v2.py:119] 2020-12-11 00:05:00,182 > fail to read holding registers. : Modbus Error: [Connection] Failed to connect[ModbusSerialClient(rtu baud[9600])]
+[INFO|mate_ksx3267v2.py:114] 2020-12-11 00:05:00,683 > read register: 11 2 6
+[WARNING|mate_ksx3267v2.py:119] 2020-12-11 00:05:00,683 > fail to read holding registers. : Modbus Error: [Connection] Failed to connect[ModbusSerialClient(rtu baud[9600])]
+[INFO|mate_ksx3267v2.py:173] 2020-12-11 00:05:00,683 > Fail to get information from a node : 11 None
+[INFO|mate_ksx3267v2.py:114] 2020-12-11 00:05:01,288 > read register: 1 2 6
+[WARNING|mate_ksx3267v2.py:119] 2020-12-11 00:05:01,289 > fail to read holding registers. : Modbus Error: [Connection] Failed to connect[ModbusSerialClient(rtu baud[9600])]
+[INFO|mate_ksx3267v2.py:114] 2020-12-11 00:05:01,790 > read register: 1 2 6
+[WARNING|mate_ksx3267v2.py:119] 2020-12-11 00:05:01,791 > fail to read holding registers. : Modbus Error: [Connection] Failed to connect[ModbusSerialClient(rtu baud[9600])]
+[INFO|mate_ksx3267v2.py:114] 2020-12-11 00:05:02,292 > read register: 1 2 6
+[WARNING|mate_ksx3267v2.py:119] 2020-12-11 00:05:02,293 > fail to read holding registers. : Modbus Error: [Connection] Failed to connect[ModbusSerialClient(rtu baud[9600])]
+[INFO|mate_ksx3267v2.py:173] 2020-12-11 00:05:02,293 > Fail to get information from a node : 1 None
+[INFO|mate_ksx3267v2.py:114] 2020-12-11 00:05:02,900 > read register: 2 2 6
+[WARNING|mate_ksx3267v2.py:119] 2020-12-11 00:05:02,901 > fail to read holding registers. : Modbus Error: [Connection] Failed to connect[ModbusSerialClient(rtu baud[9600])]
+[INFO|mate_ksx3267v2.py:114] 2020-12-11 00:05:03,402 > read register: 2 2 6
+[WARNING|mate_ksx3267v2.py:119] 2020-12-11 00:05:03,403 > fail to read holding registers. : Modbus Error: [Connection] Failed to connect[ModbusSerialClient(rtu baud[9600])]
+[INFO|mate_ksx3267v2.py:114] 2020-12-11 00:05:03,904 > read register: 2 2 6
+[WARNING|mate_ksx3267v2.py:119] 2020-12-11 00:05:03,905 > fail to read holding registers. : Modbus Error: [Connection] Failed to connect[ModbusSerialClient(rtu baud[9600])]
+[INFO|mate_ksx3267v2.py:173] 2020-12-11 00:05:03,905 > Fail to get information from a node : 2 None
+[INFO|mate_ksx3267v2.py:114] 2020-12-11 00:05:04,511 > read register: 3 2 6
+[WARNING|mate_ksx3267v2.py:119] 2020-12-11 00:05:04,512 > fail to read holding registers. : Modbus Error: [Connection] Failed to connect[ModbusSerialClient(rtu baud[9600])]
+[INFO|mate_ksx3267v2.py:114] 2020-12-11 00:05:05,013 > read register: 3 2 6
+[WARNING|mate_ksx3267v2.py:119] 2020-12-11 00:05:05,014 > fail to read holding registers. : Modbus Error: [Connection] Failed to connect[ModbusSerialClient(rtu baud[9600])]
+[INFO|mate_ksx3267v2.py:114] 2020-12-11 00:05:05,515 > read register: 3 2 6
+[WARNING|mate_ksx3267v2.py:119] 2020-12-11 00:05:05,515 > fail to read holding registers. : Modbus Error: [Connection] Failed to connect[ModbusSerialClient(rtu baud[9600])]
+[INFO|mate_ksx3267v2.py:173] 2020-12-11 00:05:05,516 > Fail to get information from a node : 3 None
+[INFO|mate_ksx3267v2.py:114] 2020-12-11 00:05:06,120 > read register: 4 2 6
+[WARNING|mate_ksx3267v2.py:119] 2020-12-11 00:05:06,121 > fail to read holding registers. : Modbus Error: [Connection] Failed to connect[ModbusSerialClient(rtu baud[9600])]
+[INFO|mate_ksx3267v2.py:114] 2020-12-11 00:05:06,622 > read register: 4 2 6
+[WARNING|mate_ksx3267v2.py:119] 2020-12-11 00:05:06,623 > fail to read holding registers. : Modbus Error: [Connection] Failed to connect[ModbusSerialClient(rtu baud[9600])]
+[INFO|mate_ksx3267v2.py:114] 2020-12-11 00:05:07,124 > read register: 4 2 6
+[WARNING|mate_ksx3267v2.py:119] 2020-12-11 00:05:07,125 > fail to read holding registers. : Modbus Error: [Connection] Failed to connect[ModbusSerialClient(rtu baud[9600])]
+[INFO|mate_ksx3267v2.py:173] 2020-12-11 00:05:07,125 > Fail to get information from a node : 4 None
+[INFO|mate_ksx3267v2.py:114] 2020-12-11 00:05:07,731 > read register: 5 2 6
+[WARNING|mate_ksx3267v2.py:119] 2020-12-11 00:05:07,732 > fail to read holding registers. : Modbus Error: [Connection] Failed to connect[ModbusSerialClient(rtu baud[9600])]
+[INFO|mate_ksx3267v2.py:114] 2020-12-11 00:05:08,233 > read register: 5 2 6
+[WARNING|mate_ksx3267v2.py:119] 2020-12-11 00:05:08,233 > fail to read holding registers. : Modbus Error: [Connection] Failed to connect[ModbusSerialClient(rtu baud[9600])]
+[INFO|mate_ksx3267v2.py:114] 2020-12-11 00:05:08,734 > read register: 5 2 6
+[WARNING|mate_ksx3267v2.py:119] 2020-12-11 00:05:08,735 > fail to read holding registers. : Modbus Error: [Connection] Failed to connect[ModbusSerialClient(rtu baud[9600])]
+[INFO|mate_ksx3267v2.py:173] 2020-12-11 00:05:08,735 > Fail to get information from a node : 5 None
+[INFO|mate_ksx3267v2.py:114] 2020-12-11 00:05:09,341 > read register: 6 2 6
+[WARNING|mate_ksx3267v2.py:119] 2020-12-11 00:05:09,342 > fail to read holding registers. : Modbus Error: [Connection] Failed to connect[ModbusSerialClient(rtu baud[9600])]
+[INFO|mate_ksx3267v2.py:114] 2020-12-11 00:05:09,843 > read register: 6 2 6
+[WARNING|mate_ksx3267v2.py:119] 2020-12-11 00:05:09,844 > fail to read holding registers. : Modbus Error: [Connection] Failed to connect[ModbusSerialClient(rtu baud[9600])]
+[INFO|mate_ksx3267v2.py:114] 2020-12-11 00:05:10,345 > read register: 6 2 6
+[WARNING|mate_ksx3267v2.py:119] 2020-12-11 00:05:10,345 > fail to read holding registers. : Modbus Error: [Connection] Failed to connect[ModbusSerialClient(rtu baud[9600])]
+[INFO|mate_ksx3267v2.py:173] 2020-12-11 00:05:10,345 > Fail to get information from a node : 6 None
+[INFO|mate_ksx3267v2.py:114] 2020-12-11 00:05:10,950 > read register: 7 2 6
+[WARNING|mate_ksx3267v2.py:119] 2020-12-11 00:05:10,951 > fail to read holding registers. : Modbus Error: [Connection] Failed to connect[ModbusSerialClient(rtu baud[9600])]
+[INFO|mate_ksx3267v2.py:114] 2020-12-11 00:05:11,452 > read register: 7 2 6
+[WARNING|mate_ksx3267v2.py:119] 2020-12-11 00:05:11,453 > fail to read holding registers. : Modbus Error: [Connection] Failed to connect[ModbusSerialClient(rtu baud[9600])]
+[INFO|mate_ksx3267v2.py:114] 2020-12-11 00:05:11,954 > read register: 7 2 6
+[WARNING|mate_ksx3267v2.py:119] 2020-12-11 00:05:11,954 > fail to read holding registers. : Modbus Error: [Connection] Failed to connect[ModbusSerialClient(rtu baud[9600])]
+[INFO|mate_ksx3267v2.py:173] 2020-12-11 00:05:11,955 > Fail to get information from a node : 7 None
+[INFO|mate_ksx3267v2.py:114] 2020-12-11 00:05:12,560 > read register: 8 2 6
+[WARNING|mate_ksx3267v2.py:119] 2020-12-11 00:05:12,561 > fail to read holding registers. : Modbus Error: [Connection] Failed to connect[ModbusSerialClient(rtu baud[9600])]
+[INFO|mate_ksx3267v2.py:114] 2020-12-11 00:05:13,062 > read register: 8 2 6
+[WARNING|mate_ksx3267v2.py:119] 2020-12-11 00:05:13,062 > fail to read holding registers. : Modbus Error: [Connection] Failed to connect[ModbusSerialClient(rtu baud[9600])]
+[INFO|mate_ksx3267v2.py:114] 2020-12-11 00:05:13,563 > read register: 8 2 6
+[WARNING|mate_ksx3267v2.py:119] 2020-12-11 00:05:13,563 > fail to read holding registers. : Modbus Error: [Connection] Failed to connect[ModbusSerialClient(rtu baud[9600])]
+[INFO|mate_ksx3267v2.py:173] 2020-12-11 00:05:13,564 > Fail to get information from a node : 8 None
+[INFO|mate_ksx3267v2.py:114] 2020-12-11 00:05:14,167 > read register: 9 2 6
+[WARNING|mate_ksx3267v2.py:119] 2020-12-11 00:05:14,168 > fail to read holding registers. : Modbus Error: [Connection] Failed to connect[ModbusSerialClient(rtu baud[9600])]
+[INFO|mate_ksx3267v2.py:114] 2020-12-11 00:05:14,669 > read register: 9 2 6
+[WARNING|mate_ksx3267v2.py:119] 2020-12-11 00:05:14,669 > fail to read holding registers. : Modbus Error: [Connection] Failed to connect[ModbusSerialClient(rtu baud[9600])]
+[INFO|mate_ksx3267v2.py:114] 2020-12-11 00:05:15,170 > read register: 9 2 6
+[WARNING|mate_ksx3267v2.py:119] 2020-12-11 00:05:15,171 > fail to read holding registers. : Modbus Error: [Connection] Failed to connect[ModbusSerialClient(rtu baud[9600])]
+[INFO|mate_ksx3267v2.py:173] 2020-12-11 00:05:15,172 > Fail to get information from a node : 9 None
+[INFO|mate_ksx3267v2.py:114] 2020-12-11 00:05:15,777 > read register: 10 2 6
+[WARNING|mate_ksx3267v2.py:119] 2020-12-11 00:05:15,778 > fail to read holding registers. : Modbus Error: [Connection] Failed to connect[ModbusSerialClient(rtu baud[9600])]
+[INFO|mate_ksx3267v2.py:114] 2020-12-11 00:05:16,279 > read register: 10 2 6
+[WARNING|mate_ksx3267v2.py:119] 2020-12-11 00:05:16,280 > fail to read holding registers. : Modbus Error: [Connection] Failed to connect[ModbusSerialClient(rtu baud[9600])]
+[INFO|mate_ksx3267v2.py:114] 2020-12-11 00:05:16,781 > read register: 10 2 6
+[WARNING|mate_ksx3267v2.py:119] 2020-12-11 00:05:16,782 > fail to read holding registers. : Modbus Error: [Connection] Failed to connect[ModbusSerialClient(rtu baud[9600])]
+[INFO|mate_ksx3267v2.py:173] 2020-12-11 00:05:16,782 > Fail to get information from a node : 10 None
+[INFO|mate_ksx3267v2.py:114] 2020-12-11 00:05:17,388 > read register: 11 2 6
+[WARNING|mate_ksx3267v2.py:119] 2020-12-11 00:05:17,389 > fail to read holding registers. : Modbus Error: [Connection] Failed to connect[ModbusSerialClient(rtu baud[9600])]
+[INFO|mate_ksx3267v2.py:114] 2020-12-11 00:05:17,890 > read register: 11 2 6
+[WARNING|mate_ksx3267v2.py:119] 2020-12-11 00:05:17,890 > fail to read holding registers. : Modbus Error: [Connection] Failed to connect[ModbusSerialClient(rtu baud[9600])]
+[INFO|mate_ksx3267v2.py:114] 2020-12-11 00:05:18,391 > read register: 11 2 6
+[WARNING|mate_ksx3267v2.py:119] 2020-12-11 00:05:18,392 > fail to read holding registers. : Modbus Error: [Connection] Failed to connect[ModbusSerialClient(rtu baud[9600])]
+[INFO|mate_ksx3267v2.py:173] 2020-12-11 00:05:18,393 > Fail to get information from a node : 11 None
+[INFO|mate_ksx3267v2.py:131] 2020-12-11 00:05:18,496 > finished to detect devices : {u'USB0': {}, u'USB1': {}}
+[INFO|couplemng.py:94] 2020-12-11 04:05:21,928 > Couple Manager tries to stop
+[INFO|daemon.py:188] 2020-12-11 04:05:21,929 > Trying to stop a process 3874
+[INFO|daemon.py:189] 2020-12-11 04:05:21,929 > It might take a minute.
+[WARNING|daemon.py:149] 2020-12-13 18:55:51,209 > Check for a pidfile to see if the daemon already runs
+
+[WARNING|daemon.py:150] 2020-12-13 18:55:51,209 > /var/run/cpmng.pid
+
+[WARNING|daemon.py:116] 2020-12-13 18:55:51,210 > Entering daemon mode (1038)
+
+[DEBUG|daemon.py:36] 2020-12-13 18:55:51,211 > initialized....
+[INFO|couplemng.py:111] 2020-12-13 18:55:51,215 > A new couple [시험온실#1] is loading.
+[INFO|couplemng.py:80] 2020-12-13 18:55:51,261 > load a mate : FarmosMate 4157859e-df55-48e5-b3ac-8e6288f2165e
+[INFO|calibration.py:46] 2020-12-13 18:55:51,262 > There is no information of calibration
+[INFO|couplemng.py:70] 2020-12-13 18:55:51,262 > A ssmate [mate_farmos/FarmosMate] is loading.
+[INFO|couplemng.py:80] 2020-12-13 18:55:51,284 > load a mate : KSX3267MateV2 4157859e-df55-48e5-b3ac-8e6288f2165e
+[INFO|calibration.py:46] 2020-12-13 18:55:51,285 > There is no information of calibration
+[INFO|mate.py:171] 2020-12-13 18:55:51,285 > Mate Started.
+[INFO|mate_ksx3267v2.py:60] 2020-12-13 18:55:51,285 > KSX3267MateV2 Started.
+[INFO|couplemng.py:72] 2020-12-13 18:55:51,285 > A dsmate [mate_ksx3267v2/KSX3267MateV2] is loading.
+[WARNING|mate_ksx3267v2.py:280] 2020-12-13 18:55:51,287 > failed to connect with rtu
+[WARNING|mate_ksx3267v2.py:280] 2020-12-13 18:55:51,288 > failed to connect with rtu
+[INFO|mate.py:141] 2020-12-13 18:55:51,289 > sleep 10 seconds and try to connect
